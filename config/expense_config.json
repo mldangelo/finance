@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated": "2025-12-17",
+    "description": "Expense tracking configuration for Promptfoo reimbursements"
+  },
+  "company": {
+    "name": "Promptfoo",
+    "office_address": {
+      "street": "107 S B St #200",
+      "city": "San Mateo",
+      "state": "CA",
+      "zip": "94401"
+    }
+  },
+  "employee": {
+    "name": "Michael D'Angelo",
+    "locations": {
+      "primary_home": {
+        "street": "61 W 8th St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10011"
+      },
+      "secondary_home": {
+        "street": "280 Western Ave Apt 201",
+        "city": "Allston",
+        "state": "MA",
+        "zip": "02134"
+      }
+    }
+  },
+  "payment_sources": {
+    "chase": {
+      "name": "Chase Visa",
+      "last_four": "2030",
+      "typical_use": ["equipment", "meals", "software", "ground_transportation"]
+    },
+    "amex": {
+      "name": "American Express",
+      "typical_use": ["infrastructure", "flights", "hotels", "large_purchases"]
+    }
+  },
+  "categories": {
+    "infrastructure": {
+      "subcategories": ["Cloud Services", "API Services", "Remote Work", "Coworking", "Security"],
+      "priority": "critical"
+    },
+    "equipment": {
+      "subcategories": ["Computer", "Computer Monitors", "Computer Peripherals", "Office Furniture", "Office Tech", "Office Supplies", "Office Appliances", "Office Security", "Office Equipment", "Office Decor", "Travel Accessories"],
+      "priority": "high"
+    },
+    "travel": {
+      "subcategories": ["Flights", "Hotels", "Ground Transportation", "Parking"],
+      "priority": "high"
+    },
+    "software": {
+      "subcategories": ["AI Tools", "HR Tools", "Cloud Storage", "Communication", "Security"],
+      "priority": "medium"
+    },
+    "meals": {
+      "subcategories": ["Working Meals", "Team Meals", "Coffee", "Groceries"],
+      "priority": "low"
+    },
+    "professional_development": {
+      "subcategories": ["Conferences", "Books"],
+      "priority": "medium"
+    }
+  },
+  "location_rules": {
+    "san_mateo_bay_area": {
+      "include_all": true,
+      "cities": ["San Mateo", "Burlingame", "Palo Alto", "San Francisco", "Daly City", "Redwood City", "Mountain View", "Menlo Park"],
+      "rationale": "Office location - all expenses are business"
+    },
+    "new_york": {
+      "include_all": false,
+      "include": ["work_hour_meals", "late_night_meals", "airport_transit", "home_office_supplies"],
+      "exclude": ["groceries", "personal_meals", "weekend_activities"],
+      "rationale": "Remote work location - selective inclusion"
+    },
+    "boston": {
+      "include_all": false,
+      "include": ["work_hour_meals", "business_transit", "home_office_supplies"],
+      "exclude": ["groceries", "personal_meals"],
+      "rationale": "Secondary remote location"
+    }
+  },
+  "doordash_rules": {
+    "california_indicator": "855-431-0459 CA",
+    "always_include_ca": true,
+    "nyc_wegmans_exclude": true,
+    "nyc_review_required": true
+  },
+  "recurring_subscriptions": [
+    {"merchant": "Google Cloud", "amount": 14500, "card": "amex", "frequency": "monthly", "category": "Infrastructure", "subcategory": "Cloud Services"},
+    {"merchant": "Anthropic", "amount_range": [1500, 2500], "card": "amex", "frequency": "monthly", "category": "Infrastructure", "subcategory": "API Services"},
+    {"merchant": "Claude.ai", "amount": 217.75, "card": "amex", "frequency": "monthly", "category": "Software", "subcategory": "AI Tools"},
+    {"merchant": "Recruit Pro", "amount": 149.00, "card": "amex", "frequency": "monthly", "category": "Software", "subcategory": "HR Tools"},
+    {"merchant": "OpenAI ChatGPT", "amount": 217.75, "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "AI Tools"},
+    {"merchant": "Comcast/Xfinity", "amount_range": [219, 370], "card": "chase", "frequency": "monthly", "category": "Infrastructure", "subcategory": "Remote Work"},
+    {"merchant": "Perplexity.AI", "amount": 21.78, "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "AI Tools"},
+    {"merchant": "UseTusk.AI", "amount": 125.00, "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "AI Tools"},
+    {"merchant": "Google One", "amount": 21.76, "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "Cloud Storage"},
+    {"merchant": "Google Colab", "amount": 10.88, "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "AI Tools"},
+    {"merchant": "Cursor", "amount": 10.89, "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "AI Tools"},
+    {"merchant": "Babelcloud/Gru.AI", "amount": 19.90, "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "AI Tools"},
+    {"merchant": "Zoom", "amount_range": [30, 70], "card": "chase", "frequency": "monthly", "category": "Software", "subcategory": "Communication"}
+  ],
+  "gmail_sources": {
+    "amazon": {
+      "sender": "auto-confirm@amazon.com",
+      "subject_pattern": "shipped|delivered",
+      "content_type": "order_confirmation"
+    },
+    "doordash": {
+      "sender": "no-reply@doordash.com",
+      "subject_pattern": "receipt|order",
+      "content_type": "delivery_receipt"
+    },
+    "square": {
+      "sender": "messenger@messaging.squareup.com",
+      "subject_pattern": "receipt",
+      "content_type": "pos_receipt"
+    },
+    "uber": {
+      "sender": "receipts@uber.com",
+      "subject_pattern": "trip|ride",
+      "content_type": "ride_receipt"
+    },
+    "lyft": {
+      "sender": "no-reply@lyftmail.com",
+      "subject_pattern": "ride|receipt",
+      "content_type": "ride_receipt"
+    },
+    "delta": {
+      "sender": "deltaairlines@t.delta.com",
+      "subject_pattern": "confirmation|itinerary",
+      "content_type": "flight_confirmation"
+    }
+  },
+  "priority_thresholds": {
+    "critical": {"min": 1000, "categories": ["Infrastructure"]},
+    "high": {"min": 200, "max": 1000},
+    "medium": {"min": 50, "max": 200},
+    "low": {"max": 50}
+  },
+  "csv_schema": {
+    "columns": [
+      "id", "date", "merchant", "description", "amount", "category", "subcategory",
+      "source_card", "receipt_status", "receipt_email_id", "receipt_email_subject",
+      "receipt_file", "email_search_query", "submission_status", "priority",
+      "business_purpose", "notes"
+    ],
+    "id_format": "EXP-YYYY-MM-DD-NNN",
+    "date_format": "YYYY-MM-DD"
+  },
+  "files": {
+    "main_csv": "expenses_to_submit.csv",
+    "reconciliation": "expense_reconciliation.md",
+    "ramp_history": "michael_dangelo_expenses.csv",
+    "summary": "EXPENSE_SUMMARY_2025.md"
+  }
+}
