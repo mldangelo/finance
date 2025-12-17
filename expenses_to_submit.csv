@@ -216,3 +216,30 @@ EXP-2025-10-30-004,2025-10-30,Amazon,igloohome Keybox + D-Line Floor Cord Cover,
 EXP-2025-10-30-005,2025-10-30,Amazon,Blink Doorbell + KEY-BAK Accessories,81.00,Equipment,Office Security,Chase,found,19a3670002208d3a,Ordered: igloohome Keybox 3E Smart...,,from:auto-confirm@amazon.com,pending,medium,San Mateo office security,Delivered to San Mateo
 EXP-2025-11-29-002,2025-11-29,Amazon,Anker Power Bank + Window Alarms,109.60,Equipment,Office Tech,Chase,found,19ad09693ad61ee5,Ordered: Anker Laptop Power Bank...,,from:auto-confirm@amazon.com,pending,medium,San Mateo office equipment,Delivered to San Mateo
 EXP-2025-12-08-002,2025-12-08,Amazon,If Anyone Builds It Everyone Dies (AI Safety Book),26.13,Books,Professional Development,Chase,found,19afb67a132c2524,Ordered: If Anyone Builds It...,,from:auto-confirm@amazon.com,pending,medium,AI safety book - relevant to Promptfoo work,Shipped to NYC
+EXP-2025-08-02-001,2025-08-02,Comcast/Xfinity,Internet Service (includes setup),369.22,Infrastructure,Remote Work,Chase,pending,,,,,pending,medium,Remote work internet infrastructure,Initial setup month
+EXP-2025-09-03-003,2025-09-03,Comcast/Xfinity,Internet Service,219.27,Infrastructure,Remote Work,Chase,pending,,,,,pending,medium,Remote work internet infrastructure,Monthly service
+EXP-2025-10-03-003,2025-10-03,Comcast/Xfinity,Internet Service,219.27,Infrastructure,Remote Work,Chase,pending,,,,,pending,medium,Remote work internet infrastructure,Monthly service
+EXP-2025-11-03-003,2025-11-03,Comcast/Xfinity,Internet Service,219.27,Infrastructure,Remote Work,Chase,pending,,,,,pending,medium,Remote work internet infrastructure,Monthly service
+EXP-2025-08-04-001,2025-08-04,WeWork,Coworking Space Day Pass,29.00,Infrastructure,Coworking,Chase,pending,,,,,pending,low,Coworking space for meetings,Day pass
+EXP-2025-10-06-001,2025-10-06,WeWork,Coworking Space Day Pass,39.00,Infrastructure,Coworking,Chase,pending,,,,,pending,low,Coworking space for meetings,Day pass
+EXP-2025-08-08-002,2025-08-08,Google Colab,AI Development Tools,10.88,Software,AI Tools,Chase,pending,,,,,pending,low,AI/ML development platform,Monthly subscription
+EXP-2025-09-08-001,2025-09-08,Google Colab,AI Development Tools,10.88,Software,AI Tools,Chase,pending,,,,,pending,low,AI/ML development platform,Monthly subscription
+EXP-2025-10-08-002,2025-10-08,Google Colab,AI Development Tools,10.88,Software,AI Tools,Chase,pending,,,,,pending,low,AI/ML development platform,Monthly subscription
+EXP-2025-11-08-004,2025-11-08,Google Colab,AI Development Tools,10.88,Software,AI Tools,Chase,pending,,,,,pending,low,AI/ML development platform,Monthly subscription
+EXP-2025-08-10-003,2025-08-10,Google One,Cloud Storage,21.76,Software,Cloud Storage,Chase,pending,,,,,pending,low,Cloud storage for work files,Monthly subscription
+EXP-2025-09-10-001,2025-09-10,Google One,Cloud Storage,21.76,Software,Cloud Storage,Chase,pending,,,,,pending,low,Cloud storage for work files,Monthly subscription
+EXP-2025-10-10-001,2025-10-10,Google One,Cloud Storage,21.76,Software,Cloud Storage,Chase,pending,,,,,pending,low,Cloud storage for work files,Monthly subscription
+EXP-2025-11-10-002,2025-11-10,Google One,Cloud Storage,21.76,Software,Cloud Storage,Chase,pending,,,,,pending,low,Cloud storage for work files,Monthly subscription
+EXP-2025-08-13-003,2025-08-13,Babelcloud/Gru.AI,AI Assistant Subscription,19.90,Software,AI Tools,Chase,pending,,,,,pending,low,AI development tools,Monthly subscription
+EXP-2025-09-13-005,2025-09-13,Babelcloud/Gru.AI,AI Assistant Subscription,19.90,Software,AI Tools,Chase,pending,,,,,pending,low,AI development tools,Monthly subscription
+EXP-2025-10-13-004,2025-10-13,Babelcloud/Gru.AI,AI Assistant Subscription,19.90,Software,AI Tools,Chase,pending,,,,,pending,low,AI development tools,Monthly subscription
+EXP-2025-11-13-003,2025-11-13,Babelcloud/Gru.AI,AI Assistant Subscription,19.90,Software,AI Tools,Chase,pending,,,,,pending,low,AI development tools,Monthly subscription
+EXP-2025-08-05-001,2025-08-05,Replicate,AI Model Hosting,5.05,Software,AI Tools,Chase,pending,,,,,pending,low,AI model hosting platform,Usage-based
+EXP-2025-08-05-002,2025-08-05,Replicate,AI Model Hosting,12.25,Software,AI Tools,Chase,pending,,,,,pending,low,AI model hosting platform,Usage-based
+EXP-2025-09-05-003,2025-09-05,Replicate,AI Model Hosting,0.50,Software,AI Tools,Chase,pending,,,,,pending,low,AI model hosting platform,Usage-based
+EXP-2025-08-10-004,2025-08-10,Cursor,AI Code Editor,10.89,Software,AI Tools,Chase,pending,,,,,pending,low,AI-powered code editor,Monthly subscription
+EXP-2025-09-17-005,2025-09-17,GitHub Universe,Developer Conference,99.00,Professional Development,Conferences,Chase,pending,,,,,pending,medium,GitHub Universe developer conference,Conference ticket
+EXP-2025-10-25-004,2025-10-25,ElevenLabs,AI Voice Generation,11.98,Software,AI Tools,Amex,pending,,,,,pending,low,AI voice generation for demos,Monthly subscription
+EXP-2025-11-25-004,2025-11-25,ElevenLabs,AI Voice Generation,23.95,Software,AI Tools,Amex,pending,,,,,pending,low,AI voice generation for demos,Monthly subscription
+EXP-2025-08-01-002,2025-08-01,City of San Mateo,Parking - San Mateo Downtown,43.58,Travel,Parking,Chase,pending,,,,,pending,low,Business parking - San Mateo office area,Multiple parking sessions
+EXP-2025-08-01-003,2025-08-01,PayByPhone,Parking - Various SF Bay Area,33.54,Travel,Parking,Chase,pending,,,,,pending,low,Business parking - Bay Area,Multiple parking sessions
