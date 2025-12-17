@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "gmail": {
+      "command": "npx",
+      "args": ["@gongrzhe/server-gmail-autoauth-mcp"]
+    },
+    "ramp": {
+      "command": "npx",
+      "args": ["mcp-remote", "https://mcp.ramp.com/mcp"]
+    }
+  }
+}

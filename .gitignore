@@ -1,0 +1,18 @@
+# Credentials and secrets
+*.keys.json
+credentials.json
+.env
+.env.*
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
