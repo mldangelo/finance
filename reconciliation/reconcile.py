@@ -37,9 +37,21 @@ SCHEMA_PATH = Path(__file__).parent / "schema.sql"
 PROJECT_ROOT = Path(__file__).parent.parent
 
 # Matching configuration
-DATE_TOLERANCE_DAYS = 3  # Allow dates to differ by up to 3 days
+DATE_TOLERANCE_DAYS = 7  # Allow dates to differ by up to 7 days (CC posting delay)
 AMOUNT_TOLERANCE = Decimal("0.01")  # Allow 1 cent difference
-FUZZY_MATCH_THRESHOLD = 0.8  # 80% similarity for merchant names
+FUZZY_MATCH_THRESHOLD = 0.6  # 60% similarity for merchant names
+
+# Merchant name aliases for better matching
+MERCHANT_ALIASES = {
+    'amazon': ['amazon', 'amzn', 'amz mktpl'],
+    'doordash': ['doordash', 'dd *'],
+    'uber': ['uber', 'uber *'],
+    'lyft': ['lyft', 'lyft *'],
+    'hotels': ['hotels.com', 'hotelcom', 'hoteltonight'],
+    'delta': ['delta', 'delta air'],
+    'google': ['google', 'google cloud', 'gcp'],
+    'anthropic': ['anthropic', 'claude'],
+}
 
 
 @dataclass
@@ -648,7 +660,8 @@ class ReconciliationEngine:
         already_reimbursed = []
 
         for exp in expenses:
-            match = self._find_best_match(exp, ramp_txs)
+            # Use stricter matching for Ramp (30-day tolerance instead of default)
+            match = self._find_best_match_strict(exp, ramp_txs, max_days=30)
             if match:
                 matched.append((exp['id'], match['id'], match['confidence']))
                 already_reimbursed.append(exp)
@@ -839,27 +852,107 @@ class ReconciliationEngine:
                 # Calculate confidence score
                 confidence = 0
 
-                # Amount match (40 points)
+                # Amount match (50 points - most important)
                 amount_diff = abs(tx_amount - cand_amount)
                 if amount_diff <= AMOUNT_TOLERANCE:
-                    confidence += 40
+                    confidence += 50
                 elif amount_diff <= Decimal("1.00"):
-                    confidence += 30
+                    confidence += 40
+                elif amount_diff <= Decimal("5.00"):
+                    confidence += 20
 
                 # Date match (30 points)
                 date_diff = abs((tx_date - cand_date).days)
                 if date_diff == 0:
                     confidence += 30
+                elif date_diff <= 3:
+                    confidence += 25
                 elif date_diff <= DATE_TOLERANCE_DAYS:
-                    confidence += 20
-                elif date_diff <= 7:
-                    confidence += 10
+                    confidence += 15
+                elif date_diff <= 14:
+                    confidence += 5
 
-                # Merchant match (30 points)
-                merchant_sim = levenshtein_similarity(tx_merchant, cand_merchant)
-                confidence += int(merchant_sim * 30)
+                # Merchant match (20 points)
+                merchant_sim = self._merchant_similarity(tx_merchant, cand_merchant)
+                confidence += int(merchant_sim * 20)
 
                 if confidence > best_confidence and confidence >= 60:
+                    best_confidence = confidence
+                    best_match = {'id': candidate['id'], 'confidence': confidence}
+
+            except (ValueError, TypeError):
+                continue
+
+        return best_match
+
+    def _merchant_similarity(self, merchant1: str, merchant2: str) -> float:
+        """Calculate merchant similarity with alias support."""
+        m1_lower = merchant1.lower()
+        m2_lower = merchant2.lower()
+
+        # Check for exact match
+        if m1_lower == m2_lower:
+            return 1.0
+
+        # Check if one contains the other
+        if m1_lower in m2_lower or m2_lower in m1_lower:
+            return 0.9
+
+        # Check aliases
+        for base_name, aliases in MERCHANT_ALIASES.items():
+            m1_matches = any(alias in m1_lower for alias in aliases)
+            m2_matches = any(alias in m2_lower for alias in aliases)
+            if m1_matches and m2_matches:
+                return 0.95
+
+        # Fall back to levenshtein
+        return levenshtein_similarity(merchant1, merchant2)
+
+    def _find_best_match_strict(self, transaction: sqlite3.Row, candidates: List[sqlite3.Row], max_days: int = 30) -> Optional[Dict]:
+        """Find best matching transaction with strict date tolerance."""
+        best_match = None
+        best_confidence = 0
+
+        tx_date = datetime.strptime(transaction['transaction_date'], "%Y-%m-%d")
+        tx_amount = Decimal(str(transaction['amount']))
+        tx_merchant = transaction['merchant_name_normalized']
+
+        for candidate in candidates:
+            try:
+                cand_date = datetime.strptime(candidate['transaction_date'], "%Y-%m-%d")
+                cand_amount = Decimal(str(candidate['amount']))
+                cand_merchant = candidate['merchant_name_normalized']
+
+                # Strict date check - reject if too far apart
+                date_diff = abs((tx_date - cand_date).days)
+                if date_diff > max_days:
+                    continue
+
+                # Calculate confidence score
+                confidence = 0
+
+                # Amount match (60 points - critical for reimbursement matching)
+                amount_diff = abs(tx_amount - cand_amount)
+                if amount_diff <= AMOUNT_TOLERANCE:
+                    confidence += 60
+                elif amount_diff <= Decimal("1.00"):
+                    confidence += 40
+                else:
+                    continue  # Skip if amounts don't match closely
+
+                # Date match (20 points)
+                if date_diff == 0:
+                    confidence += 20
+                elif date_diff <= 7:
+                    confidence += 15
+                elif date_diff <= max_days:
+                    confidence += 10
+
+                # Merchant match (20 points)
+                merchant_sim = self._merchant_similarity(tx_merchant, cand_merchant)
+                confidence += int(merchant_sim * 20)
+
+                if confidence > best_confidence and confidence >= 70:
                     best_confidence = confidence
                     best_match = {'id': candidate['id'], 'confidence': confidence}
 
