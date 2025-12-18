@@ -1,0 +1,399 @@
+id,date,merchant,description,amount,category,subcategory,source_card,receipt_status,receipt_email_id,receipt_email_subject,receipt_file,email_search_query,submission_status,priority,business_purpose,notes
+BF-20250102-001,2025-01-02,Amazon,Amazon - Supplies,412.51,Equipment,Supplies,Amex,pending,,,,,pending,high,Business supplies,Backfill: Amazon Web Services AWS.Amazon.com      WA
+BF-20250102-002,2025-01-02,Southwest,Southwest - Airlines,114.80,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: Southwest Airlines  DALLAS              TX
+BF-20250102-003,2025-01-02,Southwest,Southwest - Airlines,114.80,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: Southwest Airlines  DALLAS              TX
+BF-20250102-004,2025-01-02,Southwest,Southwest - Airlines,114.80,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: Southwest Airlines  DALLAS              TX
+BF-20250102-005,2025-01-02,Southwest,Southwest - Airlines,114.80,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: Southwest Airlines  DALLAS              TX
+BF-20250102-006,2025-01-02,Amazon,Amazon - Supplies,0.05,Equipment,Supplies,Amex,pending,,,,,pending,medium,Business supplies,Backfill: Amazon Web Services AWS.Amazon.com      WA
+BF-20250104-001,2025-01-04,Apple,Apple - Hardware,14.38,Equipment,Hardware,Amex,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL      INTERNET CHARGE     CA
+BF-20250106-001,2025-01-06,Palo,Palo - Restaurant,26.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *PALO ALTO Palo Alto CA
+BF-20250107-002,2025-01-07,DoorDash,DoorDash - Delivery,143.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH COUPACAFE 855-431-0459 CA
+BF-20250107-001,2025-01-07,Verve,Verve - Restaurant,22.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *VERVE COFFEE ROASTERS Palo Alto CA
+BF-20250109-002,2025-01-09,Aplpay,Aplpay - Other,40.05,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AplPay WURSTHALL    SAN MATEO           CA
+BF-20250109-001,2025-01-09,Google,Google - Other,21.76,Meals,Other,Chase,pending,,,,,pending,medium,Business other,Backfill: GOOGLE *ONE AI Premium g.co/helppay# CA
+BF-20250110-001,2025-01-10,DoorDash,DoorDash - Delivery,137.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH ELSINALOE WWW.DOORDASH. CA
+BF-20250111-001,2025-01-11,DoorDash,DoorDash - Delivery,21.17,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250112-001,2025-01-12,Bedford,Bedford - Restaurant,64.08,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*BEDFORD GARDENS Brooklyn NY
+BF-20250112-002,2025-01-12,DoorDash,DoorDash - Delivery,28.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250113-001,2025-01-13,Amazon,Amazon - Supplies,76.17,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*Z52EO5IM2 Amzn.com/bill WA
+BF-20250115-002,2025-01-15,Don,Don - Restaurant,168.83,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DON ANGIE New York NY
+BF-20250115-001,2025-01-15,Amazon,Amazon - Supplies,65.31,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*ZG2US2PN2 Amzn.com/bill WA
+BF-20250116-001,2025-01-16,Hamburger,Hamburger - Restaurant,65.04,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250117-001,2025-01-17,Amazon,Amazon - Supplies,62.69,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*ZG8F44832 Amzn.com/bill WA
+BF-20250118-001,2025-01-18,DoorDash,DoorDash - Delivery,28.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250119-001,2025-01-19,Square,Square - Restaurant,76.68,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *SQUARE DINER New York NY
+BF-20250119-002,2025-01-19,Aplpay,Aplpay - Other,19.58,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AplPay AMC 2112 TH SNEW YORK            NY
+BF-20250120-001,2025-01-20,Aplpay,Aplpay - Other,20.00,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AplPay CLIPPER SYSTECONCORD             CA
+BF-20250120-002,2025-01-20,Amc,Amc - Other,19.99,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AMC 9640 ONLINE*9640LEAWOOD             KS
+BF-20250121-003,2025-01-21,Chez,Chez - Restaurant,84.69,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*CHEZ MAMAN - EAST San Francisco CA
+BF-20250121-002,2025-01-21,DoorDash,DoorDash - Delivery,70.36,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH MYDUMPLIN 855-431-0459 CA
+BF-20250121-001,2025-01-21,Red,Red - Restaurant,34.83,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* RED HOT CHILLI PEPPE SAN CARLOS CA
+BF-20250123-001,2025-01-23,Doppio,Doppio - Restaurant,93.53,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DOPPIO ZERO - SAN CA San Carlos CA
+BF-20250123-002,2025-01-23,Uber,Uber - Rideshare,8.74,Travel,Rideshare,Amex,pending,,,,,pending,medium,Business rideshare,Backfill: UBER
+BF-20250124-002,2025-01-24,Mensho,Mensho - Restaurant,96.48,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*MENSHO - GEARY San Francisco CA
+BF-20250124-001,2025-01-24,DoorDash,DoorDash - Delivery,57.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH POKEHOUSE 855-431-0459 CA
+BF-20250124-003,2025-01-24,Uber,Uber - Rideshare,17.95,Travel,Rideshare,Amex,pending,,,,,pending,medium,Business rideshare,Backfill: UBER
+BF-20250125-001,2025-01-25,Delta Air Lines,Delta Air Lines - Airlines,551.96,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20250126-001,2025-01-26,The,The - Restaurant,37.78,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*THE REFUGE - SAN CAR San Carlos CA
+BF-20250128-003,2025-01-28,Sp,Sp - Other,87.30,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: SP WWW.KOIO.CO      NEW YORK            NY
+BF-20250128-002,2025-01-28,DoorDash,DoorDash - Delivery,37.28,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH ELSINALOE 855-431-0459 CA
+BF-20250128-001,2025-01-28,DoorDash,DoorDash - Delivery,35.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH TABLAFORM 855-431-0459 CA
+BF-20250128-004,2025-01-28,Apple,Apple - Hardware,31.79,Equipment,Hardware,Amex,pending,,,,,pending,medium,Business hardware,Backfill: AplPay APPLE ONLINE CUPERTINO           CA
+BF-20250129-001,2025-01-29,Impasto,Impasto - Restaurant,45.29,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*IMPASTO San Carlos CA
+BF-20250129-002,2025-01-29,Uber,Uber - Rideshare,12.40,Travel,Rideshare,Amex,pending,,,,,pending,medium,Business rideshare,Backfill: UBER
+BF-20250130-001,2025-01-30,DoorDash,DoorDash - Delivery,78.89,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH HUMMUSMED 855-431-0459 CA
+BF-20250201-001,2025-02-01,DoorDash,DoorDash - Delivery,30.36,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH CUBANKITC 855-431-0459 CA
+BF-20250201-002,2025-02-01,Delta Air Lines,Delta Air Lines - Airlines,25.00,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: DELTA AIR LINES
+BF-20250202-002,2025-02-02,Amazon,Amazon - Supplies,505.94,Equipment,Supplies,Amex,pending,,,,,pending,high,Business supplies,Backfill: Amazon Web Services AWS.Amazon.com      WA
+BF-20250202-001,2025-02-02,DoorDash,DoorDash - Delivery,24.16,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250202-003,2025-02-02,Amazon,Amazon - Supplies,2.36,Equipment,Supplies,Amex,pending,,,,,pending,medium,Business supplies,Backfill: Amazon Web Services AWS.Amazon.com      WA
+BF-20250203-002,2025-02-03,Amazon,Amazon - Supplies,83.28,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*ZO5978E93 Amzn.com/bill WA
+BF-20250203-001,2025-02-03,DoorDash,DoorDash - Delivery,41.00,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOMTUMDER 855-431-0459 CA
+BF-20250205-001,2025-02-05,DoorDash,DoorDash - Delivery,20.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH EMPANADAM 855-431-0459 CA
+BF-20250207-003,2025-02-07,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250207-001,2025-02-07,Amazon,Amazon - Supplies,24.24,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*Q55ZW5QR3 Amzn.com/bill WA
+BF-20250207-002,2025-02-07,Amazon,Amazon - Supplies,21.76,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*Z78594HC1 Amzn.com/bill WA
+BF-20250208-002,2025-02-08,Amazon,Amazon - Supplies,52.24,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*7Y8SR1U43 Amzn.com/bill WA
+BF-20250208-001,2025-02-08,DoorDash,DoorDash - Delivery,33.49,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250209-001,2025-02-09,Google,Google - Other,21.76,Meals,Other,Chase,pending,,,,,pending,medium,Business other,Backfill: GOOGLE *Google One g.co/helppay# CA
+BF-20250209-002,2025-02-09,Lyft,Lyft - Rideshare,20.30,Travel,Rideshare,Amex,pending,,,,,pending,medium,Business rideshare,Backfill: AplPay LYFT         855-280-0278        CA
+BF-20250210-001,2025-02-10,Cafe,Cafe - Restaurant,39.80,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* CAFE MOGADOR WILLIAM BROOKLYN NY
+BF-20250211-002,2025-02-11,DoorDash,DoorDash - Delivery,73.15,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH MYDUMPLIN 855-431-0459 CA
+BF-20250211-001,2025-02-11,Amazon,Amazon - Supplies,45.00,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*7E49C4QR3 Amzn.com/bill WA
+BF-20250212-001,2025-02-12,Amazon,Amazon - Supplies,144.70,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*HV7C39QQ3 Amzn.com/bill WA
+BF-20250215-001,2025-02-15,Saucy,Saucy - Restaurant,38.85,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *SAUCY LUKES BARBECUE Buckeye AZ
+BF-20250216-002,2025-02-16,Lyft,Lyft - Rideshare,46.55,Travel,Rideshare,Amex,pending,,,,,pending,medium,Business rideshare,Backfill: AplPay LYFT         855-280-0278        CA
+BF-20250216-001,2025-02-16,DoorDash,DoorDash - Delivery,27.32,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250218-001,2025-02-18,DoorDash,DoorDash - Delivery,37.24,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250219-002,2025-02-19,DoorDash,DoorDash - Delivery,41.11,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250219-001,2025-02-19,Dig,Dig - Restaurant,30.81,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DIG INN SEASONAL MAR NEW YORK NY
+BF-20250220-001,2025-02-20,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250220-002,2025-02-20,Amc,Amc - Other,24.95,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AMC 9640 ONLINE*9640LEAWOOD             KS
+BF-20250221-001,2025-02-21,DoorDash,DoorDash - Delivery,28.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250222-001,2025-02-22,Dos,Dos - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250224-001,2025-02-24,Aplpay,Aplpay - Other,20.00,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AplPay CLIPPER SYSTECONCORD             CA
+BF-20250226-001,2025-02-26,DoorDash,DoorDash - Delivery,99.08,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH HUNANMIFE 855-431-0459 CA
+BF-20250226-002,2025-02-26,Blind,Blind - Restaurant,53.75,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* BLIND TASTING BEER & SAN CARLOS CA
+BF-20250227-002,2025-02-27,DoorDash,DoorDash - Delivery,61.31,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH ELSINALOE 855-431-0459 CA
+BF-20250227-001,2025-02-27,DoorDash,DoorDash - Delivery,55.44,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH MYUNGDONG 855-431-0459 CA
+BF-20250228-001,2025-02-28,DoorDash,DoorDash - Delivery,61.61,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH RISEWOODF 855-431-0459 CA
+BF-20250302-003,2025-03-02,Amazon,Amazon - Supplies,404.76,Equipment,Supplies,Amex,pending,,,,,pending,high,Business supplies,Backfill: Amazon Web Services AWS.Amazon.com      WA
+BF-20250302-001,2025-03-02,DoorDash,DoorDash - Delivery,27.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250302-002,2025-03-02,DoorDash,DoorDash - Delivery,25.17,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH WEGMANS 855-431-0459 CA
+BF-20250302-004,2025-03-02,Amazon,Amazon - Supplies,0.03,Equipment,Supplies,Amex,pending,,,,,pending,medium,Business supplies,Backfill: Amazon Web Services AWS.Amazon.com      WA
+BF-20250303-002,2025-03-03,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250303-001,2025-03-03,DoorDash,DoorDash - Delivery,23.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DUANEREAD 855-431-0459 CA
+BF-20250304-001,2025-03-04,Amazon,Amazon - Supplies,30.47,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*BA5AF5453 Amzn.com/bill WA
+BF-20250304-002,2025-03-04,Amazon,Amazon - Supplies,27.27,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*F93ZG1753 Amzn.com/bill WA
+BF-20250304-003,2025-03-04,Apple,Apple - Hardware,14.38,Equipment,Hardware,Amex,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL      INTERNET CHARGE     CA
+BF-20250306-001,2025-03-06,DoorDash,DoorDash - Delivery,71.68,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH CUBANKITC 855-431-0459 CA
+BF-20250309-001,2025-03-09,Rosecrans,Rosecrans - Restaurant,50.08,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *ROSECRANS New York NY
+BF-20250309-004,2025-03-09,Spot,Spot - Restaurant,35.89,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SPOT DESSERT BAR - L Long Island C NY
+BF-20250309-002,2025-03-09,Stumptown,Stumptown - Restaurant,27.90,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250309-003,2025-03-09,Le,Le - Restaurant,23.36,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LE VILLAGE 4F New York NY
+BF-20250310-001,2025-03-10,Google,Google - Other,21.76,Meals,Other,Chase,pending,,,,,pending,medium,Business other,Backfill: GOOGLE *Google One g.co/helppay# CA
+BF-20250312-001,2025-03-12,Dos,Dos - Restaurant,35.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250313-001,2025-03-13,DoorDash,DoorDash - Delivery,27.82,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250314-001,2025-03-14,Amazon,Amazon - Supplies,26.50,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*UQ59L4GD3 Amzn.com/bill WA
+BF-20250315-001,2025-03-15,Sm?R,Sm?R - Restaurant,55.25,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *SM?R New York NY
+BF-20250315-003,2025-03-15,DoorDash,DoorDash - Delivery,50.11,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250315-002,2025-03-15,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250316-001,2025-03-16,DoorDash,DoorDash - Delivery,31.20,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250317-002,2025-03-17,DoorDash,DoorDash - Delivery,87.78,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH WALGREENS 855-431-0459 CA
+BF-20250317-003,2025-03-17,DoorDash,DoorDash - Delivery,53.23,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250317-004,2025-03-17,Employees,Employees - Restaurant,47.35,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *EMPLOYEES ONLY LLC New York NY
+BF-20250317-001,2025-03-17,DoorDash,DoorDash - Delivery,22.64,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250319-002,2025-03-19,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250319-001,2025-03-19,Dante,Dante - Restaurant,24.93,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DANTE - HUDSON ST New York NY
+BF-20250320-002,2025-03-20,DoorDash,DoorDash - Delivery,39.26,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DHHANDPUL 855-431-0459 CA
+BF-20250320-003,2025-03-20,Amc,Amc - Other,24.95,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AMC 9640 ONLINE*9640LEAWOOD             KS
+BF-20250320-001,2025-03-20,Dos,Dos - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250321-002,2025-03-21,Balthazar,Balthazar - Restaurant,152.07,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: BALTHAZAR RESTAURANT NEW YORK NY
+BF-20250321-001,2025-03-21,DoorDash,DoorDash - Delivery,29.35,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH MIGHTYQUI 855-431-0459 CA
+BF-20250322-001,2025-03-22,Lyft,Lyft - Rideshare,108.33,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *MEMB ANNUAL HELP.LYFT.COM CA
+BF-20250323-001,2025-03-23,Daeho,Daeho - Restaurant,67.40,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DAEHO KALBIJJIM - SA San Mateo CA
+BF-20250325-001,2025-03-25,Apple,Apple - Hardware,3175.78,Equipment,Hardware,Chase,pending,,,,,pending,high,Business hardware,Backfill: APPLE.COM/US 800-692-7753 CA
+BF-20250325-002,2025-03-25,DoorDash,DoorDash - Delivery,105.56,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH ELSINALOE 855-431-0459 CA
+BF-20250326-002,2025-03-26,Sushi,Sushi - Restaurant,315.78,Meals,Restaurant,Chase,pending,,,,,pending,high,Business restaurant,Backfill: SUSHI MARUYAMA SAN MATEO CA
+BF-20250326-001,2025-03-26,San,San - Restaurant,31.97,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *SAN MATEO SOMISOMI San Mateo CA
+BF-20250327-001,2025-03-27,DoorDash,DoorDash - Delivery,212.67,Meals,Delivery,Chase,pending,,,,,pending,high,Business delivery,Backfill: DD *DOORDASH HUMMUSMED 855-431-0459 CA
+BF-20250327-002,2025-03-27,Taishoken,Taishoken - Restaurant,128.33,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*TAISHOKEN RAMEN - SA San Mateo CA
+BF-20250328-001,2025-03-28,Cellarmaker,Cellarmaker - Restaurant,63.77,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*CELLARMAKER HOUSE OF 415-296-6351 CA
+BF-20250329-001,2025-03-29,DoorDash,DoorDash - Delivery,27.73,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250331-001,2025-03-31,DoorDash,DoorDash - Delivery,22.49,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH WINSONBAK 855-431-0459 CA
+BF-20250401-003,2025-04-01,Dante,Dante - Restaurant,163.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DANTE - MACDOUGAL ST New York NY
+BF-20250401-002,2025-04-01,Dough,Dough - Restaurant,53.34,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOUGH ZONE - SAN MAT SAN MATEO CA
+BF-20250401-001,2025-04-01,DoorDash,DoorDash - Delivery,24.12,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH BENVENUTO 855-431-0459 CA
+BF-20250402-001,2025-04-02,Le,Le - Restaurant,23.86,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LE VILLAGE 4F New York NY
+BF-20250402-002,2025-04-02,Amazon,Amazon - Supplies,14.00,Equipment,Supplies,Amex,pending,,,,,pending,medium,Business supplies,Backfill: Amazon Web Services AWS.Amazon.com      WA
+BF-20250403-002,2025-04-03,Stumptown,Stumptown - Restaurant,29.26,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250403-001,2025-04-03,DoorDash,DoorDash - Delivery,25.98,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250404-001,2025-04-04,DoorDash,DoorDash - Delivery,42.60,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH TARGET DOORDASH.COM CA
+BF-20250404-002,2025-04-04,DoorDash,DoorDash - Delivery,21.13,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250405-001,2025-04-05,Dos,Dos - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250407-001,2025-04-07,Palette,Palette - Restaurant,163.06,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*PALETTE TEA HOUSE San Francisco CA
+BF-20250409-002,2025-04-09,The,The - Restaurant,83.37,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*THE REFUGE - SAN CAR San Carlos CA
+BF-20250409-001,2025-04-09,DoorDash,DoorDash - Delivery,27.82,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH BUSSTOPCA 855-431-0459 CA
+BF-20250410-001,2025-04-10,Google,Google - Other,21.76,Meals,Other,Chase,pending,,,,,pending,medium,Business other,Backfill: GOOGLE *Google One 855-836-3987 CA
+BF-20250412-001,2025-04-12,Aplpay,Aplpay - Restaurant,10.34,Meals,Restaurant,Amex,pending,,,,,pending,medium,Business restaurant,Backfill: AplPay TST* MAH-ZE-DNEW YORK            NY
+BF-20250413-002,2025-04-13,Amazon,Amazon - Supplies,87.09,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*3R4PZ7QD3 Amzn.com/bill WA
+BF-20250413-001,2025-04-13,DoorDash,DoorDash - Delivery,70.31,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH GINGERAND 855-431-0459 CA
+BF-20250416-002,2025-04-16,Doppio,Doppio - Restaurant,86.70,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DOPPIO ZERO - SAN CA San Carlos CA
+BF-20250416-001,2025-04-16,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250418-001,2025-04-18,Delta Air Lines,Delta Air Lines - Airlines,11.20,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: DELTA AIR LINES
+BF-20250418-002,2025-04-18,Delta Air Lines,Delta Air Lines - Airlines,11.20,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: DELTA AIR LINES
+BF-20250419-001,2025-04-19,Lyft,Lyft - Rideshare,33.54,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 04-17 HELP.LYFT.COM CA
+BF-20250420-002,2025-04-20,Oto,Oto - Restaurant,169.32,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: OTO SUSHI REDMOND REDMOND WA
+BF-20250420-001,2025-04-20,Zeek'S,Zeek'S - Restaurant,39.09,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* ZEEK'S PIZZA - KIRKL BELLEVUE WA
+BF-20250421-001,2025-04-21,DoorDash,DoorDash - Delivery,26.50,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250422-001,2025-04-22,Mala,Mala - Restaurant,52.84,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* MALA PROJECT - EAST NEW YORK NY
+BF-20250423-001,2025-04-23,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250424-006,2025-04-24,Amazon,Amazon - Supplies,579.92,Equipment,Supplies,Chase,pending,,,,,pending,high,Business supplies,Backfill: Amazon.com*N25PW32X2 Amzn.com/bill WA
+BF-20250424-004,2025-04-24,Amazon,Amazon - Supplies,548.11,Equipment,Supplies,Chase,pending,,,,,pending,high,Business supplies,Backfill: Amazon.com*EM50W99P3 Amzn.com/bill WA
+BF-20250424-005,2025-04-24,Amazon,Amazon - Supplies,213.77,Equipment,Supplies,Chase,pending,,,,,pending,high,Business supplies,Backfill: AMAZON MKTPL*TC7OV8HC3 Amzn.com/bill WA
+BF-20250424-002,2025-04-24,Zoom,Zoom - Video Conferencing,100.76,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250424-003,2025-04-24,Zoom,Zoom - Video Conferencing,100.75,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250424-001,2025-04-24,Dos,Dos - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250425-002,2025-04-25,DoorDash,DoorDash - Delivery,47.54,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250425-001,2025-04-25,DoorDash,DoorDash - Delivery,36.18,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH LANRAMENI 855-431-0459 CA
+BF-20250427-001,2025-04-27,Amazon,Amazon - Supplies,36.95,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*2F30C0V33 Amzn.com/bill WA
+BF-20250428-002,2025-04-28,Garaje,Garaje - Restaurant,116.86,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
+BF-20250428-001,2025-04-28,Lyft,Lyft - Rideshare,101.16,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *4 RIDES 04-25 HELP.LYFT.COM CA
+BF-20250428-003,2025-04-28,Sightglass,Sightglass - Restaurant,23.06,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SIGHTGLASS COFFEE - San Francisco CA
+BF-20250429-002,2025-04-29,Ippudo,Ippudo - Restaurant,99.07,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *IPPUDO SAN FRANCISCO San Francisco CA
+BF-20250429-003,2025-04-29,Flour,Flour - Restaurant,31.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* FLOUR & BRANCH SAN FRANCISCO CA
+BF-20250429-001,2025-04-29,DoorDash,DoorDash - Delivery,24.67,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250430-001,2025-04-30,Schroeders,Schroeders - Restaurant,130.05,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SCHROEDERS RESTAURA San Francisco CA
+BF-20250501-003,2025-05-01,Wabi,Wabi - Restaurant,114.71,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *WABI SABI SF San Francisco CA
+BF-20250501-002,2025-05-01,DoorDash,DoorDash - Delivery,30.80,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH MADFORCHI 855-431-0459 CA
+BF-20250501-001,2025-05-01,Arsicault,Arsicault - Restaurant,22.85,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *ARSICAULT BAKERY INC SAN FRANCISCO CA
+BF-20250502-001,2025-05-02,Super,Super - Restaurant,40.18,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* SUPER DUPER - DOWNTO SAN FRANCISCO CA
+BF-20250502-002,2025-05-02,La,La - Restaurant,25.30,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *LA TAQUERIA San Francisco CA
+BF-20250503-001,2025-05-03,DoorDash,DoorDash - Delivery,22.53,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH FARMACY 855-431-0459 CA
+BF-20250504-001,2025-05-04,Delta Air Lines,Delta Air Lines - Airlines,234.99,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20250505-001,2025-05-05,DoorDash,DoorDash - Delivery,34.57,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH LACORNETA 855-431-0459 CA
+BF-20250505-002,2025-05-05,DoorDash,DoorDash - Delivery,31.91,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH MAMAN 855-431-0459 CA
+BF-20250506-001,2025-05-06,DoorDash,DoorDash - Delivery,45.33,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH CHODANGGO 855-431-0459 CA
+BF-20250507-002,2025-05-07,Delta Air Lines,Delta Air Lines - Airlines,501.97,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20250507-003,2025-05-07,Delta Air Lines,Delta Air Lines - Airlines,466.97,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20250507-004,2025-05-07,Delta Air Lines,Delta Air Lines - Airlines,396.96,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20250507-005,2025-05-07,Delta Air Lines,Delta Air Lines - Airlines,45.00,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: DELTA AIR LINES     ATLANTA
+BF-20250507-001,2025-05-07,DoorDash,DoorDash - Delivery,38.83,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250508-001,2025-05-08,Coppelia,Coppelia - Restaurant,29.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*COPPELIA New York NY
+BF-20250508-002,2025-05-08,Uber,Uber - Rideshare,28.56,Travel,Rideshare,Amex,pending,,,,,pending,medium,Business rideshare,Backfill: UBER
+BF-20250509-001,2025-05-09,DoorDash,DoorDash - Delivery,20.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250510-002,2025-05-10,Lexpress,Lexpress - Restaurant,83.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LEXPRESS New York NY
+BF-20250510-003,2025-05-10,Jacks,Jacks - Restaurant,54.13,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*JACKS WIFE FREDA - New York NY
+BF-20250510-001,2025-05-10,Google,Google - Other,21.76,Meals,Other,Chase,pending,,,,,pending,medium,Business other,Backfill: GOOGLE *Google One 855-836-3987 CA
+BF-20250512-001,2025-05-12,Joy,Joy - Restaurant,113.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: JOY SUSHI.. SAN MATEO CA
+BF-20250512-002,2025-05-12,Uber,Uber - Rideshare,31.92,Travel,Rideshare,Amex,pending,,,,,pending,medium,Business rideshare,Backfill: UBER
+BF-20250513-001,2025-05-13,Farmhouse,Farmhouse - Restaurant,53.15,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*FARMHOUSE KITCHEN TH San Francisco CA
+BF-20250514-001,2025-05-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,pending,,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
+BF-20250516-001,2025-05-16,Macarena,Macarena - Restaurant,428.71,Meals,Restaurant,Chase,pending,,,,,pending,high,Business restaurant,Backfill: TST*MACARENA 2025 Palo Alto CA
+BF-20250517-001,2025-05-17,DoorDash,DoorDash - Delivery,43.18,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH LADONG 855-431-0459 CA
+BF-20250517-002,2025-05-17,Uber,Uber - Rideshare,40.37,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM 800-5928996 CA
+BF-20250518-001,2025-05-18,Delta Air Lines,Delta Air Lines - Airlines,513.99,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20250519-001,2025-05-19,Terun,Terun - Restaurant,140.35,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*TERUN PIZZA - PALO A Palo Alto CA
+BF-20250520-001,2025-05-20,Amazon,Amazon - Supplies,435.45,Equipment,Supplies,Chase,pending,,,,,pending,high,Business supplies,Backfill: Amazon.com*NW2HU89G0 Amzn.com/bill WA
+BF-20250520-002,2025-05-20,Uber,Uber - Rideshare,20.23,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM 800-5928996 CA
+BF-20250521-002,2025-05-21,Bucks,Bucks - Restaurant,85.39,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*BUCKS OF WOODSIDE Woodside CA
+BF-20250521-001,2025-05-21,Uber,Uber - Rideshare,22.54,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM 800-5928996 CA
+BF-20250523-001,2025-05-23,DoorDash,DoorDash - Delivery,60.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250523-002,2025-05-23,DoorDash,DoorDash - Delivery,21.46,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH TARGET 855-431-0459 CA
+BF-20250524-002,2025-05-24,Central,Central - Restaurant,51.55,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *CENTRAL PARK DOCKSIDE New York NY
+BF-20250524-001,2025-05-24,Amazon,Amazon - Supplies,34.95,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*NZ7C555X0 Amzn.com/bill WA
+BF-20250528-001,2025-05-28,DoorDash,DoorDash - Delivery,23.62,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH CHODANGGO 855-431-0459 CA
+BF-20250528-002,2025-05-28,DoorDash,DoorDash - Delivery,20.31,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH HOJOKBAN 855-431-0459 CA
+BF-20250529-001,2025-05-29,DoorDash,DoorDash - Delivery,32.61,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH NANXIANGS 855-431-0459 CA
+BF-20250530-001,2025-05-30,Delta Air Lines,Delta Air Lines - Airlines,186.01,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: DELTA AIR LINES
+BF-20250531-003,2025-05-31,Twelvemonth,Twelvemonth - Restaurant,107.59,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*TWELVEMONTH Burlingame CA
+BF-20250531-002,2025-05-31,Doppio,Doppio - Restaurant,66.15,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DOPPIO ZERO - SAN CA San Carlos CA
+BF-20250531-001,2025-05-31,Barrelhouse,Barrelhouse - Restaurant,44.09,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* BARRELHOUSE BURLINGA BURLINGAME CA
+BF-20250602-001,2025-06-02,Yayoi,Yayoi - Restaurant,94.78,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *YAYOI Palo Alto CA
+BF-20250606-001,2025-06-06,Verve,Verve - Restaurant,38.32,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *VERVE COFFEE UNIVERSI Palo Alto CA
+BF-20250607-003,2025-06-07,Copal,Copal - Restaurant,95.79,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*COPAL - SANTA CRUZ Santa Cruz CA
+BF-20250607-002,2025-06-07,First,First - Restaurant,43.05,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*FIRST AWAKENINGS - P Monterey CA
+BF-20250607-004,2025-06-07,Carmel,Carmel - Restaurant,24.70,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*CARMEL BAKERY Carmel-by-the CA
+BF-20250607-001,2025-06-07,DoorDash,DoorDash - Delivery,21.62,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH THAIPHOON 855-431-0459 CA
+BF-20250609-001,2025-06-09,Din,Din - Restaurant,81.52,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DIN TAI FUNG - VALLE SANTA CLARA CA
+BF-20250610-001,2025-06-10,Google,Google - Other,21.76,Meals,Other,Chase,pending,,,,,pending,medium,Business other,Backfill: GOOGLE *Google One 855-836-3987 CA
+BF-20250610-002,2025-06-10,Sfo,Sfo - Other,7.56,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: SFO SKYCLUB CAFE 477SAN FRANCISCO       CA
+BF-20250611-001,2025-06-11,DoorDash,DoorDash - Delivery,50.05,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH NANXIANGS 855-431-0459 CA
+BF-20250612-001,2025-06-12,DoorDash,DoorDash - Delivery,32.38,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH TARGET 855-431-0459 CA
+BF-20250612-002,2025-06-12,DoorDash,DoorDash - Delivery,27.44,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250612-003,2025-06-12,DoorDash,DoorDash - Delivery,20.80,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250613-002,2025-06-13,Hatsuhana,Hatsuhana - Restaurant,181.07,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: HATSUHANA SUSHI RESTAURAN NEW YORK NY
+BF-20250613-001,2025-06-13,DoorDash,DoorDash - Delivery,28.48,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH NOONANOOD 855-431-0459 CA
+BF-20250614-003,2025-06-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,pending,,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
+BF-20250614-001,2025-06-14,DoorDash,DoorDash - Delivery,34.02,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250614-002,2025-06-14,DoorDash,DoorDash - Delivery,27.72,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMMYLCOF 855-431-0459 CA
+BF-20250615-001,2025-06-15,DoorDash,DoorDash - Delivery,44.30,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250615-002,2025-06-15,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250615-003,2025-06-15,DoorDash,DoorDash - Delivery,23.58,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH GNOCCHION 855-431-0459 CA
+BF-20250616-001,2025-06-16,DoorDash,DoorDash - Delivery,24.56,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DIMSUMSAM 855-431-0459 CA
+BF-20250618-001,2025-06-18,Kajiken,Kajiken - Restaurant,70.58,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* KAJIKEN SAN MATEO CA
+BF-20250619-001,2025-06-19,Airbnb,Airbnb - Lodging,263.40,Travel,Lodging,Chase,pending,,,,,pending,high,Business lodging,Backfill: AIRBNB * HMHTR8TR8K AIRBNB.COM CA
+BF-20250619-002,2025-06-19,Sfo,Sfo - Other,21.05,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: SFO SKYCLUB CAFE 477SAN FRANCISCO       CA
+BF-20250621-001,2025-06-21,Panorama,Panorama - Restaurant,90.20,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* PANORAMA PIZZA PUB HEALY AK
+BF-20250624-001,2025-06-24,DoorDash,DoorDash - Delivery,37.19,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH MAMAN 855-431-0459 CA
+BF-20250625-002,2025-06-25,"Cursor,","Cursor, - Development Tools",209.04,Software,Development Tools,Chase,pending,,,,,pending,high,Business development tools,"Backfill: CURSOR, AI POWERED IDE CURSOR.COM NY"
+BF-20250625-003,2025-06-25,Zoom,Zoom - Video Conferencing,165.70,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250625-001,2025-06-25,Hoteltonight*The,Hoteltonight*The - Lodging,149.00,Travel,Lodging,Chase,pending,,,,,pending,medium,Business lodging,Backfill: HOTELTONIGHT*THE CATRI 800-208-2949 CA
+BF-20250626-001,2025-06-26,Airbnb,Airbnb - Lodging,614.31,Travel,Lodging,Chase,pending,,,,,pending,high,Business lodging,Backfill: AIRBNB * HMRQ2P4H8E AIRBNB.COM CA
+BF-20250626-004,2025-06-26,DoorDash,DoorDash - Delivery,52.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAIGONSHA 855-431-0459 CA
+BF-20250626-002,2025-06-26,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250626-003,2025-06-26,Stumptown,Stumptown - Restaurant,23.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250627-002,2025-06-27,Dig,Dig - Restaurant,33.79,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DIG INN SEASONAL MAR NEW YORK NY
+BF-20250627-001,2025-06-27,Dos,Dos - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250628-001,2025-06-28,Mala,Mala - Restaurant,57.99,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* MALA PROJECT - GREEN BROOKLYN NY
+BF-20250629-001,2025-06-29,Dos,Dos - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250630-002,2025-06-30,Gotham,Gotham - Restaurant,25.41,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*GOTHAM BURGER NYC New York NY
+BF-20250630-001,2025-06-30,Amazon,Amazon - Supplies,20.58,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*NQ0HX5RK0 Amzn.com/bill WA
+BF-20250702-001,2025-07-02,Anthropic,Anthropic - API Services,250.00,Infrastructure,API Services,Chase,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC ANTHROPIC.COM CA
+BF-20250702-002,2025-07-02,DoorDash,DoorDash - Delivery,41.35,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH GOURMETGA 855-431-0459 CA
+BF-20250702-003,2025-07-02,DoorDash,DoorDash - Delivery,20.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250703-001,2025-07-03,DoorDash,DoorDash - Delivery,31.20,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250707-001,2025-07-07,DoorDash,DoorDash - Delivery,26.62,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH ROYALGREE 855-431-0459 CA
+BF-20250708-002,2025-07-08,Mensho,Mensho - Restaurant,45.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*MENSHO - GEARY San Francisco CA
+BF-20250708-001,2025-07-08,DoorDash,DoorDash - Delivery,24.06,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DIMSUMSAM 855-431-0459 CA
+BF-20250709-002,2025-07-09,Gyu,Gyu - Restaurant,357.12,Meals,Restaurant,Chase,pending,,,,,pending,high,Business restaurant,Backfill: GYU KAKU RESTAURANT 408-3431088 CA
+BF-20250709-003,2025-07-09,Kajiken,Kajiken - Restaurant,95.26,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* KAJIKEN SAN MATEO CA
+BF-20250709-001,2025-07-09,Lyft,Lyft - Rideshare,35.56,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 07-07 HELP.LYFT.COM CA
+BF-20250710-001,2025-07-10,Google,Google - Other,21.76,Meals,Other,Chase,pending,,,,,pending,medium,Business other,Backfill: GOOGLE *Google One 855-836-3987 CA
+BF-20250711-002,2025-07-11,DoorDash,DoorDash - Delivery,37.29,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250711-001,2025-07-11,DoorDash,DoorDash - Delivery,32.44,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250712-002,2025-07-12,Lyft,Lyft - Rideshare,69.49,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 07-10 HELP.LYFT.COM CA
+BF-20250712-003,2025-07-12,Hamburger,Hamburger - Restaurant,46.73,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250712-001,2025-07-12,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250713-002,2025-07-13,Stumptown,Stumptown - Restaurant,43.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250713-001,2025-07-13,DoorDash,DoorDash - Delivery,27.66,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250714-004,2025-07-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,pending,,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
+BF-20250714-001,2025-07-14,Taim,Taim - Restaurant,40.37,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* TAIM - NOLITA NEW YORK NY
+BF-20250714-003,2025-07-14,DoorDash,DoorDash - Delivery,29.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250714-002,2025-07-14,DoorDash,DoorDash - Delivery,24.54,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250715-001,2025-07-15,Dos,Dos - Restaurant,26.80,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250716-001,2025-07-16,DoorDash,DoorDash - Delivery,31.20,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250717-001,2025-07-17,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250718-004,2025-07-18,Gotham,Gotham - Restaurant,58.79,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*GOTHAM BURGER NYC New York NY
+BF-20250718-001,2025-07-18,Uber,Uber - Rideshare,38.90,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *EATS HELP.UBER.COM CA
+BF-20250718-005,2025-07-18,DoorDash,DoorDash - Delivery,26.96,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH GOPUFF 855-431-0459 CA
+BF-20250718-003,2025-07-18,Dos,Dos - Restaurant,26.53,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250718-002,2025-07-18,Uber,Uber - Rideshare,21.14,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *EATS HELP.UBER.COM CA
+BF-20250719-001,2025-07-19,DoorDash,DoorDash - Delivery,45.24,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SAIGONSHA 855-431-0459 CA
+BF-20250720-001,2025-07-20,Lyft,Lyft - Rideshare,82.54,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 07-18 HELP.LYFT.COM CA
+BF-20250720-004,2025-07-20,Amc,Amc - Other,27.99,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AMC 9640 ONLINE*9640LEAWOOD             KS
+BF-20250720-002,2025-07-20,Book,Book - Restaurant,25.77,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*BOOK CLUB BAR New York NY
+BF-20250720-003,2025-07-20,DoorDash,DoorDash - Delivery,21.94,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250721-001,2025-07-21,DoorDash,DoorDash - Delivery,31.16,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SERAFINA 855-431-0459 CA
+BF-20250723-002,2025-07-23,Amazon,Amazon - Supplies,156.23,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*R85XC1MX3 Amzn.com/bill WA
+BF-20250723-001,2025-07-23,Amazon,Amazon - Supplies,87.09,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*9D09Z6TM3 Amzn.com/bill WA
+BF-20250723-003,2025-07-23,Amazon,Amazon - Supplies,48.98,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*X84MI2UY3 Amzn.com/bill WA
+BF-20250724-003,2025-07-24,Apple,Apple - Hardware,87.34,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE KOREA LIMITED SEOUL
+BF-20250724-002,2025-07-24,DoorDash,DoorDash - Delivery,27.23,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250724-001,2025-07-24,DoorDash,DoorDash - Delivery,23.58,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOMTUMDER 855-431-0459 CA
+BF-20250726-002,2025-07-26,DoorDash,DoorDash - Delivery,24.01,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH CHARLIEBI 855-431-0459 CA
+BF-20250726-001,2025-07-26,DoorDash,DoorDash - Delivery,21.94,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250728-001,2025-07-28,Dos,Dos - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250729-002,2025-07-29,DoorDash,DoorDash - Delivery,48.68,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250729-001,2025-07-29,DoorDash,DoorDash - Delivery,28.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250730-001,2025-07-30,DoorDash,DoorDash - Delivery,29.71,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250731-004,2025-07-31,Delta Air Lines,Delta Air Lines - Airlines,358.48,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20250731-003,2025-07-31,Hamburger,Hamburger - Restaurant,26.33,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250731-001,2025-07-31,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SANMARZAN 855-431-0459 CA
+BF-20250731-002,2025-07-31,DoorDash,DoorDash - Delivery,23.58,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH SOMTUMDER 855-431-0459 CA
+BF-20250802-001,2025-08-02,DoorDash,DoorDash - Delivery,28.90,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH DANANDJOH 855-431-0459 CA
+BF-20250803-001,2025-08-03,Lyft,Lyft - Rideshare,135.38,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 08-01 HELP.LYFT.COM CA
+BF-20250806-001,2025-08-06,Lyft,Lyft - Rideshare,38.80,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *3 RIDES 08-04 HELP.LYFT.COM CA
+BF-20250808-001,2025-08-08,Lyft,Lyft - Rideshare,25.26,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 08-06 HELP.LYFT.COM CA
+BF-20250809-001,2025-08-09,Amazon,Amazon - Supplies,108.82,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*G43A63PF3 Amzn.com/bill WA
+BF-20250811-001,2025-08-11,Uber,Uber - Rideshare,49.53,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250812-002,2025-08-12,Anthropic,Anthropic - API Services,2500.00,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
+BF-20250812-001,2025-08-12,Uber,Uber - Rideshare,24.08,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250814-002,2025-08-14,Nola,Nola - Restaurant,41.43,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*NOLA - PALO ALTO 650-328-2722 CA
+BF-20250814-001,2025-08-14,Uber,Uber - Rideshare,23.99,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *EATS HELP.UBER.COM CA
+BF-20250815-003,2025-08-15,Anthropic,Anthropic - API Services,1502.14,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
+BF-20250815-002,2025-08-15,Uber,Uber - Rideshare,35.23,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250815-001,2025-08-15,Uber,Uber - Rideshare,34.10,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250816-001,2025-08-16,Dan,Dan - Restaurant,21.55,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
+BF-20250817-001,2025-08-17,Gotham,Gotham - Restaurant,24.05,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*GOTHAM BURGER NYC New York NY
+BF-20250819-001,2025-08-19,Uber,Uber - Rideshare,25.55,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250820-001,2025-08-20,Lyft,Lyft - Rideshare,43.88,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 08-18 HELP.LYFT.COM CA
+BF-20250821-002,2025-08-21,Garaje,Garaje - Restaurant,86.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
+BF-20250821-001,2025-08-21,Garaje,Garaje - Restaurant,28.56,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
+BF-20250822-002,2025-08-22,Delta Air Lines,Delta Air Lines - Airlines,100.01,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: DELTA AIR LINES
+BF-20250822-001,2025-08-22,Zoom,Zoom - Video Conferencing,66.88,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250823-001,2025-08-23,Lyft,Lyft - Rideshare,42.31,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 08-21 HELP.LYFT.COM CA
+BF-20250826-001,2025-08-26,Lyft,Lyft - Rideshare,39.99,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 08-24 HELP.LYFT.COM CA
+BF-20250826-002,2025-08-26,Los,Los - Restaurant,24.64,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250827-001,2025-08-27,Lyft,Lyft - Rideshare,49.97,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 08-25 HELP.LYFT.COM CA
+BF-20250827-002,2025-08-27,Los,Los - Restaurant,23.64,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250828-001,2025-08-28,Acadia,Acadia - Restaurant,93.43,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* ACADIA NEW YORK NY
+BF-20250828-002,2025-08-28,Amazon,Amazon - Supplies,86.01,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Amazon.com*OM64A9NO3 Amzn.com/bill WA
+BF-20250828-003,2025-08-28,Los,Los - Restaurant,24.95,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250829-001,2025-08-29,Los,Los - Restaurant,32.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250830-001,2025-08-30,Tokyo,Tokyo - Restaurant,38.47,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *TOKYO DRUMSTICK New York NY
+BF-20250830-002,2025-08-30,Los,Los - Restaurant,31.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250831-001,2025-08-31,La,La - Restaurant,69.24,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LA DONG New York NY
+BF-20250902-001,2025-09-02,Garaje,Garaje - Restaurant,83.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
+BF-20250902-002,2025-09-02,Uber,Uber - Rideshare,49.96,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250902-003,2025-09-02,Garaje,Garaje - Restaurant,20.49,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
+BF-20250903-001,2025-09-03,Apple,Apple - Hardware,2667.68,Equipment,Hardware,Amex,pending,,,,,pending,high,Business hardware,Backfill: APPLE ONLINE STORE  CUPERTINO           CA
+BF-20250904-001,2025-09-04,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20250910-003,2025-09-10,Apple,Apple - Hardware,1748.91,Equipment,Hardware,Amex,pending,,,,,pending,high,Business hardware,Backfill: APPLE ONLINE STORE  CUPERTINO           CA
+BF-20250910-002,2025-09-10,Amazon,Amazon - Supplies,580.09,Equipment,Supplies,Chase,pending,,,,,pending,high,Business supplies,Backfill: AMAZON MKTPL*FJ5BX08F3 Amzn.com/bill WA
+BF-20250910-001,2025-09-10,Lyft,Lyft - Rideshare,33.63,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 09-08 HELP.LYFT.COM CA
+BF-20250911-001,2025-09-11,Apple,Apple - Hardware,108.86,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20250912-001,2025-09-12,Zoom,Zoom - Video Conferencing,54.23,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250914-001,2025-09-14,Uber,Uber - Rideshare,45.34,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250918-001,2025-09-18,L?Industrie,L?Industrie - Restaurant,27.25,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *L?INDUSTRIE PIZZERIA New York NY
+BF-20250919-001,2025-09-19,Dan,Dan - Restaurant,43.69,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
+BF-20250920-002,2025-09-20,Dinosaur,Dinosaur - Restaurant,67.66,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DINOSAUR BAR-B-QUE - New York NY
+BF-20250920-001,2025-09-20,Dinosaur,Dinosaur - Restaurant,21.51,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*DINOSAUR BAR-B-QUE - New York NY
+BF-20250921-002,2025-09-21,Apple,Apple - Hardware,869.91,Equipment,Hardware,Chase,pending,,,,,pending,high,Business hardware,Backfill: APPLE STORE #R032 NEW YORK NY
+BF-20250921-003,2025-09-21,Apple,Apple - Hardware,271.10,Equipment,Hardware,Chase,pending,,,,,pending,high,Business hardware,Backfill: APPLE STORE #R032 NEW YORK NY
+BF-20250921-001,2025-09-21,Hamburger,Hamburger - Restaurant,26.74,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250922-002,2025-09-22,Garaje,Garaje - Restaurant,75.11,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
+BF-20250922-003,2025-09-22,Garaje,Garaje - Restaurant,26.18,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
+BF-20250922-001,2025-09-22,Apple,Apple - Hardware,21.32,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20250927-001,2025-09-27,Smashy,Smashy - Restaurant,24.99,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *SMASHY CLUB New York NY
+BF-20250928-001,2025-09-28,Jeremy'S,Jeremy'S - Restaurant,30.83,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *JEREMY'S ALE HOUSE New York NY
+BF-20250930-001,2025-09-30,Amazon,Amazon - Supplies,151.34,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON PRIME*NJ89268F1 Amzn.com/bill WA
+BF-20251002-003,2025-10-02,Apple,Apple - Hardware,2195.40,Equipment,Hardware,Amex,pending,,,,,pending,high,Business hardware,Backfill: APPLE.COM/US        CUPERTINO           CA
+BF-20251002-001,2025-10-02,Minami,Minami - Restaurant,305.75,Meals,Restaurant,Chase,pending,,,,,pending,high,Business restaurant,Backfill: SQ *MINAMI RESTAURANT TOR TORONTO ON
+BF-20251002-002,2025-10-02,Uber,Uber - Rideshare,45.98,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20251003-001,2025-10-03,Apple,Apple - Hardware,108.86,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251004-001,2025-10-04,Mitr,Mitr - Restaurant,458.79,Meals,Restaurant,Chase,pending,,,,,pending,high,Business restaurant,Backfill: TST*MITR THAI New York NY
+BF-20251006-001,2025-10-06,Lyft,Lyft - Rideshare,22.04,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: CITIBIK*7 RIDES HELP.LYFT.COM CA
+BF-20251011-001,2025-10-11,Airbnb,Airbnb - Lodging,2248.12,Travel,Lodging,Chase,pending,,,,,pending,high,Business lodging,Backfill: AIRBNB * HMAWDJY4T2 AIRBNB.COM CA
+BF-20251011-002,2025-10-11,South,South - Restaurant,62.65,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SOUTH OF THE CLOUDS New York NY
+BF-20251012-002,2025-10-12,Apple,Apple - Hardware,271.10,Equipment,Hardware,Chase,pending,,,,,pending,high,Business hardware,Backfill: APPLE STORE #R032 NEW YORK NY
+BF-20251012-001,2025-10-12,Stumptown,Stumptown - Restaurant,22.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20251013-001,2025-10-13,Lyft,Lyft - Rideshare,25.31,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: CITIBIK*11 RIDES HELP.LYFT.COM CA
+BF-20251014-001,2025-10-14,Amazon,Amazon - Supplies,109.61,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*NF3XW3922 Amzn.com/bill WA
+BF-20251014-002,2025-10-14,Amazon,Amazon - Supplies,81.87,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*NF0AA3RP2 Amzn.com/bill WA
+BF-20251016-001,2025-10-16,DoorDash,DoorDash - Delivery,43.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASHWEGMANS 855-431-0459 CA
+BF-20251018-001,2025-10-18,Culture,Culture - Restaurant,135.99,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *CULTURE ESPRESSO New York NY
+BF-20251019-001,2025-10-19,Pp*Doordash,Pp*Doordash - Delivery,75.98,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: PP*DOORDASH CVS 855-973-1040 CA
+BF-20251019-002,2025-10-19,Hamburger,Hamburger - Restaurant,26.33,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20251019-003,2025-10-19,Culture,Culture - Restaurant,25.48,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *CULTURE ESPRESSO New York NY
+BF-20251021-002,2025-10-21,DoorDash,DoorDash - Delivery,57.48,Meals,Delivery,Chase,pending,,,,,pending,medium,Business delivery,Backfill: DD *DOORDASH CVS DOORDASH.COM CA
+BF-20251021-001,2025-10-21,Apple,Apple - Hardware,21.32,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251022-001,2025-10-22,Spring,Spring - Restaurant,29.94,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SPRING SHABU-SHABU B Brighton MA
+BF-20251026-001,2025-10-26,Amazon,Amazon - Supplies,43.54,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: Blink amzn.com/bill WA
+BF-20251027-001,2025-10-27,Trident,Trident - Restaurant,21.21,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*TRIDENT BOOKSELLERS 617-267-8688 MA
+BF-20251028-001,2025-10-28,Amazon,Amazon - Supplies,164.43,Equipment,Supplies,Amex,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MARKEPLACE NA PA
+BF-20251028-002,2025-10-28,Amazon,Amazon - Supplies,75.64,Equipment,Supplies,Amex,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MARKEPLACE NA PA
+BF-20251102-001,2025-11-02,Amazon,Amazon - Supplies,212.66,Equipment,Supplies,Amex,pending,,,,,pending,high,Business supplies,Backfill: AMAZON MARKEPLACE NA PA
+BF-20251103-001,2025-11-03,Spring,Spring - Restaurant,70.04,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SPRING SHABU-SHABU B Brighton MA
+BF-20251108-001,2025-11-08,Sofra,Sofra - Restaurant,30.71,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SOFRA - BRIGHTON ALL Allston MA
+BF-20251110-001,2025-11-10,Anthropic,Anthropic - API Services,1500.22,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
+BF-20251112-001,2025-11-12,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251113-001,2025-11-13,Apple,Apple - Hardware,3855.90,Equipment,Hardware,Chase,pending,,,,,pending,high,Business hardware,Backfill: APPLE.COM/US 800-692-7753 CA
+BF-20251115-001,2025-11-15,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251120-001,2025-11-20,Amc,Amc - Other,27.99,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AMC 9640 ONLINE*9640LEAWOOD             KS
+BF-20251124-001,2025-11-24,Delta Air Lines,Delta Air Lines - Airlines,588.18,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20251207-001,2025-12-07,Anthropic,Anthropic - API Services,435.75,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
+BF-20251208-001,2025-12-08,Hotels.com,Hotels.com - Lodging,448.20,Travel,Lodging,Amex,pending,,,,,pending,high,Business lodging,Backfill: HOTELCOM733220743566HOTELS.COM          WA
+BF-20251209-001,2025-12-09,Delta Air Lines,Delta Air Lines - Airlines,617.97,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
+BF-20251210-001,2025-12-10,Anthropic,Anthropic - API Services,435.89,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
+BF-20251211-001,2025-12-11,Claude.ai,Claude.ai - API Services,217.75,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: CLAUDE.AI SUBSCRIPTISAN FRANCISCO       CA
