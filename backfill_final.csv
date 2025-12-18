@@ -344,6 +344,7 @@ BF-20250910-002,2025-09-10,Amazon,Amazon - Supplies,580.09,Equipment,Supplies,Ch
 BF-20250910-001,2025-09-10,Lyft,Lyft - Rideshare,33.63,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 09-08 HELP.LYFT.COM CA
 BF-20250911-001,2025-09-11,Apple,Apple - Hardware,108.86,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
 BF-20250912-001,2025-09-12,Zoom,Zoom - Video Conferencing,54.23,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250914-001,2025-09-14,IKEA,IKEA - Office Furniture,3032.24,Equipment,Office Furniture,Amex,pending,,,,from:ikea,pending,high,Office furniture setup,Backfill: IKEA EAST PALO ALTO PALO ALTO CA
 BF-20250914-001,2025-09-14,Uber,Uber - Rideshare,45.34,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250918-001,2025-09-18,L?Industrie,L?Industrie - Restaurant,27.25,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *L?INDUSTRIE PIZZERIA New York NY
 BF-20250919-001,2025-09-19,Dan,Dan - Restaurant,43.69,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
