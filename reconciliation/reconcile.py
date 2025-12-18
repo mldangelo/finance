@@ -442,6 +442,182 @@ class ChaseStatementImporter:
             for t in transactions
         ])
 
+    def import_pdf(self, file_path: Path) -> int:
+        """Import Chase PDF statement."""
+        import sys
+        sys.path.insert(0, str(Path(__file__).parent))
+        from importers.pdf_parsers import ChasePDFParser
+
+        batch_id = str(uuid4())
+        file_hash = calculate_file_hash(file_path)
+
+        existing = self.db.execute(
+            "SELECT id FROM import_batches WHERE file_hash = ?",
+            (file_hash,)
+        ).fetchone()
+        if existing:
+            print(f"File already imported. Skipping: {file_path.name}")
+            return 0
+
+        parser = ChasePDFParser(file_path)
+        parsed_txs = parser.parse()
+
+        transactions = []
+        for i, ptx in enumerate(parsed_txs):
+            tx = Transaction(
+                id=f"chase_{batch_id}_{i}",
+                source_id=self.source_id,
+                external_id=None,
+                transaction_date=ptx.date,
+                post_date=None,
+                amount=ptx.amount,
+                merchant_name=ptx.description,
+                merchant_name_normalized=normalize_merchant_name(ptx.description),
+                description=ptx.description,
+                category=ptx.category,
+                subcategory=None,
+                memo=None,
+                is_credit=ptx.is_credit,
+                raw_data=ptx.raw_text,
+                import_batch_id=batch_id
+            )
+            transactions.append(tx)
+
+        if not transactions:
+            print(f"No transactions found in {file_path.name}")
+            return 0
+
+        self._insert_transactions(transactions)
+
+        self.db.execute("""
+            INSERT INTO import_batches (id, source_id, file_path, file_hash, import_type, record_count, date_range_start, date_range_end)
+            VALUES (?, ?, ?, ?, 'pdf_statement', ?, ?, ?)
+        """, (
+            batch_id,
+            self.source_id,
+            str(file_path),
+            file_hash,
+            len(transactions),
+            min(t.transaction_date for t in transactions),
+            max(t.transaction_date for t in transactions)
+        ))
+        self.db.commit()
+
+        print(f"Imported {len(transactions)} transactions from {file_path.name}")
+        return len(transactions)
+
+    def import_all_pdfs(self, directory: Path) -> int:
+        """Import all PDF statements from a directory."""
+        total = 0
+        pdf_files = sorted(directory.glob("*.pdf"))
+        print(f"Found {len(pdf_files)} PDF files in {directory}")
+
+        for pdf_file in pdf_files:
+            count = self.import_pdf(pdf_file)
+            total += count
+
+        return total
+
+
+class BankOfAmericaImporter:
+    """Import Bank of America PDF statements."""
+
+    def __init__(self, db: Database):
+        self.db = db
+        self.source_id = "boa_checking"
+
+    def import_pdf(self, file_path: Path) -> int:
+        """Import Bank of America PDF statement."""
+        import sys
+        sys.path.insert(0, str(Path(__file__).parent))
+        from importers.pdf_parsers import BankOfAmericaPDFParser
+
+        batch_id = str(uuid4())
+        file_hash = calculate_file_hash(file_path)
+
+        existing = self.db.execute(
+            "SELECT id FROM import_batches WHERE file_hash = ?",
+            (file_hash,)
+        ).fetchone()
+        if existing:
+            print(f"File already imported. Skipping: {file_path.name}")
+            return 0
+
+        parser = BankOfAmericaPDFParser(file_path)
+        parsed_txs = parser.parse()
+
+        transactions = []
+        for i, ptx in enumerate(parsed_txs):
+            tx = Transaction(
+                id=f"boa_{batch_id}_{i}",
+                source_id=self.source_id,
+                external_id=None,
+                transaction_date=ptx.date,
+                post_date=None,
+                amount=ptx.amount,
+                merchant_name=ptx.description[:100],  # Truncate long descriptions
+                merchant_name_normalized=normalize_merchant_name(ptx.description),
+                description=ptx.description,
+                category=ptx.category,
+                subcategory=None,
+                memo=None,
+                is_credit=ptx.is_credit,
+                raw_data=ptx.raw_text,
+                import_batch_id=batch_id
+            )
+            transactions.append(tx)
+
+        if not transactions:
+            print(f"No transactions found in {file_path.name}")
+            return 0
+
+        self._insert_transactions(transactions)
+
+        self.db.execute("""
+            INSERT INTO import_batches (id, source_id, file_path, file_hash, import_type, record_count, date_range_start, date_range_end)
+            VALUES (?, ?, ?, ?, 'pdf_statement', ?, ?, ?)
+        """, (
+            batch_id,
+            self.source_id,
+            str(file_path),
+            file_hash,
+            len(transactions),
+            min(t.transaction_date for t in transactions),
+            max(t.transaction_date for t in transactions)
+        ))
+        self.db.commit()
+
+        print(f"Imported {len(transactions)} transactions from {file_path.name}")
+        return len(transactions)
+
+    def import_all_pdfs(self, directory: Path) -> int:
+        """Import all PDF statements from a directory."""
+        total = 0
+        pdf_files = sorted(directory.glob("*.pdf"))
+        print(f"Found {len(pdf_files)} PDF files in {directory}")
+
+        for pdf_file in pdf_files:
+            count = self.import_pdf(pdf_file)
+            total += count
+
+        return total
+
+    def _insert_transactions(self, transactions: List[Transaction]):
+        """Insert transactions into database."""
+        self.db.executemany("""
+            INSERT OR REPLACE INTO transactions
+            (id, source_id, external_id, transaction_date, post_date, amount,
+             merchant_name, merchant_name_normalized, description, category,
+             subcategory, memo, is_credit, raw_data, import_batch_id)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, [
+            (t.id, t.source_id, t.external_id, t.transaction_date, t.post_date,
+             str(t.amount), t.merchant_name, t.merchant_name_normalized,
+             t.description, t.category, t.subcategory, t.memo, t.is_credit,
+             t.raw_data, t.import_batch_id)
+            for t in transactions
+        ])
+
 
 # ============================================
 # RECONCILIATION ENGINE
@@ -514,10 +690,135 @@ class ReconciliationEngine:
             'pending_reimbursement': len(unmatched_expenses)
         }
 
+    def reconcile_expenses_vs_chase(self) -> Dict[str, Any]:
+        """Check which expenses are matched in Chase statements."""
+        run_id = self._create_run('expenses_vs_chase', 'expense_csv', 'chase_visa_2030')
+
+        # Get expense transactions for Chase card
+        expenses = self.db.execute("""
+            SELECT * FROM transactions
+            WHERE source_id = 'expense_csv'
+            AND (LOWER(raw_data) LIKE '%chase%' OR LOWER(category) NOT IN ('Infrastructure'))
+        """).fetchall()
+
+        # Get Chase transactions (purchases only, not credits/payments)
+        chase_txs = self.db.execute("""
+            SELECT * FROM transactions
+            WHERE source_id = 'chase_visa_2030'
+            AND NOT is_credit
+            AND transaction_date >= '2025-08-01'
+        """).fetchall()
+
+        matched = []
+        unmatched_expenses = []
+        unmatched_chase = list(chase_txs)
+
+        for exp in expenses:
+            match = self._find_best_match(exp, unmatched_chase)
+            if match:
+                matched.append((exp['id'], match['id'], match['confidence']))
+                # Remove from unmatched
+                unmatched_chase = [c for c in unmatched_chase if c['id'] != match['id']]
+            else:
+                unmatched_expenses.append(exp)
+
+        # Record matches
+        for exp_id, chase_id, confidence in matched:
+            self.db.execute("""
+                INSERT OR REPLACE INTO matches (transaction_id_1, transaction_id_2, match_type, confidence_score, matched_by)
+                VALUES (?, ?, ?, ?, 'system')
+            """, (exp_id, chase_id, 'exact' if confidence > 95 else 'date_fuzzy', confidence))
+
+        self.db.commit()
+
+        return {
+            'run_id': run_id,
+            'total_expenses': len(expenses),
+            'total_chase': len(chase_txs),
+            'matched': len(matched),
+            'unmatched_expenses': len(unmatched_expenses),
+            'unmatched_chase': len(unmatched_chase)
+        }
+
+    def reconcile_cc_payments_vs_boa(self) -> Dict[str, Any]:
+        """Check that credit card payments match bank withdrawals."""
+        run_id = self._create_run('cc_payments_vs_boa', 'chase_visa_2030', 'boa_checking')
+
+        # Get Chase payments (credits on CC = payments made)
+        chase_payments = self.db.execute("""
+            SELECT * FROM transactions
+            WHERE source_id = 'chase_visa_2030'
+            AND is_credit
+            AND (LOWER(description) LIKE '%payment%' OR LOWER(description) LIKE '%thank you%')
+        """).fetchall()
+
+        # Get BoA Chase payment withdrawals
+        boa_chase_payments = self.db.execute("""
+            SELECT * FROM transactions
+            WHERE source_id = 'boa_checking'
+            AND NOT is_credit
+            AND LOWER(description) LIKE '%chase%'
+        """).fetchall()
+
+        matched = []
+        for payment in chase_payments:
+            match = self._find_best_match(payment, boa_chase_payments)
+            if match:
+                matched.append((payment['id'], match['id'], match['confidence']))
+
+        # Record matches
+        for cc_id, boa_id, confidence in matched:
+            self.db.execute("""
+                INSERT OR REPLACE INTO matches (transaction_id_1, transaction_id_2, match_type, confidence_score, matched_by)
+                VALUES (?, ?, ?, ?, 'system')
+            """, (cc_id, boa_id, 'exact' if confidence > 95 else 'amount_fuzzy', confidence))
+
+        self.db.commit()
+
+        total_chase_payments = sum(Decimal(str(p['amount'])) for p in chase_payments)
+        total_boa_payments = sum(Decimal(str(p['amount'])) for p in boa_chase_payments)
+
+        return {
+            'run_id': run_id,
+            'chase_payments_count': len(chase_payments),
+            'boa_payments_count': len(boa_chase_payments),
+            'matched': len(matched),
+            'total_chase_payments': float(total_chase_payments),
+            'total_boa_payments': float(total_boa_payments)
+        }
+
+    def find_missing_in_expenses(self) -> List[Dict]:
+        """Find Chase transactions not tracked in expense CSV."""
+        # Get significant Chase purchases not matched
+        results = self.db.execute("""
+            SELECT c.*
+            FROM transactions c
+            WHERE c.source_id = 'chase_visa_2030'
+            AND NOT c.is_credit
+            AND c.amount >= 20
+            AND c.transaction_date >= '2025-08-01'
+            AND c.id NOT IN (
+                SELECT transaction_id_2 FROM matches WHERE transaction_id_1 LIKE 'exp_%'
+            )
+            ORDER BY c.amount DESC
+            LIMIT 100
+        """).fetchall()
+
+        return [dict(r) for r in results]
+
     def reconcile_all(self) -> Dict[str, Any]:
         """Run all reconciliation checks."""
         results = {}
+
+        print("  Checking expenses vs Ramp reimbursements...")
         results['expenses_vs_ramp'] = self.reconcile_expenses_vs_ramp()
+
+        print("  Checking expenses vs Chase statements...")
+        results['expenses_vs_chase'] = self.reconcile_expenses_vs_chase()
+
+        print("  Checking CC payments vs Bank account...")
+        results['cc_payments_vs_boa'] = self.reconcile_cc_payments_vs_boa()
+
         return results
 
     def _find_best_match(self, transaction: sqlite3.Row, candidates: List[sqlite3.Row]) -> Optional[Dict]:
@@ -731,14 +1032,45 @@ def cmd_import(args):
             file_path = Path(args.file)
             if file_path.suffix.lower() == '.csv':
                 importer.import_csv(file_path)
+            elif file_path.suffix.lower() == '.pdf':
+                importer.import_pdf(file_path)
+            elif file_path.is_dir():
+                importer.import_all_pdfs(file_path)
             else:
-                print(f"PDF import not yet implemented. Please export as CSV from Chase.")
+                print(f"Unknown file type: {file_path}")
         else:
-            print("Please specify a file path for Chase import.")
+            # Default to importing all PDFs from chase directory
+            chase_dir = PROJECT_ROOT / "chase"
+            if chase_dir.exists():
+                print(f"Importing all Chase PDFs from {chase_dir}...")
+                importer.import_all_pdfs(chase_dir)
+            else:
+                print("Please specify a file path for Chase import.")
+
+    elif args.source == 'boa':
+        importer = BankOfAmericaImporter(db)
+        if args.file:
+            file_path = Path(args.file)
+            if file_path.suffix.lower() == '.pdf':
+                importer.import_pdf(file_path)
+            elif file_path.is_dir():
+                importer.import_all_pdfs(file_path)
+            else:
+                print(f"Unknown file type: {file_path}")
+        else:
+            # Default to importing all PDFs from boa directory
+            boa_dir = PROJECT_ROOT / "boa"
+            if boa_dir.exists():
+                print(f"Importing all BoA PDFs from {boa_dir}...")
+                importer.import_all_pdfs(boa_dir)
+            else:
+                print("Please specify a file path for BoA import.")
 
     elif args.source == 'all':
         # Import all available sources
-        print("Importing all sources...")
+        print("=" * 60)
+        print("IMPORTING ALL DATA SOURCES")
+        print("=" * 60)
 
         print("\n1. Importing expense CSV...")
         exp_importer = ExpenseCSVImporter(db)
@@ -748,7 +1080,25 @@ def cmd_import(args):
         ramp_importer = RampImporter(db)
         ramp_importer.import_file(PROJECT_ROOT / "michael_dangelo_expenses.csv")
 
-        print("\nImport complete.")
+        print("\n3. Importing Chase credit card statements...")
+        chase_dir = PROJECT_ROOT / "chase"
+        if chase_dir.exists():
+            chase_importer = ChaseStatementImporter(db)
+            chase_importer.import_all_pdfs(chase_dir)
+        else:
+            print("   Chase directory not found, skipping.")
+
+        print("\n4. Importing Bank of America statements...")
+        boa_dir = PROJECT_ROOT / "boa"
+        if boa_dir.exists():
+            boa_importer = BankOfAmericaImporter(db)
+            boa_importer.import_all_pdfs(boa_dir)
+        else:
+            print("   BoA directory not found, skipping.")
+
+        print("\n" + "=" * 60)
+        print("IMPORT COMPLETE")
+        print("=" * 60)
 
     db.close()
 
@@ -823,7 +1173,7 @@ def main():
 
     # import
     import_parser = subparsers.add_parser('import', help='Import data')
-    import_parser.add_argument('source', choices=['expenses', 'ramp', 'chase', 'all'],
+    import_parser.add_argument('source', choices=['expenses', 'ramp', 'chase', 'boa', 'all'],
                                help='Data source to import')
     import_parser.add_argument('file', nargs='?', help='File path (for chase)')
 
