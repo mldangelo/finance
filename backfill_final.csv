@@ -307,11 +307,9 @@ BF-20250806-001,2025-08-06,Lyft,Lyft - Rideshare,38.80,Travel,Rideshare,Chase,pe
 BF-20250808-001,2025-08-08,Lyft,Lyft - Rideshare,25.26,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 08-06 HELP.LYFT.COM CA
 BF-20250809-001,2025-08-09,Amazon,Amazon - Supplies,108.82,Equipment,Supplies,Chase,pending,,,,,pending,medium,Business supplies,Backfill: AMAZON MKTPL*G43A63PF3 Amzn.com/bill WA
 BF-20250811-001,2025-08-11,Uber,Uber - Rideshare,49.53,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
-BF-20250812-002,2025-08-12,Anthropic,Anthropic - API Services,2500.00,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
 BF-20250812-001,2025-08-12,Uber,Uber - Rideshare,24.08,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250814-002,2025-08-14,Nola,Nola - Restaurant,41.43,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*NOLA - PALO ALTO 650-328-2722 CA
 BF-20250814-001,2025-08-14,Uber,Uber - Rideshare,23.99,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *EATS HELP.UBER.COM CA
-BF-20250815-003,2025-08-15,Anthropic,Anthropic - API Services,1502.14,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
 BF-20250815-002,2025-08-15,Uber,Uber - Rideshare,35.23,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250815-001,2025-08-15,Uber,Uber - Rideshare,34.10,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250816-001,2025-08-16,Dan,Dan - Restaurant,21.55,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
@@ -320,8 +318,6 @@ BF-20250819-001,2025-08-19,Uber,Uber - Rideshare,25.55,Travel,Rideshare,Chase,pe
 BF-20250820-001,2025-08-20,Lyft,Lyft - Rideshare,43.88,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 08-18 HELP.LYFT.COM CA
 BF-20250821-002,2025-08-21,Garaje,Garaje - Restaurant,86.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
 BF-20250821-001,2025-08-21,Garaje,Garaje - Restaurant,28.56,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *GARAJE San Francisco CA
-BF-20250822-002,2025-08-22,Delta Air Lines,Delta Air Lines - Airlines,100.01,Travel,Airlines,Amex,pending,,,,,pending,medium,Business airlines,Backfill: DELTA AIR LINES
-BF-20250822-001,2025-08-22,Zoom,Zoom - Video Conferencing,66.88,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
 BF-20250823-001,2025-08-23,Lyft,Lyft - Rideshare,42.31,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 08-21 HELP.LYFT.COM CA
 BF-20250826-001,2025-08-26,Lyft,Lyft - Rideshare,39.99,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 08-24 HELP.LYFT.COM CA
 BF-20250826-002,2025-08-26,Los,Los - Restaurant,24.64,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
@@ -343,7 +339,6 @@ BF-20250910-003,2025-09-10,Apple,Apple - Hardware,1748.91,Equipment,Hardware,Ame
 BF-20250910-002,2025-09-10,Amazon,Amazon - Supplies,580.09,Equipment,Supplies,Chase,pending,,,,,pending,high,Business supplies,Backfill: AMAZON MKTPL*FJ5BX08F3 Amzn.com/bill WA
 BF-20250910-001,2025-09-10,Lyft,Lyft - Rideshare,33.63,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 09-08 HELP.LYFT.COM CA
 BF-20250911-001,2025-09-11,Apple,Apple - Hardware,108.86,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
-BF-20250912-001,2025-09-12,Zoom,Zoom - Video Conferencing,54.23,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Business video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
 BF-20250914-001,2025-09-14,IKEA,IKEA - Office Furniture,3032.24,Equipment,Office Furniture,Amex,pending,,,,from:ikea,pending,high,Office furniture setup,Backfill: IKEA EAST PALO ALTO PALO ALTO CA
 BF-20250914-001,2025-09-14,Uber,Uber - Rideshare,45.34,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250918-001,2025-09-18,L?Industrie,L?Industrie - Restaurant,27.25,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *L?INDUSTRIE PIZZERIA New York NY
@@ -365,7 +360,6 @@ BF-20251002-002,2025-10-02,Uber,Uber - Rideshare,45.98,Travel,Rideshare,Chase,pe
 BF-20251003-001,2025-10-03,Apple,Apple - Hardware,108.86,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
 BF-20251004-001,2025-10-04,Mitr,Mitr - Restaurant,458.79,Meals,Restaurant,Chase,pending,,,,,pending,high,Business restaurant,Backfill: TST*MITR THAI New York NY
 BF-20251006-001,2025-10-06,Lyft,Lyft - Rideshare,22.04,Travel,Rideshare,Chase,pending,,,,,pending,medium,Business rideshare,Backfill: CITIBIK*7 RIDES HELP.LYFT.COM CA
-BF-20251011-001,2025-10-11,Airbnb,Airbnb - Lodging,2248.12,Travel,Lodging,Chase,pending,,,,,pending,high,Business lodging,Backfill: AIRBNB * HMAWDJY4T2 AIRBNB.COM CA
 BF-20251011-002,2025-10-11,South,South - Restaurant,62.65,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SOUTH OF THE CLOUDS New York NY
 BF-20251012-002,2025-10-12,Apple,Apple - Hardware,271.10,Equipment,Hardware,Chase,pending,,,,,pending,high,Business hardware,Backfill: APPLE STORE #R032 NEW YORK NY
 BF-20251012-001,2025-10-12,Stumptown,Stumptown - Restaurant,22.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
@@ -387,12 +381,9 @@ BF-20251028-002,2025-10-28,Amazon,Amazon - Supplies,75.64,Equipment,Supplies,Ame
 BF-20251102-001,2025-11-02,Amazon,Amazon - Supplies,212.66,Equipment,Supplies,Amex,pending,,,,,pending,high,Business supplies,Backfill: AMAZON MARKEPLACE NA PA
 BF-20251103-001,2025-11-03,Spring,Spring - Restaurant,70.04,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SPRING SHABU-SHABU B Brighton MA
 BF-20251108-001,2025-11-08,Sofra,Sofra - Restaurant,30.71,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*SOFRA - BRIGHTON ALL Allston MA
-BF-20251110-001,2025-11-10,Anthropic,Anthropic - API Services,1500.22,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
 BF-20251112-001,2025-11-12,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
-BF-20251113-001,2025-11-13,Apple,Apple - Hardware,3855.90,Equipment,Hardware,Chase,pending,,,,,pending,high,Business hardware,Backfill: APPLE.COM/US 800-692-7753 CA
 BF-20251115-001,2025-11-15,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,medium,Business hardware,Backfill: APPLE.COM/BILL 866-712-7753 CA
 BF-20251120-001,2025-11-20,Amc,Amc - Other,27.99,Meals,Other,Amex,pending,,,,,pending,medium,Business other,Backfill: AMC 9640 ONLINE*9640LEAWOOD             KS
-BF-20251124-001,2025-11-24,Delta Air Lines,Delta Air Lines - Airlines,588.18,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
 BF-20251207-001,2025-12-07,Anthropic,Anthropic - API Services,435.75,Infrastructure,API Services,Amex,pending,,,,,pending,high,Business api services,Backfill: ANTHROPIC           SAN FRANCISCO       CA
 BF-20251208-001,2025-12-08,Hotels.com,Hotels.com - Lodging,448.20,Travel,Lodging,Amex,pending,,,,,pending,high,Business lodging,Backfill: HOTELCOM733220743566HOTELS.COM          WA
 BF-20251209-001,2025-12-09,Delta Air Lines,Delta Air Lines - Airlines,617.97,Travel,Airlines,Amex,pending,,,,,pending,high,Business airlines,Backfill: DELTA AIR LINES
