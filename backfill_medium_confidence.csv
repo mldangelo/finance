@@ -1,0 +1,181 @@
+id,date,merchant,description,amount,category,subcategory,source_card,receipt_status,receipt_email_id,receipt_email_subject,receipt_file,email_search_query,submission_status,priority,business_purpose,notes
+BF-20250107-002,2025-01-07,DoorDash,DoorDash - Delivery,143.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH COUPACAFE 855-431-0459 CA
+BF-20250110-001,2025-01-10,DoorDash,DoorDash - Delivery,137.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH ELSINALOE WWW.DOORDASH. CA
+BF-20250111-001,2025-01-11,DoorDash,DoorDash - Delivery,21.17,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250112-002,2025-01-12,DoorDash,DoorDash - Delivery,28.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250113-001,2025-01-13,Amazon,Amazon - Supplies,76.17,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*Z52EO5IM2 Amzn.com/bill WA
+BF-20250115-001,2025-01-15,Amazon,Amazon - Supplies,65.31,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*ZG2US2PN2 Amzn.com/bill WA
+BF-20250117-001,2025-01-17,Amazon,Amazon - Supplies,62.69,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*ZG8F44832 Amzn.com/bill WA
+BF-20250118-001,2025-01-18,DoorDash,DoorDash - Delivery,28.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250121-002,2025-01-21,DoorDash,DoorDash - Delivery,70.36,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH MYDUMPLIN 855-431-0459 CA
+BF-20250124-001,2025-01-24,DoorDash,DoorDash - Delivery,57.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH POKEHOUSE 855-431-0459 CA
+BF-20250128-002,2025-01-28,DoorDash,DoorDash - Delivery,37.28,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH ELSINALOE 855-431-0459 CA
+BF-20250128-001,2025-01-28,DoorDash,DoorDash - Delivery,35.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH TABLAFORM 855-431-0459 CA
+BF-20250130-001,2025-01-30,DoorDash,DoorDash - Delivery,78.89,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HUMMUSMED 855-431-0459 CA
+BF-20250201-001,2025-02-01,DoorDash,DoorDash - Delivery,30.36,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH CUBANKITC 855-431-0459 CA
+BF-20250202-001,2025-02-02,DoorDash,DoorDash - Delivery,24.16,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250203-002,2025-02-03,Amazon,Amazon - Supplies,83.28,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*ZO5978E93 Amzn.com/bill WA
+BF-20250203-001,2025-02-03,DoorDash,DoorDash - Delivery,41.00,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOMTUMDER 855-431-0459 CA
+BF-20250205-001,2025-02-05,DoorDash,DoorDash - Delivery,20.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH EMPANADAM 855-431-0459 CA
+BF-20250207-003,2025-02-07,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250207-001,2025-02-07,Amazon,Amazon - Supplies,24.24,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*Q55ZW5QR3 Amzn.com/bill WA
+BF-20250207-002,2025-02-07,Amazon,Amazon - Supplies,21.76,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*Z78594HC1 Amzn.com/bill WA
+BF-20250208-002,2025-02-08,Amazon,Amazon - Supplies,52.24,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*7Y8SR1U43 Amzn.com/bill WA
+BF-20250208-001,2025-02-08,DoorDash,DoorDash - Delivery,33.49,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250211-002,2025-02-11,DoorDash,DoorDash - Delivery,73.15,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH MYDUMPLIN 855-431-0459 CA
+BF-20250211-001,2025-02-11,Amazon,Amazon - Supplies,45.00,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*7E49C4QR3 Amzn.com/bill WA
+BF-20250212-001,2025-02-12,Amazon,Amazon - Supplies,144.70,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*HV7C39QQ3 Amzn.com/bill WA
+BF-20250216-001,2025-02-16,DoorDash,DoorDash - Delivery,27.32,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250218-001,2025-02-18,DoorDash,DoorDash - Delivery,37.24,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250219-002,2025-02-19,DoorDash,DoorDash - Delivery,41.11,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250220-001,2025-02-20,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250221-001,2025-02-21,DoorDash,DoorDash - Delivery,28.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250226-001,2025-02-26,DoorDash,DoorDash - Delivery,99.08,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HUNANMIFE 855-431-0459 CA
+BF-20250227-002,2025-02-27,DoorDash,DoorDash - Delivery,61.31,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH ELSINALOE 855-431-0459 CA
+BF-20250227-001,2025-02-27,DoorDash,DoorDash - Delivery,55.44,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH MYUNGDONG 855-431-0459 CA
+BF-20250228-001,2025-02-28,DoorDash,DoorDash - Delivery,61.61,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH RISEWOODF 855-431-0459 CA
+BF-20250302-001,2025-03-02,DoorDash,DoorDash - Delivery,27.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250302-002,2025-03-02,DoorDash,DoorDash - Delivery,25.17,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH WEGMANS 855-431-0459 CA
+BF-20250303-002,2025-03-03,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250303-001,2025-03-03,DoorDash,DoorDash - Delivery,23.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DUANEREAD 855-431-0459 CA
+BF-20250304-001,2025-03-04,Amazon,Amazon - Supplies,30.47,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*BA5AF5453 Amzn.com/bill WA
+BF-20250304-002,2025-03-04,Amazon,Amazon - Supplies,27.27,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*F93ZG1753 Amzn.com/bill WA
+BF-20250306-001,2025-03-06,DoorDash,DoorDash - Delivery,71.68,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH CUBANKITC 855-431-0459 CA
+BF-20250313-001,2025-03-13,DoorDash,DoorDash - Delivery,27.82,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250314-001,2025-03-14,Amazon,Amazon - Supplies,26.50,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*UQ59L4GD3 Amzn.com/bill WA
+BF-20250315-003,2025-03-15,DoorDash,DoorDash - Delivery,50.11,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250315-002,2025-03-15,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250316-001,2025-03-16,DoorDash,DoorDash - Delivery,31.20,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250317-002,2025-03-17,DoorDash,DoorDash - Delivery,87.78,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH WALGREENS 855-431-0459 CA
+BF-20250317-003,2025-03-17,DoorDash,DoorDash - Delivery,53.23,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250317-001,2025-03-17,DoorDash,DoorDash - Delivery,22.64,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250319-002,2025-03-19,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250320-002,2025-03-20,DoorDash,DoorDash - Delivery,39.26,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DHHANDPUL 855-431-0459 CA
+BF-20250321-002,2025-03-21,Balthazar Restaurant New,Balthazar Restaurant New - Restaurant,152.07,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: BALTHAZAR RESTAURANT NEW YORK NY
+BF-20250321-001,2025-03-21,DoorDash,DoorDash - Delivery,29.35,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH MIGHTYQUI 855-431-0459 CA
+BF-20250322-001,2025-03-22,Lyft,Lyft - Rideshare,108.33,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *MEMB ANNUAL HELP.LYFT.COM CA
+BF-20250325-002,2025-03-25,DoorDash,DoorDash - Delivery,105.56,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH ELSINALOE 855-431-0459 CA
+BF-20250326-002,2025-03-26,Sushi Maruyama San,Sushi Maruyama San - Restaurant,315.78,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SUSHI MARUYAMA SAN MATEO CA
+BF-20250327-001,2025-03-27,DoorDash,DoorDash - Delivery,212.67,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HUMMUSMED 855-431-0459 CA
+BF-20250329-001,2025-03-29,DoorDash,DoorDash - Delivery,27.73,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250331-001,2025-03-31,DoorDash,DoorDash - Delivery,22.49,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH WINSONBAK 855-431-0459 CA
+BF-20250401-001,2025-04-01,DoorDash,DoorDash - Delivery,24.12,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH BENVENUTO 855-431-0459 CA
+BF-20250403-001,2025-04-03,DoorDash,DoorDash - Delivery,25.98,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250404-001,2025-04-04,DoorDash,DoorDash - Delivery,42.60,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH TARGET DOORDASH.COM CA
+BF-20250404-002,2025-04-04,DoorDash,DoorDash - Delivery,21.13,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250409-001,2025-04-09,DoorDash,DoorDash - Delivery,27.82,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH BUSSTOPCA 855-431-0459 CA
+BF-20250413-002,2025-04-13,Amazon,Amazon - Supplies,87.09,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*3R4PZ7QD3 Amzn.com/bill WA
+BF-20250413-001,2025-04-13,DoorDash,DoorDash - Delivery,70.31,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH GINGERAND 855-431-0459 CA
+BF-20250416-001,2025-04-16,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250419-001,2025-04-19,Lyft,Lyft - Rideshare,33.54,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *2 RIDES 04-17 HELP.LYFT.COM CA
+BF-20250420-002,2025-04-20,Oto Sushi Redmond,Oto Sushi Redmond - Restaurant,169.32,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: OTO SUSHI REDMOND REDMOND WA
+BF-20250421-001,2025-04-21,DoorDash,DoorDash - Delivery,26.50,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250423-001,2025-04-23,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250424-006,2025-04-24,Amazon,Amazon - Supplies,579.92,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*N25PW32X2 Amzn.com/bill WA
+BF-20250424-004,2025-04-24,Amazon,Amazon - Supplies,548.11,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*EM50W99P3 Amzn.com/bill WA
+BF-20250424-005,2025-04-24,Amazon,Amazon - Supplies,213.77,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*TC7OV8HC3 Amzn.com/bill WA
+BF-20250425-002,2025-04-25,DoorDash,DoorDash - Delivery,47.54,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250425-001,2025-04-25,DoorDash,DoorDash - Delivery,36.18,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH LANRAMENI 855-431-0459 CA
+BF-20250427-001,2025-04-27,Amazon,Amazon - Supplies,36.95,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*2F30C0V33 Amzn.com/bill WA
+BF-20250428-001,2025-04-28,Lyft,Lyft - Rideshare,101.16,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *4 RIDES 04-25 HELP.LYFT.COM CA
+BF-20250429-001,2025-04-29,DoorDash,DoorDash - Delivery,24.67,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250501-002,2025-05-01,DoorDash,DoorDash - Delivery,30.80,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH MADFORCHI 855-431-0459 CA
+BF-20250503-001,2025-05-03,DoorDash,DoorDash - Delivery,22.53,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH FARMACY 855-431-0459 CA
+BF-20250505-001,2025-05-05,DoorDash,DoorDash - Delivery,34.57,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH LACORNETA 855-431-0459 CA
+BF-20250505-002,2025-05-05,DoorDash,DoorDash - Delivery,31.91,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH MAMAN 855-431-0459 CA
+BF-20250506-001,2025-05-06,DoorDash,DoorDash - Delivery,45.33,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH CHODANGGO 855-431-0459 CA
+BF-20250507-001,2025-05-07,DoorDash,DoorDash - Delivery,38.83,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250509-001,2025-05-09,DoorDash,DoorDash - Delivery,20.37,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250512-001,2025-05-12,Joy Sushi.. San,Joy Sushi.. San - Restaurant,113.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: JOY SUSHI.. SAN MATEO CA
+BF-20250517-001,2025-05-17,DoorDash,DoorDash - Delivery,43.18,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH LADONG 855-431-0459 CA
+BF-20250517-002,2025-05-17,Uber,Uber - Rideshare,40.37,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM 800-5928996 CA
+BF-20250520-001,2025-05-20,Amazon,Amazon - Supplies,435.45,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*NW2HU89G0 Amzn.com/bill WA
+BF-20250520-002,2025-05-20,Uber,Uber - Rideshare,20.23,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM 800-5928996 CA
+BF-20250521-001,2025-05-21,Uber,Uber - Rideshare,22.54,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM 800-5928996 CA
+BF-20250523-001,2025-05-23,DoorDash,DoorDash - Delivery,60.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250523-002,2025-05-23,DoorDash,DoorDash - Delivery,21.46,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH TARGET 855-431-0459 CA
+BF-20250524-001,2025-05-24,Amazon,Amazon - Supplies,34.95,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*NZ7C555X0 Amzn.com/bill WA
+BF-20250528-001,2025-05-28,DoorDash,DoorDash - Delivery,23.62,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH CHODANGGO 855-431-0459 CA
+BF-20250528-002,2025-05-28,DoorDash,DoorDash - Delivery,20.31,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HOJOKBAN 855-431-0459 CA
+BF-20250529-001,2025-05-29,DoorDash,DoorDash - Delivery,32.61,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH NANXIANGS 855-431-0459 CA
+BF-20250607-001,2025-06-07,DoorDash,DoorDash - Delivery,21.62,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH THAIPHOON 855-431-0459 CA
+BF-20250611-001,2025-06-11,DoorDash,DoorDash - Delivery,50.05,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH NANXIANGS 855-431-0459 CA
+BF-20250612-001,2025-06-12,DoorDash,DoorDash - Delivery,32.38,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH TARGET 855-431-0459 CA
+BF-20250612-002,2025-06-12,DoorDash,DoorDash - Delivery,27.44,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250612-003,2025-06-12,DoorDash,DoorDash - Delivery,20.80,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250613-002,2025-06-13,Hatsuhana Sushi Restauran,Hatsuhana Sushi Restauran - Restaurant,181.07,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: HATSUHANA SUSHI RESTAURAN NEW YORK NY
+BF-20250613-001,2025-06-13,DoorDash,DoorDash - Delivery,28.48,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH NOONANOOD 855-431-0459 CA
+BF-20250614-001,2025-06-14,DoorDash,DoorDash - Delivery,34.02,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250614-002,2025-06-14,DoorDash,DoorDash - Delivery,27.72,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAMMYLCOF 855-431-0459 CA
+BF-20250615-001,2025-06-15,DoorDash,DoorDash - Delivery,44.30,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250615-002,2025-06-15,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250615-003,2025-06-15,DoorDash,DoorDash - Delivery,23.58,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH GNOCCHION 855-431-0459 CA
+BF-20250616-001,2025-06-16,DoorDash,DoorDash - Delivery,24.56,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DIMSUMSAM 855-431-0459 CA
+BF-20250624-001,2025-06-24,DoorDash,DoorDash - Delivery,37.19,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH MAMAN 855-431-0459 CA
+BF-20250626-004,2025-06-26,DoorDash,DoorDash - Delivery,52.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAIGONSHA 855-431-0459 CA
+BF-20250626-002,2025-06-26,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250630-001,2025-06-30,Amazon,Amazon - Supplies,20.58,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*NQ0HX5RK0 Amzn.com/bill WA
+BF-20250702-002,2025-07-02,DoorDash,DoorDash - Delivery,41.35,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH GOURMETGA 855-431-0459 CA
+BF-20250702-003,2025-07-02,DoorDash,DoorDash - Delivery,20.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250703-001,2025-07-03,DoorDash,DoorDash - Delivery,31.20,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250707-001,2025-07-07,DoorDash,DoorDash - Delivery,26.62,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH ROYALGREE 855-431-0459 CA
+BF-20250708-001,2025-07-08,DoorDash,DoorDash - Delivery,24.06,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DIMSUMSAM 855-431-0459 CA
+BF-20250709-002,2025-07-09,Gyu Kaku Restaurant,Gyu Kaku Restaurant - Restaurant,357.12,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: GYU KAKU RESTAURANT 408-3431088 CA
+BF-20250709-001,2025-07-09,Lyft,Lyft - Rideshare,35.56,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *2 RIDES 07-07 HELP.LYFT.COM CA
+BF-20250711-002,2025-07-11,DoorDash,DoorDash - Delivery,37.29,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250711-001,2025-07-11,DoorDash,DoorDash - Delivery,32.44,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250712-002,2025-07-12,Lyft,Lyft - Rideshare,69.49,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *2 RIDES 07-10 HELP.LYFT.COM CA
+BF-20250712-001,2025-07-12,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250713-001,2025-07-13,DoorDash,DoorDash - Delivery,27.66,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
+BF-20250714-003,2025-07-14,DoorDash,DoorDash - Delivery,29.07,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250714-002,2025-07-14,DoorDash,DoorDash - Delivery,24.54,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
+BF-20250716-001,2025-07-16,DoorDash,DoorDash - Delivery,31.20,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250717-001,2025-07-17,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250718-001,2025-07-18,Uber,Uber - Rideshare,38.90,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *EATS HELP.UBER.COM CA
+BF-20250718-005,2025-07-18,DoorDash,DoorDash - Delivery,26.96,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH GOPUFF 855-431-0459 CA
+BF-20250718-002,2025-07-18,Uber,Uber - Rideshare,21.14,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *EATS HELP.UBER.COM CA
+BF-20250719-001,2025-07-19,DoorDash,DoorDash - Delivery,45.24,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SAIGONSHA 855-431-0459 CA
+BF-20250720-001,2025-07-20,Lyft,Lyft - Rideshare,82.54,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *1 RIDE 07-18 HELP.LYFT.COM CA
+BF-20250720-003,2025-07-20,DoorDash,DoorDash - Delivery,21.94,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250721-001,2025-07-21,DoorDash,DoorDash - Delivery,31.16,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SERAFINA 855-431-0459 CA
+BF-20250723-002,2025-07-23,Amazon,Amazon - Supplies,156.23,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*R85XC1MX3 Amzn.com/bill WA
+BF-20250723-001,2025-07-23,Amazon,Amazon - Supplies,87.09,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*9D09Z6TM3 Amzn.com/bill WA
+BF-20250723-003,2025-07-23,Amazon,Amazon - Supplies,48.98,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*X84MI2UY3 Amzn.com/bill WA
+BF-20250724-002,2025-07-24,DoorDash,DoorDash - Delivery,27.23,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
+BF-20250724-001,2025-07-24,DoorDash,DoorDash - Delivery,23.58,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOMTUMDER 855-431-0459 CA
+BF-20250726-002,2025-07-26,DoorDash,DoorDash - Delivery,24.01,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH CHARLIEBI 855-431-0459 CA
+BF-20250726-001,2025-07-26,DoorDash,DoorDash - Delivery,21.94,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
+BF-20250729-002,2025-07-29,DoorDash,DoorDash - Delivery,48.68,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
+BF-20250729-001,2025-07-29,DoorDash,DoorDash - Delivery,28.04,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
+BF-20250730-001,2025-07-30,DoorDash,DoorDash - Delivery,29.71,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH THEHALALG 855-431-0459 CA
+BF-20250731-001,2025-07-31,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SANMARZAN 855-431-0459 CA
+BF-20250731-002,2025-07-31,DoorDash,DoorDash - Delivery,23.58,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH SOMTUMDER 855-431-0459 CA
+BF-20250802-001,2025-08-02,DoorDash,DoorDash - Delivery,28.90,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH DANANDJOH 855-431-0459 CA
+BF-20250803-001,2025-08-03,Lyft,Lyft - Rideshare,135.38,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *2 RIDES 08-01 HELP.LYFT.COM CA
+BF-20250806-001,2025-08-06,Lyft,Lyft - Rideshare,38.80,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *3 RIDES 08-04 HELP.LYFT.COM CA
+BF-20250808-001,2025-08-08,Lyft,Lyft - Rideshare,25.26,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *2 RIDES 08-06 HELP.LYFT.COM CA
+BF-20250809-001,2025-08-09,Amazon,Amazon - Supplies,108.82,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*G43A63PF3 Amzn.com/bill WA
+BF-20250811-001,2025-08-11,Uber,Uber - Rideshare,49.53,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250812-001,2025-08-12,Uber,Uber - Rideshare,24.08,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250814-001,2025-08-14,Uber,Uber - Rideshare,23.99,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *EATS HELP.UBER.COM CA
+BF-20250815-002,2025-08-15,Uber,Uber - Rideshare,35.23,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250815-001,2025-08-15,Uber,Uber - Rideshare,34.10,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250819-001,2025-08-19,Uber,Uber - Rideshare,25.55,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250820-001,2025-08-20,Lyft,Lyft - Rideshare,43.88,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *2 RIDES 08-18 HELP.LYFT.COM CA
+BF-20250823-001,2025-08-23,Lyft,Lyft - Rideshare,42.31,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *1 RIDE 08-21 HELP.LYFT.COM CA
+BF-20250826-001,2025-08-26,Lyft,Lyft - Rideshare,39.99,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *1 RIDE 08-24 HELP.LYFT.COM CA
+BF-20250827-001,2025-08-27,Lyft,Lyft - Rideshare,49.97,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *1 RIDE 08-25 HELP.LYFT.COM CA
+BF-20250828-002,2025-08-28,Amazon,Amazon - Supplies,86.01,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: Amazon.com*OM64A9NO3 Amzn.com/bill WA
+BF-20250902-002,2025-09-02,Uber,Uber - Rideshare,49.96,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250910-002,2025-09-10,Amazon,Amazon - Supplies,580.09,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*FJ5BX08F3 Amzn.com/bill WA
+BF-20250910-001,2025-09-10,Lyft,Lyft - Rideshare,33.63,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: LYFT *1 RIDE 09-08 HELP.LYFT.COM CA
+BF-20250914-001,2025-09-14,Uber,Uber - Rideshare,45.34,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20250930-001,2025-09-30,Amazon,Amazon - Supplies,151.34,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON PRIME*NJ89268F1 Amzn.com/bill WA
+BF-20251002-002,2025-10-02,Uber,Uber - Rideshare,45.98,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: UBER *TRIP HELP.UBER.COM CA
+BF-20251006-001,2025-10-06,Lyft,Lyft - Rideshare,22.04,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: CITIBIK*7 RIDES HELP.LYFT.COM CA
+BF-20251013-001,2025-10-13,Lyft,Lyft - Rideshare,25.31,Travel,Rideshare,Chase,pending,,,,,pending,medium,Work transportation,Backfill: CITIBIK*11 RIDES HELP.LYFT.COM CA
+BF-20251014-001,2025-10-14,Amazon,Amazon - Supplies,109.61,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*NF3XW3922 Amzn.com/bill WA
+BF-20251014-002,2025-10-14,Amazon,Amazon - Supplies,81.87,Equipment,Supplies,Chase,pending,,,,,pending,medium,Work supplies,Backfill: AMAZON MKTPL*NF0AA3RP2 Amzn.com/bill WA
+BF-20251016-001,2025-10-16,DoorDash,DoorDash - Delivery,43.10,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASHWEGMANS 855-431-0459 CA
+BF-20251019-001,2025-10-19,DoorDash,DoorDash - Delivery,75.98,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: PP*DOORDASH CVS 855-973-1040 CA
+BF-20251021-002,2025-10-21,DoorDash,DoorDash - Delivery,57.48,Meals,Delivery,Chase,pending,,,,,pending,medium,Meal delivery,Backfill: DD *DOORDASH CVS DOORDASH.COM CA

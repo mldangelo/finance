@@ -1,0 +1,157 @@
+id,date,merchant,description,amount,category,subcategory,source_card,receipt_status,receipt_email_id,receipt_email_subject,receipt_file,email_search_query,submission_status,priority,business_purpose,notes
+BF-20250106-001,2025-01-06,Palo Alto,Palo Alto - Restaurant,26.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *PALO ALTO Palo Alto CA
+BF-20250107-001,2025-01-07,Verve Coffee Roasters,Verve Coffee Roasters - Restaurant,22.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *VERVE COFFEE ROASTERS Palo Alto CA
+BF-20250112-001,2025-01-12,Bedford Gardens,Bedford Gardens - Restaurant,64.08,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*BEDFORD GARDENS Brooklyn NY
+BF-20250115-002,2025-01-15,Don Angie,Don Angie - Restaurant,168.83,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DON ANGIE New York NY
+BF-20250116-001,2025-01-16,Hamburger America,Hamburger America - Restaurant,65.04,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250119-001,2025-01-19,Square Diner,Square Diner - Restaurant,76.68,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *SQUARE DINER New York NY
+BF-20250121-003,2025-01-21,Chez Maman,Chez Maman - Restaurant,84.69,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*CHEZ MAMAN - EAST San Francisco CA
+BF-20250121-001,2025-01-21,Red Hot Chilli Peppe,Red Hot Chilli Peppe - Restaurant,34.83,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* RED HOT CHILLI PEPPE SAN CARLOS CA
+BF-20250123-001,2025-01-23,Doppio Zero,Doppio Zero - Restaurant,93.53,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DOPPIO ZERO - SAN CA San Carlos CA
+BF-20250124-002,2025-01-24,Mensho Tokyo,Mensho Tokyo - Restaurant,96.48,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*MENSHO - GEARY San Francisco CA
+BF-20250126-001,2025-01-26,The Refuge,The Refuge - Restaurant,37.78,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*THE REFUGE - SAN CAR San Carlos CA
+BF-20250129-001,2025-01-29,Impasto,Impasto - Restaurant,45.29,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*IMPASTO San Carlos CA
+BF-20250210-001,2025-02-10,Cafe Mogador,Cafe Mogador - Restaurant,39.80,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* CAFE MOGADOR WILLIAM BROOKLYN NY
+BF-20250215-001,2025-02-15,Saucy Lukes Barbecue Buckeye A,Saucy Lukes Barbecue Buckeye A - Restaurant,38.85,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *SAUCY LUKES BARBECUE Buckeye AZ
+BF-20250219-001,2025-02-19,Dig Inn,Dig Inn - Restaurant,30.81,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DIG INN SEASONAL MAR NEW YORK NY
+BF-20250222-001,2025-02-22,Dos Toros,Dos Toros - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250226-002,2025-02-26,Blind Tasting,Blind Tasting - Restaurant,53.75,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* BLIND TASTING BEER & SAN CARLOS CA
+BF-20250309-001,2025-03-09,Rosecrans,Rosecrans - Restaurant,50.08,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *ROSECRANS New York NY
+BF-20250309-004,2025-03-09,Spot Dessert Bar,Spot Dessert Bar - Restaurant,35.89,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SPOT DESSERT BAR - L Long Island C NY
+BF-20250309-002,2025-03-09,Stumptown Coffee Roas,Stumptown Coffee Roas - Restaurant,27.90,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250309-003,2025-03-09,Le Village,Le Village - Restaurant,23.36,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LE VILLAGE 4F New York NY
+BF-20250312-001,2025-03-12,Dos Toros,Dos Toros - Restaurant,35.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250315-001,2025-03-15,Sm?R,Sm?R - Restaurant,55.25,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *SM?R New York NY
+BF-20250317-004,2025-03-17,Employees Only Llc,Employees Only Llc - Restaurant,47.35,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *EMPLOYEES ONLY LLC New York NY
+BF-20250319-001,2025-03-19,Dante,Dante - Restaurant,24.93,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DANTE - HUDSON ST New York NY
+BF-20250320-001,2025-03-20,Dos Toros,Dos Toros - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250323-001,2025-03-23,Daeho,Daeho - Restaurant,67.40,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DAEHO KALBIJJIM - SA San Mateo CA
+BF-20250325-001,2025-03-25,Apple,Apple - Hardware,3175.78,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/US 800-692-7753 CA
+BF-20250326-001,2025-03-26,San Mateo Somisomi San Mateo C,San Mateo Somisomi San Mateo C - Restaurant,31.97,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *SAN MATEO SOMISOMI San Mateo CA
+BF-20250327-002,2025-03-27,Taishoken Ramen,Taishoken Ramen - Restaurant,128.33,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*TAISHOKEN RAMEN - SA San Mateo CA
+BF-20250328-001,2025-03-28,Cellarmaker House Of,Cellarmaker House Of - Restaurant,63.77,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*CELLARMAKER HOUSE OF 415-296-6351 CA
+BF-20250401-003,2025-04-01,Dante,Dante - Restaurant,163.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DANTE - MACDOUGAL ST New York NY
+BF-20250401-002,2025-04-01,Dough Zone,Dough Zone - Restaurant,53.34,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOUGH ZONE - SAN MAT SAN MATEO CA
+BF-20250402-001,2025-04-02,Le Village,Le Village - Restaurant,23.86,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LE VILLAGE 4F New York NY
+BF-20250403-002,2025-04-03,Stumptown Coffee Roas,Stumptown Coffee Roas - Restaurant,29.26,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250405-001,2025-04-05,Dos Toros,Dos Toros - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250407-001,2025-04-07,Palette Tea House,Palette Tea House - Restaurant,163.06,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*PALETTE TEA HOUSE San Francisco CA
+BF-20250409-002,2025-04-09,The Refuge,The Refuge - Restaurant,83.37,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*THE REFUGE - SAN CAR San Carlos CA
+BF-20250416-002,2025-04-16,Doppio Zero,Doppio Zero - Restaurant,86.70,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DOPPIO ZERO - SAN CA San Carlos CA
+BF-20250420-001,2025-04-20,Zeek'S Pizza,Zeek'S Pizza - Restaurant,39.09,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* ZEEK'S PIZZA - KIRKL BELLEVUE WA
+BF-20250422-001,2025-04-22,Mala Project,Mala Project - Restaurant,52.84,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* MALA PROJECT - EAST NEW YORK NY
+BF-20250424-002,2025-04-24,Zoom,Zoom - Video Conferencing,100.76,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250424-003,2025-04-24,Zoom,Zoom - Video Conferencing,100.75,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250424-001,2025-04-24,Dos Toros,Dos Toros - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250428-002,2025-04-28,Garaje San Francisco Ca,Garaje San Francisco Ca - Restaurant,116.86,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *GARAJE San Francisco CA
+BF-20250428-003,2025-04-28,Sightglass Coffee,Sightglass Coffee - Restaurant,23.06,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SIGHTGLASS COFFEE - San Francisco CA
+BF-20250429-002,2025-04-29,Ippudo San Francisco San Franc,Ippudo San Francisco San Franc - Restaurant,99.07,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *IPPUDO SAN FRANCISCO San Francisco CA
+BF-20250429-003,2025-04-29,Flour & Branch,Flour & Branch - Restaurant,31.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* FLOUR & BRANCH SAN FRANCISCO CA
+BF-20250430-001,2025-04-30,Schroeders,Schroeders - Restaurant,130.05,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SCHROEDERS RESTAURA San Francisco CA
+BF-20250501-003,2025-05-01,Wabi Sabi Sf San Francisco Ca,Wabi Sabi Sf San Francisco Ca - Restaurant,114.71,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *WABI SABI SF San Francisco CA
+BF-20250501-001,2025-05-01,Arsicault Bakery Inc San Franc,Arsicault Bakery Inc San Franc - Restaurant,22.85,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *ARSICAULT BAKERY INC SAN FRANCISCO CA
+BF-20250502-001,2025-05-02,Super Duper,Super Duper - Restaurant,40.18,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* SUPER DUPER - DOWNTO SAN FRANCISCO CA
+BF-20250502-002,2025-05-02,La Taqueria San Francisco Ca,La Taqueria San Francisco Ca - Restaurant,25.30,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *LA TAQUERIA San Francisco CA
+BF-20250508-001,2025-05-08,Coppelia,Coppelia - Restaurant,29.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*COPPELIA New York NY
+BF-20250510-001,2025-05-10,Lexpress,Lexpress - Restaurant,83.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LEXPRESS New York NY
+BF-20250510-002,2025-05-10,Jacks Wife Freda,Jacks Wife Freda - Restaurant,54.13,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*JACKS WIFE FREDA - New York NY
+BF-20250513-001,2025-05-13,Farmhouse Kitchen Th,Farmhouse Kitchen Th - Restaurant,53.15,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*FARMHOUSE KITCHEN TH San Francisco CA
+BF-20250516-001,2025-05-16,Macarena,Macarena - Restaurant,428.71,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*MACARENA 2025 Palo Alto CA
+BF-20250519-001,2025-05-19,Terun Pizza,Terun Pizza - Restaurant,140.35,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*TERUN PIZZA - PALO A Palo Alto CA
+BF-20250521-002,2025-05-21,Bucks Of Woodside Woodside,Bucks Of Woodside Woodside - Restaurant,85.39,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*BUCKS OF WOODSIDE Woodside CA
+BF-20250524-002,2025-05-24,Central Park Dockside,Central Park Dockside - Restaurant,51.55,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *CENTRAL PARK DOCKSIDE New York NY
+BF-20250531-003,2025-05-31,Twelvemonth,Twelvemonth - Restaurant,107.59,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*TWELVEMONTH Burlingame CA
+BF-20250531-002,2025-05-31,Doppio Zero,Doppio Zero - Restaurant,66.15,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DOPPIO ZERO - SAN CA San Carlos CA
+BF-20250531-001,2025-05-31,Barrelhouse Burlinga Burlingame,Barrelhouse Burlinga Burlingame - Restaurant,44.09,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* BARRELHOUSE BURLINGA BURLINGAME CA
+BF-20250602-001,2025-06-02,Yayoi,Yayoi - Restaurant,94.78,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *YAYOI Palo Alto CA
+BF-20250606-001,2025-06-06,Verve Coffee Universi,Verve Coffee Universi - Restaurant,38.32,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *VERVE COFFEE UNIVERSI Palo Alto CA
+BF-20250607-003,2025-06-07,Copal,Copal - Restaurant,95.79,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*COPAL - SANTA CRUZ Santa Cruz CA
+BF-20250607-002,2025-06-07,First Awakenings,First Awakenings - Restaurant,43.05,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*FIRST AWAKENINGS - P Monterey CA
+BF-20250607-004,2025-06-07,Carmel Bakery Carmel-By-The,Carmel Bakery Carmel-By-The - Restaurant,24.70,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*CARMEL BAKERY Carmel-by-the CA
+BF-20250609-001,2025-06-09,Din Tai Fung,Din Tai Fung - Restaurant,81.52,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DIN TAI FUNG - VALLE SANTA CLARA CA
+BF-20250618-001,2025-06-18,Kajiken,Kajiken - Restaurant,70.58,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* KAJIKEN SAN MATEO CA
+BF-20250619-001,2025-06-19,Airbnb,Airbnb - Lodging,263.40,Travel,Lodging,Chase,pending,,,,,pending,high,Work travel accommodation,Backfill: AIRBNB * HMHTR8TR8K AIRBNB.COM CA
+BF-20250621-001,2025-06-21,Panorama Pizza Pub Healy Ak,Panorama Pizza Pub Healy Ak - Restaurant,90.20,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* PANORAMA PIZZA PUB HEALY AK
+BF-20250625-002,2025-06-25,Cursor AI,Cursor AI - Development Tools,209.04,Software,Development Tools,Chase,pending,,,,,pending,medium,AI coding tool,"Backfill: CURSOR, AI POWERED IDE CURSOR.COM NY"
+BF-20250625-003,2025-06-25,Zoom,Zoom - Video Conferencing,165.70,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250625-001,2025-06-25,HotelTonight,HotelTonight - Lodging,149.00,Travel,Lodging,Chase,pending,,,,,pending,high,Work travel accommodation,Backfill: HOTELTONIGHT*THE CATRI 800-208-2949 CA
+BF-20250626-001,2025-06-26,Airbnb,Airbnb - Lodging,614.31,Travel,Lodging,Chase,pending,,,,,pending,high,Work travel accommodation,Backfill: AIRBNB * HMRQ2P4H8E AIRBNB.COM CA
+BF-20250626-003,2025-06-26,Stumptown Coffee Roas,Stumptown Coffee Roas - Restaurant,23.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250627-002,2025-06-27,Dig Inn,Dig Inn - Restaurant,33.79,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DIG INN SEASONAL MAR NEW YORK NY
+BF-20250627-001,2025-06-27,Dos Toros,Dos Toros - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250628-001,2025-06-28,Mala Project,Mala Project - Restaurant,57.99,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* MALA PROJECT - GREEN BROOKLYN NY
+BF-20250629-001,2025-06-29,Dos Toros,Dos Toros - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250630-002,2025-06-30,Gotham Burger Nyc,Gotham Burger Nyc - Restaurant,25.41,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*GOTHAM BURGER NYC New York NY
+BF-20250702-001,2025-07-02,Anthropic,Anthropic - API Services,250.00,Infrastructure,API Services,Chase,pending,,,,,pending,critical,Claude API,Backfill: ANTHROPIC ANTHROPIC.COM CA
+BF-20250708-002,2025-07-08,Mensho Tokyo,Mensho Tokyo - Restaurant,45.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*MENSHO - GEARY San Francisco CA
+BF-20250709-003,2025-07-09,Kajiken,Kajiken - Restaurant,95.26,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* KAJIKEN SAN MATEO CA
+BF-20250712-003,2025-07-12,Hamburger America,Hamburger America - Restaurant,46.73,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250713-002,2025-07-13,Stumptown Coffee Roas,Stumptown Coffee Roas - Restaurant,43.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20250714-001,2025-07-14,Taim,Taim - Restaurant,40.37,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* TAIM - NOLITA NEW YORK NY
+BF-20250715-001,2025-07-15,Dos Toros,Dos Toros - Restaurant,26.80,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250718-004,2025-07-18,Gotham Burger Nyc,Gotham Burger Nyc - Restaurant,58.79,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*GOTHAM BURGER NYC New York NY
+BF-20250718-003,2025-07-18,Dos Toros,Dos Toros - Restaurant,26.53,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250720-002,2025-07-20,Book Club Bar,Book Club Bar - Restaurant,25.77,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*BOOK CLUB BAR New York NY
+BF-20250728-001,2025-07-28,Dos Toros,Dos Toros - Restaurant,20.88,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* DOS TOROS - CARMINE NEW YORK NY
+BF-20250731-003,2025-07-31,Hamburger America,Hamburger America - Restaurant,26.33,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250814-002,2025-08-14,Nola,Nola - Restaurant,41.43,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*NOLA - PALO ALTO 650-328-2722 CA
+BF-20250816-001,2025-08-16,Dan And John'S Wings,Dan And John'S Wings - Restaurant,21.55,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
+BF-20250817-001,2025-08-17,Gotham Burger Nyc,Gotham Burger Nyc - Restaurant,24.05,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*GOTHAM BURGER NYC New York NY
+BF-20250821-002,2025-08-21,Garaje San Francisco Ca,Garaje San Francisco Ca - Restaurant,86.50,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *GARAJE San Francisco CA
+BF-20250821-001,2025-08-21,Garaje San Francisco Ca,Garaje San Francisco Ca - Restaurant,28.56,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *GARAJE San Francisco CA
+BF-20250822-001,2025-08-22,Zoom,Zoom - Video Conferencing,66.88,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250826-002,2025-08-26,Los Tacos No. 1 Fidi,Los Tacos No. 1 Fidi - Restaurant,24.64,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250827-002,2025-08-27,Los Tacos No. 1 Fidi,Los Tacos No. 1 Fidi - Restaurant,23.64,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250828-001,2025-08-28,Acadia,Acadia - Restaurant,93.43,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* ACADIA NEW YORK NY
+BF-20250828-003,2025-08-28,Los Tacos No. 1 Fidi,Los Tacos No. 1 Fidi - Restaurant,24.95,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250829-001,2025-08-29,Los Tacos No. 1 Fidi,Los Tacos No. 1 Fidi - Restaurant,32.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250830-001,2025-08-30,Tokyo Drumstick,Tokyo Drumstick - Restaurant,38.47,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *TOKYO DRUMSTICK New York NY
+BF-20250830-002,2025-08-30,Los Tacos No. 1 Fidi,Los Tacos No. 1 Fidi - Restaurant,31.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
+BF-20250831-001,2025-08-31,La Dong,La Dong - Restaurant,69.24,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*LA DONG New York NY
+BF-20250902-001,2025-09-02,Garaje San Francisco Ca,Garaje San Francisco Ca - Restaurant,83.00,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *GARAJE San Francisco CA
+BF-20250902-003,2025-09-02,Garaje San Francisco Ca,Garaje San Francisco Ca - Restaurant,20.49,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *GARAJE San Francisco CA
+BF-20250904-001,2025-09-04,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20250911-001,2025-09-11,Apple,Apple - Hardware,108.86,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20250912-001,2025-09-12,Zoom,Zoom - Video Conferencing,54.23,Software,Video Conferencing,Chase,pending,,,,,pending,medium,Video conferencing,Backfill: ZOOM.COM 888-799-966 San Jose CA
+BF-20250918-001,2025-09-18,L?Industrie Pizzeria,L?Industrie Pizzeria - Restaurant,27.25,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *L?INDUSTRIE PIZZERIA New York NY
+BF-20250919-001,2025-09-19,Dan And John'S Wings,Dan And John'S Wings - Restaurant,43.69,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
+BF-20250920-002,2025-09-20,Dinosaur Bar-B-Que,Dinosaur Bar-B-Que - Restaurant,67.66,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DINOSAUR BAR-B-QUE - New York NY
+BF-20250920-001,2025-09-20,Dinosaur Bar-B-Que,Dinosaur Bar-B-Que - Restaurant,21.51,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*DINOSAUR BAR-B-QUE - New York NY
+BF-20250921-002,2025-09-21,Apple Store,Apple Store - Hardware,869.91,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE STORE #R032 NEW YORK NY
+BF-20250921-003,2025-09-21,Apple Store,Apple Store - Hardware,271.10,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE STORE #R032 NEW YORK NY
+BF-20250921-001,2025-09-21,Hamburger America,Hamburger America - Restaurant,26.74,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20250922-002,2025-09-22,Garaje San Francisco Ca,Garaje San Francisco Ca - Restaurant,75.11,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *GARAJE San Francisco CA
+BF-20250922-003,2025-09-22,Garaje San Francisco Ca,Garaje San Francisco Ca - Restaurant,26.18,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *GARAJE San Francisco CA
+BF-20250922-001,2025-09-22,Apple,Apple - Hardware,21.32,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20250927-001,2025-09-27,Smashy Club,Smashy Club - Restaurant,24.99,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *SMASHY CLUB New York NY
+BF-20250928-001,2025-09-28,Jeremy'S Ale House,Jeremy'S Ale House - Restaurant,30.83,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *JEREMY'S ALE HOUSE New York NY
+BF-20251002-001,2025-10-02,Minami Restaurant Tor,Minami Restaurant Tor - Restaurant,305.75,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *MINAMI RESTAURANT TOR TORONTO ON
+BF-20251003-001,2025-10-03,Apple,Apple - Hardware,108.86,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251004-001,2025-10-04,Mitr Thai,Mitr Thai - Restaurant,458.79,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*MITR THAI New York NY
+BF-20251011-001,2025-10-11,Airbnb,Airbnb - Lodging,2248.12,Travel,Lodging,Chase,pending,,,,,pending,high,Work travel accommodation,Backfill: AIRBNB * HMAWDJY4T2 AIRBNB.COM CA
+BF-20251011-002,2025-10-11,South Of The Clouds,South Of The Clouds - Restaurant,62.65,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SOUTH OF THE CLOUDS New York NY
+BF-20251012-002,2025-10-12,Apple Store,Apple Store - Hardware,271.10,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE STORE #R032 NEW YORK NY
+BF-20251012-001,2025-10-12,Stumptown Coffee Roas,Stumptown Coffee Roas - Restaurant,22.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
+BF-20251018-001,2025-10-18,Culture Espresso,Culture Espresso - Restaurant,135.99,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *CULTURE ESPRESSO New York NY
+BF-20251019-002,2025-10-19,Hamburger America,Hamburger America - Restaurant,26.33,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*HAMBURGER AMERICA New York NY
+BF-20251019-004,2025-10-19,Culture Espresso,Culture Espresso - Restaurant,25.48,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *CULTURE ESPRESSO New York NY
+BF-20251019-003,2025-10-19,Bon Me - Harvard Smit Cambridg,Bon Me - Harvard Smit Cambridg - Restaurant,20.86,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *BON ME - HARVARD SMIT Cambridge MA
+BF-20251021-001,2025-10-21,Apple,Apple - Hardware,21.32,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251022-001,2025-10-22,Spring Shabu-Shabu,Spring Shabu-Shabu - Restaurant,29.94,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SPRING SHABU-SHABU B Brighton MA
+BF-20251023-001,2025-10-23,Too Hot,Too Hot - Restaurant,109.11,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*TOO HOT Cambridge MA
+BF-20251024-001,2025-10-24,Krasi Boston Ma,Krasi Boston Ma - Restaurant,128.04,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: SQ *KRASI Boston MA
+BF-20251025-001,2025-10-25,Mr. Bartley's,Mr. Bartley's - Restaurant,53.01,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*MR BARTLEYS BURGER Cambridge MA
+BF-20251027-001,2025-10-27,Trident Booksellers,Trident Booksellers - Restaurant,21.21,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*TRIDENT BOOKSELLERS 617-267-8688 MA
+BF-20251031-001,2025-10-31,Boston Ramen,Boston Ramen - Restaurant,60.60,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*BOSTON RAMEN Cambridge MA
+BF-20251101-001,2025-11-01,Sumiao Hunan,Sumiao Hunan - Restaurant,102.87,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SUMIAO XIANG RESTAUR Cambridge MA
+BF-20251102-001,2025-11-02,Too Hot,Too Hot - Restaurant,69.31,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*TOO HOT Cambridge MA
+BF-20251103-002,2025-11-03,Spring Shabu-Shabu,Spring Shabu-Shabu - Restaurant,70.04,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SPRING SHABU-SHABU B Brighton MA
+BF-20251103-001,2025-11-03,Tatte Bakery,Tatte Bakery - Restaurant,46.81,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* TATTE BAKERY - HARVA CAMBRIDGE MA
+BF-20251105-001,2025-11-05,Perillas,Perillas - Restaurant,29.67,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*PERILLAS - ALLSTON Boston MA
+BF-20251108-001,2025-11-08,Sofra Bakery,Sofra Bakery - Restaurant,30.71,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*SOFRA - BRIGHTON ALL Allston MA
+BF-20251112-001,2025-11-12,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251113-001,2025-11-13,Apple,Apple - Hardware,3855.90,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/US 800-692-7753 CA
+BF-20251114-001,2025-11-14,Grendel'S Den Restau,Grendel'S Den Restau - Restaurant,54.01,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* GRENDEL'S DEN RESTAU CAMBRIDGE MA
+BF-20251115-001,2025-11-15,Apple,Apple - Hardware,163.30,Equipment,Hardware,Chase,pending,,,,,pending,high,Work equipment purchase,Backfill: APPLE.COM/BILL 866-712-7753 CA
+BF-20251115-003,2025-11-15,Committee,Committee - Restaurant,138.75,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST*COMMITTEE - BOSTON Boston MA
+BF-20251115-002,2025-11-15,Flight Club,Flight Club - Restaurant,83.82,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business meal,Backfill: TST* FLIGHT CLUB - BOSTON BOSTON MA
