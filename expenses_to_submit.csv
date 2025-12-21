@@ -393,7 +393,6 @@ EXP-2025-08-23-002,2025-08-23,Momo Noodle,Lunch - SF,43.08,Meals,Working Meals,C
 EXP-2025-08-23-003,2025-08-23,DoorDash,DD Philz Coffee - CA,13.49,Meals,Coffee,Chase,pending,,,,,pending,low,DoorDash coffee delivery - Bay Area,Credit card statement
 EXP-2025-08-23-004,2025-08-23,DoorDash,DD Rise Woodfire - CA,27.14,Meals,Working Meals,Chase,pending,,,,,pending,low,DoorDash delivery - Bay Area,Credit card statement
 BF-20250823-001,2025-08-23,Lyft,Lyft - Rideshare,42.31,Travel,Rideshare,Chase,email_available,,,,from:no-reply@lyftmail.com,pending,medium,Business rideshare,Backfill: LYFT *1 RIDE 08-21 HELP.LYFT.COM CA
-RCPT-20250823-001,2025-08-23,IKEA,Office furniture purchase,3032.24,Equipment,Furniture,Chase,found,198d8e2dce71047b,IKEA - Thank you for your recent purchase,,from:ikea,pending,critical,Office furniture for home office,Attachment: Invoice20250823006580150052.pdf
 EXP-2025-08-24-001,2025-08-24,Saffron,Team Dinner Burlingame,266.89,Meals,Team Meals,Chase,pending,,,,,pending,medium,Team meal - Promptfoo office,
 EXP-2025-08-24-002,2025-08-24,Blue Bottle,Coffee - Sacramento,13.48,Meals,Coffee,Chase,pending,,,,,pending,low,Working coffee - business travel,
 EXP-2025-08-24-003,2025-08-24,Last Rites,Drinks - SF,42.90,Meals,Working Meals,Chase,pending,,,,,pending,low,Business drinks - SF,
