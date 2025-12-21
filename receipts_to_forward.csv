@@ -1,0 +1,340 @@
+email_id,date,merchant,subject,from_email,category,estimated_amount,forward_priority,notes
+# ============================================================
+# RECEIPTS TO FORWARD TO RAMP - COMPILED FROM GMAIL
+# Total: 300+ receipt emails available for forwarding
+# ============================================================
+
+# HIGH PRIORITY - LARGE AMOUNTS ($100+)
+# ============================================================
+
+# DELTA AIR LINES - 68 flight receipts
+19b304f1cb8d562d,2025-12-18,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 22DEC25,DeltaAirLines@t.delta.com,Travel,607.97,critical,JFK-SFO Dec 22
+19afcde43aa3498a,2025-12-08,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 14DEC25,DeltaAirLines@t.delta.com,Travel,,high,
+19af0e6008b9da9d,2025-12-05,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 08DEC25,DeltaAirLines@t.delta.com,Travel,,high,
+19ad7b7b53fe7f7b,2025-11-30,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 07DEC25,DeltaAirLines@t.delta.com,Travel,,high,
+19ab74572b7e7435,2025-11-24,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 30NOV25,DeltaAirLines@t.delta.com,Travel,,high,
+19ab73e4a3b81ed5,2025-11-24,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 01DEC25,DeltaAirLines@t.delta.com,Travel,,high,
+19a9fc8d9e1bf75e,2025-11-19,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 26NOV25,DeltaAirLines@t.delta.com,Travel,,high,
+19a851b0660abd8f,2025-11-14,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 16NOV25,DeltaAirLines@t.delta.com,Travel,,high,
+19a8517f4cf5f753,2025-11-14,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 23NOV25,DeltaAirLines@t.delta.com,Travel,,high,
+19a41674bc3f5b5c,2025-11-01,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 16NOV25,DeltaAirLines@t.delta.com,Travel,,high,
+19a4158273ee2951,2025-11-01,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 04NOV25,DeltaAirLines@t.delta.com,Travel,,high,
+19a3c5355b0b2149,2025-10-31,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 05NOV25,DeltaAirLines@t.delta.com,Travel,,high,
+19a2b22d6aebf495,2025-10-28,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 30OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+19a112998375d927,2025-10-23,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 26OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+19a0380fd064e8a0,2025-10-20,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 23OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+199e1444d940acdf,2025-10-13,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 17OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+199c5611a3d80c44,2025-10-08,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 12OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+19954e3a1fb67f9d,2025-09-16,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 14OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+19954e206b4e6ec3,2025-09-16,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 08OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+19940f5012576065,2025-09-12,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 21SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+19940ecbe5bc9055,2025-09-12,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 29SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+1991db224d3a74a2,2025-09-06,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 16SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+199034966650d14c,2025-08-31,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 01SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+198f8152abc8b190,2025-08-29,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 26OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+198eda2e76d47e7c,2025-08-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 20OCT25,DeltaAirLines@t.delta.com,Travel,,high,
+198eda151472753a,2025-08-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 28SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+198ed9e3f3d2fb78,2025-08-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 21SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+198ece2864ff2004,2025-08-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 02SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+198ce0d82754e1df,2025-08-21,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 24AUG25,DeltaAirLines@t.delta.com,Travel,,high,
+198b57bef065dabd,2025-08-16,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 06SEP25,DeltaAirLines@t.delta.com,Travel,,high,
+198a2170c80879ad,2025-08-13,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 21AUG25,DeltaAirLines@t.delta.com,Travel,,high,
+19892babceb3421c,2025-08-10,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 14AUG25,DeltaAirLines@t.delta.com,Travel,,high,
+19886eab956582e2,2025-08-07,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 10AUG25,DeltaAirLines@t.delta.com,Travel,,high,
+1985dcbd1913a99b,2025-07-30,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 12AUG25,DeltaAirLines@t.delta.com,Travel,,high,
+197d815a4fd63535,2025-07-04,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 06JUL25,DeltaAirLines@t.delta.com,Travel,,high,
+19783552d29ec258,2025-06-18,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 24JUN25,DeltaAirLines@t.delta.com,Travel,,high,
+1977b4d12c808e94,2025-06-16,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 01AUG25,DeltaAirLines@t.delta.com,Travel,,high,
+1971ac2eb0c5d45e,2025-05-29,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 10JUN25,DeltaAirLines@t.delta.com,Travel,,high,
+196e08eaa15f07e3,2025-05-17,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 22MAY25,DeltaAirLines@t.delta.com,Travel,,high,
+196a88a4e14559ce,2025-05-06,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 15JUN25,DeltaAirLines@t.delta.com,Travel,,high,
+196a886b04a6e690,2025-05-06,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 02JUN25,DeltaAirLines@t.delta.com,Travel,,high,
+196a884cf800343a,2025-05-06,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 25MAY25,DeltaAirLines@t.delta.com,Travel,,high,
+196a721a4cff8c27,2025-05-06,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 07MAY25,DeltaAirLines@t.delta.com,Travel,,high,
+196a42cb52d5ddda,2025-05-05,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 07MAY25,DeltaAirLines@t.delta.com,Travel,,high,
+1969714961765a15,2025-05-03,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 06MAY25,DeltaAirLines@t.delta.com,Travel,,high,
+1960d4b135083be3,2025-04-06,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 17APR25,DeltaAirLines@t.delta.com,Travel,,high,
+195d66e9e0245cfc,2025-03-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 11MAY25,DeltaAirLines@t.delta.com,Travel,,high,
+195d663e37d35c83,2025-03-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 24APR25,DeltaAirLines@t.delta.com,Travel,,high,
+195d65db4dfa97d3,2025-03-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 15APR25,DeltaAirLines@t.delta.com,Travel,,high,
+195d65c163b0ca01,2025-03-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 20APR25,DeltaAirLines@t.delta.com,Travel,,high,
+195d65066991ace7,2025-03-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 10APR25,DeltaAirLines@t.delta.com,Travel,,high,
+195d64df1314890b,2025-03-27,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 31MAR25,DeltaAirLines@t.delta.com,Travel,,high,
+19588288220fd7d8,2025-03-11,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 22MAR25,DeltaAirLines@t.delta.com,Travel,,high,
+19577933802cdd05,2025-03-08,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 08MAR25,DeltaAirLines@t.delta.com,Travel,,high,
+1955c97963673381,2025-03-03,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 04MAR25,DeltaAirLines@t.delta.com,Travel,,high,
+19535847b16c8760,2025-02-23,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 02MAR25,DeltaAirLines@t.delta.com,Travel,,high,
+19529796b5ab038b,2025-02-21,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 23FEB25,DeltaAirLines@t.delta.com,Travel,,high,
+195029d91855df02,2025-02-13,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 15FEB25,DeltaAirLines@t.delta.com,Travel,,high,
+19500b1a02b59f43,2025-02-13,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 27FEB25,DeltaAirLines@t.delta.com,Travel,,high,
+194befc80754d923,2025-01-31,Delta Air Lines,Your Flight Receipt - MICHAEL LEO D ANGELO 09FEB25,DeltaAirLines@t.delta.com,Travel,,high,
+
+# APPLE - 50 receipts (subscriptions + equipment)
+19b1dc771233d7cd,2025-12-14,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,130.64,high,Blink subscription
+19b1458cbb9f1fc1,2025-12-12,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19afe502411311ee,2025-12-08,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19ae790e6fb1d18c,2025-12-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19aa778020f06ad2,2025-11-21,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19a89bcf24d59b29,2025-11-15,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19a7b0e337157cfb,2025-11-13,Apple,Your receipt from Apple.,no_reply@email.apple.com,Equipment,,high,
+19a7a833efaa547b,2025-11-13,Apple,Your receipt from Apple.,no_reply@email.apple.com,Equipment,,high,
+19a73a7ba5e80eb1,2025-11-11,Apple,Your receipt from Apple.,no_reply@email.apple.com,Equipment,,high,
+19a6f6ee927e9fd2,2025-11-10,Apple,Your receipt from Apple.,no_reply@email.apple.com,Equipment,,high,
+19a6f296f11b4f0c,2025-11-10,Apple,Your receipt from Apple.,no_reply@email.apple.com,Equipment,,high,
+19a65961f7ddc7ef,2025-11-08,Apple Store Boylston,Your receipt from Boylston Street,boylstonstreet@email.apple.com,Equipment,,high,Boston store
+19a533208d049f09,2025-11-05,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19a078cad80f4ec7,2025-10-21,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+199f654a719cc076,2025-10-18,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+199f4e20035b8ee7,2025-10-18,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+199e1e2a7c82707c,2025-10-14,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+199d9ad277e3562e,2025-10-12,Apple Store SoHo,Your receipt from Apple SoHo,soho@email.apple.com,Equipment,,high,NYC store
+199afafd47edec75,2025-10-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+199ad4223e84c139,2025-10-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19973f3906acd83f,2025-09-23,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+1996f12469ba71f7,2025-09-22,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+1996e18769a1bc86,2025-09-21,Apple Store SoHo,Your receipt from Apple SoHo,soho@email.apple.com,Equipment,,high,NYC store
+1996e13283fbf806,2025-09-21,Apple Store SoHo,Your receipt from Apple SoHo,soho@email.apple.com,Equipment,,high,NYC store
+19959e10f9f99cc2,2025-09-17,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19940f7098a4870c,2025-09-13,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19937292fb752f1f,2025-09-11,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19913bb32d18faf1,2025-09-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+1991276f82c8be18,2025-09-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+199124046ed6d33a,2025-09-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+198bbab880070b65,2025-08-18,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+198a410b9d401924,2025-08-13,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19874a4bde3b5e49,2025-08-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+198734b9121390bc,2025-08-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+1981f9d0dc89288a,2025-07-18,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+1980594fc77f38ba,2025-07-13,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+197d9286be76813d,2025-07-05,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+197d8292c7cdb98b,2025-07-05,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+197809838d3ea01d,2025-06-18,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19765adc95fdfa9f,2025-06-12,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19739b9bb14b828e,2025-06-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19738df847e4a942,2025-06-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+196e0d2785334edb,2025-05-18,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+196c60934dd6fa93,2025-05-12,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+1969a1668258b16a,2025-05-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+196993a66f53857d,2025-05-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+19645f2bf6ec2db5,2025-04-17,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+1962b8a46000bb64,2025-04-12,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+195ff9085405f5aa,2025-04-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+195fe81e15e77cdc,2025-04-04,Apple,Your receipt from Apple.,no_reply@email.apple.com,Software,,medium,subscription
+
+# VANTA - 5 quarterly receipts ($3,500 each = $14,000)
+19a11085fd1c3440,2025-10-23,Vanta,Your receipt from Vanta Inc #2948-8375,invoice+statements+acct_1AxBNMKZI8vdAmcM@stripe.com,Software,3500.00,critical,Q4 2025
+1983c5ca0a64501d,2025-07-24,Vanta,Your receipt from Vanta Inc #2457-3124,invoice+statements+acct_1AxBNMKZI8vdAmcM@stripe.com,Software,3500.00,critical,Q3 2025
+19689cdd543bccbd,2025-05-01,Vanta,Your receipt from Vanta Inc #2700-5107,invoice+statements+acct_1AxBNMKZI8vdAmcM@stripe.com,Software,3500.00,critical,Q2 2025
+194b87d9fdc26529,2025-01-30,Vanta,Your receipt from Vanta Inc #2884-4142,invoice+statements+acct_1AxBNMKZI8vdAmcM@stripe.com,Software,3500.00,critical,Q1 2025
+
+# ANTHROPIC - 11 receipts (API usage)
+19b109f8ea8b5864,2025-12-12,Anthropic,Your receipt from Anthropic PBC #2023-6808-8934,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19b0c28f067ef5c7,2025-12-11,Anthropic,Your receipt from Anthropic PBC #2266-2768-7019,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19afc14270da2662,2025-12-08,Anthropic,Your receipt from Anthropic PBC #2592-9398-5602,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19ad38fa834045f5,2025-11-30,Anthropic,Your receipt from Anthropic PBC #2461-0539-4239,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19aa89d0c2a2432d,2025-11-21,Anthropic,Your receipt from Anthropic PBC #2111-8899-0358,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19a98fd2960d3f37,2025-11-18,Anthropic,Your receipt from Anthropic PBC #2714-4777-9175,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19a3fadba24e1da9,2025-11-01,Anthropic,Your receipt from Anthropic PBC #2390-3807-0603,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19a08f7fd9e6014a,2025-10-21,Anthropic,Your receipt from Anthropic PBC #2492-6108-7465,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+19a04b0e10858752,2025-10-21,Anthropic,Your receipt from Anthropic PBC #2212-8662-2694,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+1996e78676ca4ad9,2025-09-21,Anthropic,Your receipt from Anthropic PBC #2862-1521-8348,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+198ce9b704cdd81a,2025-08-21,Anthropic,Your receipt from Anthropic PBC #2525-1702-6011,invoice+statements@mail.anthropic.com,Infrastructure,,high,API usage
+
+# WELLFOUND (Recruit Pro) - 10 monthly receipts ($149 each = $1,490)
+19b1efc6320488df,2025-12-14,Wellfound,Your receipt from Wellfound #2763-2183,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Dec
+19a847cbe41381c1,2025-11-14,Wellfound,Your receipt from Wellfound #2640-9888,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Nov
+199e4d9bfe4804df,2025-10-14,Wellfound,Your receipt from Wellfound #2595-3382,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Oct
+1994a594a16a1cb3,2025-09-14,Wellfound,Your receipt from Wellfound #2221-3837,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Sep
+198aab3bfaea07b0,2025-08-14,Wellfound,Your receipt from Wellfound #2535-9480,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Aug
+1980b0e84ecf95b6,2025-07-14,Wellfound,Your receipt from Wellfound #2124-4188,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Jul
+19770909c41cd715,2025-06-14,Wellfound,Your receipt from Wellfound #2615-9667,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Jun
+196d0ec4791753f0,2025-05-14,Wellfound,Your receipt from Wellfound #2174-0744,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro May
+196366c84fd87d64,2025-04-14,Wellfound,Your receipt from Wellfound #2435-8412,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Apr
+195968d9fa592e23,2025-03-14,Wellfound,Your receipt from Wellfound #2325-4066,invoice+statements+acct_15VQADJFGfVlHhpo@stripe.com,Software,149.00,high,Recruit Pro Mar
+
+# SENTRY - 15 monthly receipts (~$95 each = ~$1,400)
+19b34087bc3287e6,2025-12-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,95.28,high,Promptfoo monitoring Dec
+19a9989b132be83f,2025-11-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,95.28,high,Promptfoo monitoring Nov
+199f9e496c953649,2025-10-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,95.28,high,Promptfoo monitoring Oct
+1995f65dc8df3540,2025-09-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,95.28,high,Promptfoo monitoring Sep
+198bfc1eacfd8800,2025-08-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,95.28,high,Promptfoo monitoring Aug
+1988c2f95cc46997,2025-08-09,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+198200196753a344,2025-07-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+197ec817e9cd59f1,2025-07-09,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+19785851ad168b93,2025-06-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+19752004a4a5eef4,2025-06-09,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+1971cbbb8c23ed85,2025-05-29,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+196eec052871841e,2025-05-20,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+196e5de07de6f2e4,2025-05-19,Sentry,Payment Receipt,noreply@md.getsentry.com,Software,,medium,
+
+# IKEA - 1 receipt ($3,032)
+198d8e2dce71047b,2025-08-23,IKEA,IKEA - Thank you for your recent purchase,no.reply@ikea.com,Equipment,3032.24,critical,Office furniture
+
+# AIRBNB - 3 receipts
+199d07a2343449e2,2025-10-10,Airbnb,Your receipt from Airbnb,automated@airbnb.com,Travel,,high,
+199cf930a8534edf,2025-10-10,Airbnb,Your receipt from Airbnb,automated@airbnb.com,Travel,,high,
+199c5c2f9965c13d,2025-10-08,Airbnb,Your receipt from Airbnb,automated@airbnb.com,Travel,,high,
+
+# HOTELS.COM - 12 confirmations
+19b3761df2f6a5b6,2025-12-19,Hotels.com,Hotels.com travel confirmation - Fri Dec 19 - Itinerary # 73330997844005,hotels@eg.hotels.com,Travel,,high,
+19b30488f85571bc,2025-12-18,Hotels.com,Hotels.com travel confirmation - Thu Dec 18 - Itinerary # 73329862006439,hotels@eg.hotels.com,Travel,,high,
+19afce0dbbdf7952,2025-12-08,Hotels.com,Hotels.com travel confirmation - Sun Dec 14 - Itinerary # 73322074356650,hotels@eg.hotels.com,Travel,,high,
+19ad7c18e67f4b4d,2025-11-30,Hotels.com,Hotels.com travel confirmation - Tue Dec 2 - Itinerary # 72068757785901,hotels@eg.hotels.com,Travel,,high,
+19abf2a627f10ed7,2025-11-26,Hotels.com,Hotels.com travel confirmation - Sun Nov 30 - Itinerary # 73310829235079,hotels@eg.hotels.com,Travel,,high,
+19a1c642fb52b1ba,2025-10-25,Hotels.com,Hotels.com travel confirmation - Sun Oct 26 - Itinerary # 72067501148915,hotels@eg.hotels.com,Travel,,high,
+19a047392925e6c1,2025-10-20,Hotels.com,Hotels.com travel confirmation - Mon Oct 20 - Itinerary # 73279725832675,hotels@eg.hotels.com,Travel,,high,
+1995938352455a08,2025-09-17,Hotels.com,Hotels.com travel confirmation - Mon Sep 29 - Itinerary # 72066322309940,hotels@eg.hotels.com,Travel,,high,
+1994c0adce5f1acb,2025-09-15,Hotels.com,Hotels.com travel confirmation - Sun Sep 28 - Itinerary # 73242588890485,hotels@eg.hotels.com,Travel,,high,
+199410b889f2c52f,2025-09-12,Hotels.com,Hotels.com travel confirmation - Sun Sep 21 - Itinerary # 73240405543265,hotels@eg.hotels.com,Travel,,high,
+19940ab99b7d8803,2025-09-12,Hotels.com,Hotels.com travel confirmation - Sat Sep 13 - Itinerary # 73240348968628,hotels@eg.hotels.com,Travel,,high,
+19892c26cb92f52d,2025-08-10,Hotels.com,Hotels.com travel confirmation - Sun Aug 17 - Itinerary # 73202929163890,hotels@eg.hotels.com,Travel,,high,
+
+# MEDIUM PRIORITY - MEALS/RIDESHARE
+# ============================================================
+
+# DOORDASH - 50 order confirmations
+19b3e38595497f1f,2025-12-21,DoorDash CVS,Final receipt for Michael from CVS,no-reply@doordash.com,Supplies,25.00,medium,
+19b3df297bda9b94,2025-12-20,DoorDash Non La,Order Confirmation for Michael from Non La,no-reply@doordash.com,Meals,24.67,medium,
+19b3788451aa4dc5,2025-12-19,DoorDash Dim Sum Sam,Order Confirmation for Michael from Dim Sum Sam,no-reply@doordash.com,Meals,31.30,medium,
+19b332f040eaecc7,2025-12-18,DoorDash Hummus Med,Order Confirmation for Michael from Hummus Mediterranean,no-reply@doordash.com,Meals,28.00,medium,
+19b2ff4f49dc870a,2025-12-18,DoorDash Clay Oven,Order Confirmation for Michael from Clay Oven Cuisine,no-reply@doordash.com,Meals,32.00,medium,
+19b2e4ce72c9a623,2025-12-17,DoorDash Rise Woodfire,Order Confirmation for Michael from Rise Woodfire,no-reply@doordash.com,Meals,35.00,medium,
+19b2ac72e631f576,2025-12-17,DoorDash samikcha momo,Order Confirmation for Michael from samikcha momo,no-reply@doordash.com,Meals,28.00,medium,
+19b140899cc3c45d,2025-12-12,DoorDash Taco Mahal,Order Confirmation for Michael from Taco Mahal,no-reply@doordash.com,Meals,,medium,
+19b0f9337b982dc1,2025-12-11,DoorDash Levain,Order Confirmation for Michael from Levain Bakery,no-reply@doordash.com,Meals,,medium,
+19b0f92ca227aa10,2025-12-11,DoorDash Simo Pizza,Order Confirmation for Michael from Simo Pizza,no-reply@doordash.com,Meals,,medium,
+19b0b46986a0e1fe,2025-12-11,DoorDash Wegmans,Final receipt for Michael from Wegmans,no-reply@doordash.com,Supplies,,medium,
+19b09caadb44e84d,2025-12-10,DoorDash Non La,Order Confirmation for Michael from Non La,no-reply@doordash.com,Meals,,medium,
+19b09c393178bbb5,2025-12-10,DoorDash Soothr Thai,Order Confirmation for Michael from Soothr Thai,no-reply@doordash.com,Meals,,medium,
+19b05a4f365d108c,2025-12-10,DoorDash Tofu Tofu,Order Confirmation for Michael from Tofu Tofu,no-reply@doordash.com,Meals,,medium,
+19b04dc4ad286396,2025-12-09,DoorDash Pepe Rosso,Order Confirmation for Michael from Pepe Rosso,no-reply@doordash.com,Meals,,medium,
+19affee3131b84f8,2025-12-08,DoorDash Coreanos,Order Confirmation for Michael from Coreanos,no-reply@doordash.com,Meals,,medium,
+19aff9e417001de2,2025-12-08,DoorDash Ox9,Order Confirmation for Michael from Ox9 Lanzhou,no-reply@doordash.com,Meals,,medium,
+19af718b7e0f408a,2025-12-07,DoorDash YinTang,Order Confirmation for Michael from YinTang Spicy Hot Pot,no-reply@doordash.com,Meals,,medium,
+19aeb2a0af9002e5,2025-12-04,DoorDash Kajiken,Order Confirmation for Michael from Kajiken Ramen,no-reply@doordash.com,Meals,,medium,
+19ae73c4f16940d4,2025-12-04,DoorDash Rise Woodfire,Order Confirmation for Michael from Rise Woodfire,no-reply@doordash.com,Meals,,medium,
+19ae5d6693acdd1a,2025-12-03,DoorDash Hummus Med,Order Confirmation for Michael from Hummus Mediterranean,no-reply@doordash.com,Meals,,medium,
+19adb93a9ae99992,2025-12-01,DoorDash Ox9,Order Confirmation for Michael from Ox9 Lanzhou,no-reply@doordash.com,Meals,,medium,
+19ad5d587b17a204,2025-11-30,DoorDash Xian Famous,Order Confirmation for Michael from Xian Famous Foods,no-reply@doordash.com,Meals,,medium,
+19ad2ad9a784279f,2025-11-30,DoorDash Uluh,Order Confirmation for Michael from Uluh,no-reply@doordash.com,Meals,,medium,
+19ad210ce6561515,2025-11-30,DoorDash Taim,Order Confirmation for Michael from Taim Mediterranean,no-reply@doordash.com,Meals,,medium,
+19acd5087cb7915b,2025-11-29,DoorDash Soothr Thai,Order Confirmation for Michael from Soothr Thai,no-reply@doordash.com,Meals,,medium,
+19acce9b3ff9fac0,2025-11-29,DoorDash Cho Dang Gol,Order Confirmation for Michael from Cho Dang Gol,no-reply@doordash.com,Meals,,medium,
+19ac3a6ae4bd1e41,2025-11-27,DoorDash Maza,Order Confirmation for Michael from Maza Mexican,no-reply@doordash.com,Meals,,medium,
+19ac1b71016be4e3,2025-11-26,DoorDash Rise Woodfire,Order Confirmation for Michael from Rise Woodfire,no-reply@doordash.com,Meals,,medium,
+19abdea08e7d26ae,2025-11-26,DoorDash DIG,Business receipt for Michael D from DIG,no-reply@doordash.com,Meals,,medium,
+19abddab7d024595,2025-11-26,DoorDash DIG INN,Order Confirmation for Michael from DIG INN,no-reply@doordash.com,Meals,,medium,
+19abd9bc5bee404e,2025-11-26,DoorDash Som Bo,Order Confirmation for Michael from Som Bo Asian Bowls,no-reply@doordash.com,Meals,,medium,
+19abd9bc28e9d840,2025-11-26,DoorDash CVS,Order Confirmation for Michael from CVS,no-reply@doordash.com,Supplies,,medium,
+19abcbf79c536dee,2025-11-25,DoorDash Ox9,Order Confirmation for Michael from Ox9 Lanzhou,no-reply@doordash.com,Meals,,medium,
+19ab95c73b6da3fa,2025-11-25,DoorDash Coppelia,Order Confirmation for Michael from Coppelia,no-reply@doordash.com,Meals,,medium,
+19ab782d00ea4d5e,2025-11-24,DoorDash Kajiken,Order Confirmation for Michael from Kajiken Ramen,no-reply@doordash.com,Meals,,medium,
+19aae367d785691b,2025-11-23,DoorDash Yi Fang,Order Confirmation for Michael from Yi Fang Taiwan Fruit Tea,no-reply@doordash.com,Meals,,medium,
+19aad7004a9504c3,2025-11-22,DoorDash Koreana,Order Confirmation for Michael from Koreana,no-reply@doordash.com,Meals,,medium,
+19aa84819877ce89,2025-11-21,DoorDash Urban MoMo,Order Confirmation for Michael from Urban MoMo,no-reply@doordash.com,Meals,,medium,
+19aa3e1961708659,2025-11-21,DoorDash MalaTown,Order Confirmation for Michael from MalaTown,no-reply@doordash.com,Meals,,medium,
+
+# LYFT - 50 ride receipts
+19b3d585ee6af52c,2025-12-20,Lyft,Your Lyft Bike ride,no-reply@lyftmail.com,Travel,,low,bike
+19b37b724316e458,2025-12-19,Lyft,Your receipt for rides on December 18,no-reply@lyftmail.com,Travel,45.00,medium,multiple rides
+19b378ed7e2e7af6,2025-12-19,Lyft,Your Lyft Bike ride,no-reply@lyftmail.com,Travel,,low,bike
+19b06bd3e919d5df,2025-12-10,Lyft,Your ride with Mucahit on December 8,no-reply@lyftmail.com,Travel,,medium,
+19afe7cae58b6ef8,2025-12-08,Lyft,Your receipt for rides on December 7,no-reply@lyftmail.com,Travel,,medium,
+19afc897fac1d4c4,2025-12-08,Lyft,Your ride with Jose Roberto on December 7,no-reply@lyftmail.com,Travel,,medium,
+19afb8af6c27871b,2025-12-08,Lyft,Your ride with Jerry on December 7,no-reply@lyftmail.com,Travel,,medium,
+19afb05e3e10977e,2025-12-07,Lyft,Your receipt for rides on December 6,no-reply@lyftmail.com,Travel,,medium,
+19afa6aba7815c0e,2025-12-07,Lyft,Your ride with Mazin on December 6,no-reply@lyftmail.com,Travel,,medium,
+19af74c57d9761b6,2025-12-07,Lyft,Your ride with Kara on December 6,no-reply@lyftmail.com,Travel,,medium,
+19af65c71ca4d962,2025-12-07,Lyft,Your ride with Shawn on December 6,no-reply@lyftmail.com,Travel,,medium,
+19af642a607480ea,2025-12-07,Lyft,Your receipt for rides on December 5,no-reply@lyftmail.com,Travel,,medium,
+19af6050f7670bdf,2025-12-06,Lyft,Your ride with Sanaz on December 5,no-reply@lyftmail.com,Travel,,medium,
+19af24c6a7e3f995,2025-12-06,Lyft,Your ride with Yazan on December 5,no-reply@lyftmail.com,Travel,,medium,
+19aea114e9bf8797,2025-12-04,Lyft,Your receipt for rides on December 3,no-reply@lyftmail.com,Travel,,medium,
+19ae6f6e1230fd81,2025-12-04,Lyft,Your ride with Mazen on December 3,no-reply@lyftmail.com,Travel,,medium,
+19ae4fa4dea1e818,2025-12-03,Lyft,Your ride with Jose Angel on December 2,no-reply@lyftmail.com,Travel,,medium,
+19ae00b230f0b048,2025-12-02,Lyft,Your ride with Gurpal on December 1,no-reply@lyftmail.com,Travel,,medium,
+19ac635608a6f583,2025-11-27,Lyft,Your receipt for rides on November 26,no-reply@lyftmail.com,Travel,,medium,
+19ac3b3e39d65a3f,2025-11-27,Lyft,Your ride with Luciana on November 26,no-reply@lyftmail.com,Travel,,medium,
+19ac25128a8a7357,2025-11-26,Lyft,Your ride with Edgar on November 26,no-reply@lyftmail.com,Travel,,medium,
+19ac1038566e5560,2025-11-26,Lyft,Your receipt for rides on November 25,no-reply@lyftmail.com,Travel,,medium,
+19abc022db7cb5b7,2025-11-25,Lyft,Your receipt for rides on November 24,no-reply@lyftmail.com,Travel,,medium,
+19ab9edd4d7d7f21,2025-11-25,Lyft,Your ride with Olbin on November 24,no-reply@lyftmail.com,Travel,,medium,
+19ab15d3582fcd87,2025-11-23,Lyft,Your receipt for rides on November 22,no-reply@lyftmail.com,Travel,,medium,
+19aacca72fae002b,2025-11-22,Lyft,Your receipt for rides on November 21,no-reply@lyftmail.com,Travel,,medium,
+
+# UBER - 50 ride receipts
+19b3e7de97053501,2025-12-21,Uber,Your Saturday evening trip with Uber,noreply@uber.com,Travel,15.00,medium,
+19b23ad2ee154c72,2025-12-15,Uber,Your Monday morning trip with Uber,noreply@uber.com,Travel,35.00,medium,
+19b2169a13f8a483,2025-12-15,Uber,Your Monday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19b013bb906620d3,2025-12-09,Uber,Your Monday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19afeeafc1944ca7,2025-12-08,Uber,Your Monday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19afee13b145d24a,2025-12-08,Uber,Your Sunday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19afca15d9770bb5,2025-12-08,Uber,Your Sunday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19af7580b07f2931,2025-12-07,Uber,Your Saturday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19af50fbfb62bc77,2025-12-06,Uber,Your Saturday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19af1df6bede104f,2025-12-06,Uber,Your Friday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19aef8edfa2aa786,2025-12-05,Uber,Your Friday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19aef6244b2579c2,2025-12-05,Uber,Your Thursday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19aed0f785162800,2025-12-05,Uber,Your Thursday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19aec6b3abd0b4d9,2025-12-05,Uber,Your Thursday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19aea3dc62266762,2025-12-04,Uber,Your Thursday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19ae560536044c2b,2025-12-03,Uber,Your Tuesday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19ae4780d8ae32e5,2025-12-03,Uber,Your Tuesday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19ae31e699a1e687,2025-12-03,Uber,Your Tuesday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19ae2318f825c6c5,2025-12-03,Uber,Your Tuesday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19adbab2e39dd2b7,2025-12-01,Uber,Your Monday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19ad95cbcb69c4ee,2025-12-01,Uber,Your Monday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19ace0eecb46baf5,2025-11-29,Uber,Your Friday afternoon trip with Uber,noreply@uber.com,Travel,,medium,
+19acdda2b6e9f881,2025-11-29,Uber,Your Friday afternoon trip with Uber,noreply@uber.com,Travel,,medium,
+19acd73d3834a622,2025-11-29,Uber,Your Friday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19acbbaa6676bcf1,2025-11-28,Uber,Your Friday afternoon trip with Uber,noreply@uber.com,Travel,,medium,
+19acb8dabdb545eb,2025-11-28,Uber,Your Friday afternoon trip with Uber,noreply@uber.com,Travel,,medium,
+19acb2445456d427,2025-11-28,Uber,Your Friday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19ac61e785a5495b,2025-11-27,Uber,Your Thursday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19ac3e6aaa164240,2025-11-27,Uber,Your Thursday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19ab5142a82bd23e,2025-11-24,Uber,Your Sunday afternoon trip with Uber,noreply@uber.com,Travel,,medium,
+19ab2c430a83b5ae,2025-11-23,Uber,Your Sunday afternoon trip with Uber,noreply@uber.com,Travel,,medium,
+19a9f536fa8abc78,2025-11-20,Uber,Your Wednesday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19a9d96687e23cee,2025-11-19,Uber,Your Wednesday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19a9d07560d0ebec,2025-11-19,Uber,Your Wednesday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19a9b4c2f147d96a,2025-11-19,Uber,Your Wednesday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19a9a2d7afd853b5,2025-11-19,Uber,Your Tuesday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19a983499c9d45e0,2025-11-18,Uber,Your Monday evening trip with Uber,noreply@uber.com,Travel,,medium,
+19a980ba36b881fc,2025-11-18,Uber,Your Tuesday morning trip with Uber,noreply@uber.com,Travel,,medium,
+19a95ac3a2a9c6c5,2025-11-18,Uber,Your Monday evening trip with Uber,noreply@uber.com,Travel,,medium,
+
+# COFFEE SHOPS (Square receipts) - 30 receipts
+19b3784cee2c2154,2025-12-19,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #vRbJ,messenger@messaging.squareup.com,Meals,,low,coffee
+19b34ff1d16a91a0,2025-12-19,Bob's Donuts,Receipt from Bob's Donuts #RCHn,messenger@messaging.squareup.com,Meals,,low,coffee/snack
+19b33a471fff3dac,2025-12-18,Philz Coffee,Receipt from Philz Coffee #dKeC,messenger@messaging.squareup.com,Meals,6.50,low,coffee
+19b32603688f5332,2025-12-18,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #hIOB,messenger@messaging.squareup.com,Meals,,low,coffee
+19b2d3763d06ab79,2025-12-17,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #Ri7h,messenger@messaging.squareup.com,Meals,,low,coffee
+19b292b04fe60a68,2025-12-16,Blue Bottle,Receipt from Blue Bottle Coffee #dm4o,messenger@messaging.squareup.com,Meals,8.00,low,coffee
+19b27dc365dfa60e,2025-12-16,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #5qVD,messenger@messaging.squareup.com,Meals,,low,coffee
+19b242a17bd23c34,2025-12-15,Philz Coffee,Receipt from Philz Coffee #dQfj,messenger@messaging.squareup.com,Meals,6.50,low,coffee
+19b230bb05eb4802,2025-12-15,Donut Delite,Receipt from Donut Delite #lmwr,messenger@messaging.squareup.com,Meals,,low,
+19b22ec5ddc4aa1b,2025-12-15,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #H9dM,messenger@messaging.squareup.com,Meals,,low,coffee
+19b1e86022eef483,2025-12-14,La Colombe,Receipt from La Colombe - NOHO #x82e,messenger@messaging.squareup.com,Meals,9.00,low,NYC coffee
+19b19067a3a3548f,2025-12-13,Stumptown,Receipt from Stumptown Coffee Roasters #HHGw,messenger@messaging.squareup.com,Meals,,low,coffee
+19adb3d184a1c26c,2025-12-01,Philz Coffee,Receipt from Philz Coffee #DbPj,messenger@messaging.squareup.com,Meals,,low,coffee
+19ad672e9a4d971b,2025-11-30,Chaotic Good Cafe,Receipt from Chaotic Good Cafe #L7Ty,messenger@messaging.squareup.com,Meals,,low,coffee
+19ad107154f4452b,2025-11-29,Stumptown,Receipt from Stumptown Coffee Roasters #hKxg,messenger@messaging.squareup.com,Meals,,low,coffee
+19acc655bab6106b,2025-11-28,Stumptown,Receipt from Stumptown Coffee Roasters #Zyp9,messenger@messaging.squareup.com,Meals,,low,coffee
+19ac1f43ecd03281,2025-11-26,3 Bees Coffee,Receipt from 3 Bees Coffee #P9RR,messenger@messaging.squareup.com,Meals,,low,coffee
+19abbec4cea325ac,2025-11-25,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #PLA9,messenger@messaging.squareup.com,Meals,,low,coffee
+19ab67937dcc29e4,2025-11-24,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #lqwG,messenger@messaging.squareup.com,Meals,,low,coffee
+19ab2db9e40d195e,2025-11-23,Philmore Creamery,Receipt from Philmore Creamery #x2hh,messenger@messaging.squareup.com,Meals,,low,
+19aadaa379c8701e,2025-11-22,CoffeeShop,Receipt from CoffeeShop #XFxs,messenger@messaging.squareup.com,Meals,,low,coffee
+19aa7c0ef83bf11a,2025-11-21,Blue Bottle,Receipt from Blue Bottle Coffee #lCYO,messenger@messaging.squareup.com,Meals,,low,coffee
+19aa74895e7f7707,2025-11-21,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #JO7V,messenger@messaging.squareup.com,Meals,,low,coffee
+19aa24ec405be712,2025-11-20,Donut Delite,Receipt from Donut Delite #RkcP,messenger@messaging.squareup.com,Meals,,low,
+19a93064b0d810fb,2025-11-17,Philz Coffee,Receipt from Philz Coffee #l6sS,messenger@messaging.squareup.com,Meals,,low,coffee
+19a8daf41a8ca471,2025-11-16,Thinking Cup,Receipt from Thinking Cup Newbury #PPIc,messenger@messaging.squareup.com,Meals,,low,Boston coffee
+19a5a131e00b2cda,2025-11-06,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #xsqU,messenger@messaging.squareup.com,Meals,,low,coffee
+19a55b8e3545d1ec,2025-11-05,Philz Coffee,Receipt from Philz Coffee #hAyJ,messenger@messaging.squareup.com,Meals,,low,coffee
+19a54ede82596c4b,2025-11-05,Tazza D'Amore,Receipt from Tazza D'Amore Cafe #PrW8,messenger@messaging.squareup.com,Meals,,low,coffee
+19a310dbfbb09fe9,2025-10-29,Blue Bottle,Receipt from Blue Bottle Coffee #pYYT,messenger@messaging.squareup.com,Meals,,low,coffee
+
+# AMAZON - 4 receipts found
+198d06c519b1c5e8,2025-08-22,Amazon,Your Amazon.com order of beyond by BLACK+DECKER Home...,shipment-tracking@amazon.com,Equipment,,medium,
+19665fa8cd84f95f,2025-04-24,Amazon,Your Amazon.com order of Apple AirPods Max Wireless...,auto-confirm@amazon.com,Equipment,,high,AirPods Max
