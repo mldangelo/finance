@@ -386,3 +386,20 @@ EXP-2025-11-30-003,2025-11-30,Chaotic Good Cafe,Coffee - Bay Area,33.50,Meals,Co
 EXP-2025-12-01-003,2025-12-01,Philz Coffee,Coffee - San Mateo,21.10,Meals,Coffee,Chase,has_receipt,,,,,pending,low,Working coffee - Philz San Mateo,Square receipt in Gmail
 EXP-2025-12-15-001,2025-12-15,Philz Coffee,Coffee - San Mateo,40.89,Meals,Coffee,Chase,has_receipt,,,,,pending,low,Working coffee - Philz San Mateo,Square receipt in Gmail
 EXP-2025-12-16-001,2025-12-16,Blue Bottle Coffee,Coffee - Bay Area,13.75,Meals,Coffee,Chase,has_receipt,,,,,pending,low,Working coffee - Blue Bottle,Square receipt in Gmail
+EXP-20251218-001,2025-12-18,Delta Air Lines,Flight JFK-SFO Dec 22,607.97,Travel,Airlines,Amex,found,19b304f1cb8d562d,Your Flight Receipt - MICHAEL LEO D ANGELO 22DEC25,,,pending,high,Business travel SFO,"eCredit applied, confirmation GCJ5XT"
+EXP-20251219-002,2025-12-19,Sentry,Error monitoring Dec,95.28,Software,Monitoring,Chase,found,19b34087bc3287e6,Payment Receipt,,,pending,high,Error monitoring for Promptfoo,Promptfoo infrastructure
+EXP-20251220-003,2025-12-20,DoorDash - Non La,Team meal,24.67,Meals,Delivery,Chase,found,19b3df297bda9b94,Order Confirmation from Non La,,,pending,medium,Working meal,
+EXP-20251219-004,2025-12-19,DoorDash - Dim Sum Sam,Team meal,31.30,Meals,Delivery,Chase,found,19b3788451aa4dc5,Order Confirmation from Dim Sum Sam,,,pending,medium,Working meal,
+EXP-20251218-005,2025-12-18,DoorDash - Hummus Med,Team meal,28.00,Meals,Delivery,Chase,found,19b332f040eaecc7,Order Confirmation from Hummus Mediterranean,,,pending,medium,Working meal,
+EXP-20251218-006,2025-12-18,DoorDash - Clay Oven,Team meal,32.00,Meals,Delivery,Chase,found,19b2ff4f49dc870a,Order Confirmation from Clay Oven,,,pending,medium,Working meal,San Mateo
+EXP-20251217-007,2025-12-17,DoorDash - Rise Woodfire,Team meal,35.00,Meals,Delivery,Chase,found,19b2e4ce72c9a623,Order Confirmation from Rise Woodfire,,,pending,medium,Working meal,
+EXP-20251217-008,2025-12-17,DoorDash - samikcha momo,Team meal,28.00,Meals,Delivery,Chase,found,19b2ac72e631f576,Order Confirmation from samikcha momo,,,pending,medium,Working meal,
+EXP-20251218-009,2025-12-18,Lyft,Rides Dec 18,45.00,Travel,Rideshare,Chase,found,19b37b724316e458,Your receipt for rides on December 18,,,pending,medium,Business transportation,Multiple rides
+EXP-20251215-010,2025-12-15,Uber,Rides Dec 15,35.00,Travel,Rideshare,Chase,found,19b23ad2ee154c72,Your Monday morning trip with Uber,,,pending,medium,Business transportation,2 trips
+EXP-20251221-011,2025-12-21,Uber,Ride Dec 21,15.00,Travel,Rideshare,Chase,found,19b3e7de97053501,Your Saturday evening trip with Uber,,,pending,medium,Business transportation,
+EXP-20251220-012,2025-12-20,Philz Coffee,Coffee,6.10,Meals,Coffee,Chase,found,19b3d6e9a4d81a10,Order #35119366 receipt,,,pending,low,Working coffee,San Mateo
+EXP-20251218-013,2025-12-18,Philz Coffee,Coffee,6.50,Meals,Coffee,Chase,found,19b33a471fff3dac,Receipt from Philz Coffee,,,pending,low,Working coffee,
+EXP-20251215-014,2025-12-15,Philz Coffee,Coffee,6.50,Meals,Coffee,Chase,found,19b24223b97369cd,Order #35043511 receipt,,,pending,low,Working coffee,
+EXP-20251216-015,2025-12-16,Blue Bottle Coffee,Coffee,8.00,Meals,Coffee,Chase,found,19b292b04fe60a68,Receipt from Blue Bottle Coffee,,,pending,low,Working coffee,
+EXP-20251214-016,2025-12-14,La Colombe Coffee,Coffee,9.00,Meals,Coffee,Chase,found,19b1e86022eef483,Receipt from La Colombe - NOHO,,,pending,low,Working coffee,NYC
+EXP-20251214-017,2025-12-14,Citi Bike,Weekly bike rental,20.00,Travel,Transportation,Chase,found,19b1c838456d924e,Your weekly receipt for 12/07 - 12/13,,,pending,low,Local transportation,NYC weekly
