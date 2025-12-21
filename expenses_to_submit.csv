@@ -318,7 +318,7 @@ EXP-2025-08-08-002,2025-08-08,Google Colab,AI Development Tools,10.88,Software,A
 BF-20250808-001,2025-08-08,Lyft,Lyft - Rideshare,25.26,Travel,Rideshare,Chase,email_available,,,,from:no-reply@lyftmail.com,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 08-06 HELP.LYFT.COM CA
 EXP-2025-08-09-001,2025-08-09,Chase Travel,Hotel Booking,483.51,Travel,Hotels,Chase,pending,,,,from:chase subject:travel,pending,high,Business travel accommodation,
 BF-20250809-001,2025-08-09,Amazon,Amazon - Supplies,108.82,Equipment,Supplies,Chase,email_available,,,,from:auto-confirm@amazon.com,pending,medium,Business supplies,Backfill: AMAZON MKTPL*G43A63PF3 Amzn.com/bill WA
-EXP-2025-08-10-001,2025-08-10,Park MGM,Nomad Las Vegas,2118.91,Travel,Hotels,Chase,pending,,,,from:mgmresorts OR parkmgm,pending,high,Business conference accommodation,
+EXP-2025-08-10-001,2025-08-10,Park MGM,Nomad Las Vegas,2118.91,Travel,Hotels,Chase,found,1984164bcc4ba5df,,,from:mgmresorts OR parkmgm,pending,high,Business conference accommodation,
 EXP-2025-08-10-002,2025-08-10,MTA NYC Subway,NYC Subway - Travel Day,8.50,Travel,Ground Transportation,Chase,pending,,,,,pending,low,Airport transit - return from Vegas,Park MGM checkout same day
 EXP-2025-08-10-003,2025-08-10,Google One,Cloud Storage,21.76,Software,Cloud Storage,Chase,pending,,,,,pending,low,Cloud storage for work files,Monthly subscription
 EXP-2025-08-10-004,2025-08-10,Cursor,AI Code Editor,10.89,Software,AI Tools,Chase,pending,,,,,pending,low,AI-powered code editor,Monthly subscription
@@ -346,7 +346,7 @@ BF-20250815-002,2025-08-15,Uber,Uber - Rideshare,35.23,Travel,Rideshare,Chase,em
 BF-20250815-001,2025-08-15,Uber,Uber - Rideshare,34.10,Travel,Rideshare,Chase,email_available,,,,from:noreply@uber.com subject:trip,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250816-001,2025-08-16,Dan,Dan - Restaurant,21.55,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
 EXP-2025-08-17-001,2025-08-17,Delta Air Lines,Business Flight,386.96,Travel,Flights,Amex,found,19892babceb3421c,,,from:delta subject:confirmation,pending,high,Business travel,
-EXP-2025-08-17-002,2025-08-17,Stanford Court SF,Hotel Stay,770.72,Travel,Hotels,Chase,pending,,,,from:stanfordcourt OR hoteltonight,pending,high,SF business trip accommodation,
+EXP-2025-08-17-002,2025-08-17,Stanford Court SF,Hotel Stay,770.72,Travel,Hotels,Chase,found,19892c26cb92f52d,,,from:stanfordcourt OR hoteltonight,pending,high,SF business trip accommodation,
 EXP-2025-08-17-003,2025-08-17,MTA NYC Subway,NYC Subway - Travel Day,7.15,Travel,Ground Transportation,Chase,pending,,,,,pending,low,Airport transit - SF business trip,Stanford Court booking same day
 EXP-2025-08-17-004,2025-08-17,Amazon,Coat Racks (2x Mid Century Modern),131.56,Equipment,Office Furniture,Chase,found,198b9e9296549f9f,Ordered: 2 Mod Made Mid Century Modern...,,from:auto-confirm@amazon.com,pending,medium,San Mateo office furniture,Order #112-9029470-0736266
 EXP-2025-08-17-005,2025-08-17,Amazon,Door Hardware (pull plate + stoppers),15.87,Equipment,Office Supplies,Chase,found,198b9f0085edbbf1,Ordered: Rannb Door Pull Plate...,,from:auto-confirm@amazon.com,pending,low,San Mateo office supplies,Order #112-8929762-7833032
@@ -368,7 +368,7 @@ EXP-2025-08-20-001,2025-08-20,Backhaus,Bakery - Burlingame,11.75,Meals,Coffee,Ch
 EXP-2025-08-20-002,2025-08-20,Uber Eats,Uber Eats Delivery - CA,23.30,Meals,Working Meals,Chase,pending,,,,,pending,low,Uber Eats delivery - Bay Area,Credit card statement
 BF-20250820-001,2025-08-20,Lyft,Lyft - Rideshare,43.88,Travel,Rideshare,Chase,email_available,,,,from:no-reply@lyftmail.com,pending,medium,Business rideshare,Backfill: LYFT *2 RIDES 08-18 HELP.LYFT.COM CA
 EXP-2025-08-21-001,2025-08-21,Anthropic,Claude API Usage,1500.11,Infrastructure,API Services,Amex,found,198ce9b704cdd81a,,,from:anthropic.com subject:invoice,pending,critical,AI/LLM API for product development,
-EXP-2025-08-21-002,2025-08-21,Stanford Court SF,Hotel Incidentals,38.24,Travel,Hotels,Chase,pending,,,,,pending,high,SF business trip accommodation,
+EXP-2025-08-21-002,2025-08-21,Stanford Court SF,Hotel Incidentals,38.24,Travel,Hotels,Chase,found,198affe138670448,,,,pending,high,SF business trip accommodation,
 EXP-2025-08-21-003,2025-08-21,Claude.ai,Pro Subscription,217.75,Software,AI Tools,Amex,found,198ce9b704cdd81a,"Your receipt from Anthropic, PBC #2525-1702-6011",,from:anthropic subject:receipt,pending,medium,AI development tools,
 EXP-2025-08-21-004,2025-08-21,Thanh Long,Team Dinner SF,280.06,Meals,Team Meals,Chase,pending,,,,,pending,medium,Team meal with colleagues,
 EXP-2025-08-21-005,2025-08-21,Amazon,Samsung Monitors (49in curved + 2x32in 4K),1836.70,Equipment,Computer Monitors,Chase,found,198ce55414d4fae2,Ordered: Samsung 49 Business Curved...,,from:auto-confirm@amazon.com,pending,critical,San Mateo office monitors,Order #112-5898970-1597836
