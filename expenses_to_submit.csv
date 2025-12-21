@@ -186,8 +186,8 @@ BF-20250510-001,2025-05-10,Google,Google - Other,21.76,Meals,Other,Chase,pending
 BF-20250512-001,2025-05-12,Joy,Joy - Restaurant,113.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: JOY SUSHI.. SAN MATEO CA
 BF-20250512-002,2025-05-12,Uber,Uber - Rideshare,31.92,Travel,Rideshare,Amex,email_available,,,,from:noreply@uber.com subject:trip,pending,medium,Business rideshare,Backfill: UBER
 BF-20250513-001,2025-05-13,Farmhouse,Farmhouse - Restaurant,53.15,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*FARMHOUSE KITCHEN TH San Francisco CA
-BF-20250514-001,2025-05-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,pending,,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
-BF-20250516-001,2025-05-16,Macarena,Macarena - Restaurant,428.71,Meals,Restaurant,Chase,pending,,,,,pending,high,Business restaurant,Backfill: TST*MACARENA 2025 Palo Alto CA
+BF-20250514-001,2025-05-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,found,196d0ec4791753f0,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
+BF-20250516-001,2025-05-16,Macarena,Macarena - Restaurant,428.71,Meals,Restaurant,Chase,found,196d7527b799028e,,,,pending,high,Business restaurant,Backfill: TST*MACARENA 2025 Palo Alto CA
 BF-20250517-001,2025-05-17,DoorDash,DoorDash - Delivery,43.18,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH LADONG 855-431-0459 CA
 BF-20250517-002,2025-05-17,Uber,Uber - Rideshare,40.37,Travel,Rideshare,Chase,email_available,,,,from:noreply@uber.com subject:trip,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM 800-5928996 CA
 BF-20250518-001,2025-05-18,Delta Air Lines,Delta Air Lines - Airlines,513.99,Travel,Airlines,Amex,found,196e08eaa15f07e3,,,from:DeltaAirLines@t.delta.com subject:receipt,pending,high,Business airlines,Backfill: DELTA AIR LINES
@@ -223,7 +223,7 @@ BF-20250612-002,2025-06-12,DoorDash,DoorDash - Delivery,27.44,Meals,Delivery,Cha
 BF-20250612-003,2025-06-12,DoorDash,DoorDash - Delivery,20.80,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH XIANFAMOU 855-431-0459 CA
 BF-20250613-002,2025-06-13,Hatsuhana,Hatsuhana - Restaurant,181.07,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: HATSUHANA SUSHI RESTAURAN NEW YORK NY
 BF-20250613-001,2025-06-13,DoorDash,DoorDash - Delivery,28.48,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH NOONANOOD 855-431-0459 CA
-BF-20250614-003,2025-06-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,pending,,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
+BF-20250614-003,2025-06-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,found,19770909c41cd715,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
 BF-20250614-001,2025-06-14,DoorDash,DoorDash - Delivery,34.02,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH SIMPIZZA- 855-431-0459 CA
 BF-20250614-002,2025-06-14,DoorDash,DoorDash - Delivery,27.72,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMMYLCOF 855-431-0459 CA
 BF-20250615-001,2025-06-15,DoorDash,DoorDash - Delivery,44.30,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
@@ -266,7 +266,7 @@ BF-20250712-003,2025-07-12,Hamburger,Hamburger - Restaurant,46.73,Meals,Restaura
 BF-20250712-001,2025-07-12,DoorDash,DoorDash - Delivery,25.76,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH SOOTHRTHA 855-431-0459 CA
 BF-20250713-002,2025-07-13,Stumptown,Stumptown - Restaurant,43.00,Meals,Restaurant,Chase,email_available,,,,from:messenger@messaging.squareup.com stumptown,pending,medium,Business restaurant,Backfill: SQ *STUMPTOWN COFFEE ROAS New York NY
 BF-20250713-001,2025-07-13,DoorDash,DoorDash - Delivery,27.66,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH SAMWOOJUN 855-431-0459 CA
-BF-20250714-004,2025-07-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,pending,,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
+BF-20250714-004,2025-07-14,Recruit Pro,Recruit Pro - Recruiting,149.00,Software,Recruiting,Amex,found,1980b0e84ecf95b6,,,,pending,medium,Business recruiting,Backfill: RECRUIT PRO         LONG ISLAND CITY    NY
 BF-20250714-001,2025-07-14,Taim,Taim - Restaurant,40.37,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST* TAIM - NOLITA NEW YORK NY
 BF-20250714-003,2025-07-14,DoorDash,DoorDash - Delivery,29.07,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH DASHMART 855-431-0459 CA
 BF-20250714-002,2025-07-14,DoorDash,DoorDash - Delivery,24.54,Meals,Delivery,Chase,email_available,,,,from:no-reply@doordash.com subject:confirmation,pending,medium,Business delivery,Backfill: DD *DOORDASH HANDYNAST 855-431-0459 CA
@@ -337,7 +337,7 @@ EXP-2025-08-13-004,2025-08-13,DoorDash,DD Siddharta - CA,24.77,Meals,Working Mea
 EXP-2025-08-13-005,2025-08-13,DoorDash,DD Levain Bakery - CA,26.59,Meals,Working Meals,Chase,pending,,,,,pending,low,DoorDash delivery - Bay Area,Credit card statement
 EXP-2025-08-14-001,2025-08-14,Delta Air Lines,Business Flight,378.48,Travel,Flights,Amex,found,198b57bef065dabd,,,from:delta subject:confirmation,pending,high,Business travel,
 EXP-2025-08-14-002,2025-08-14,HotelTonight,Home2 Suites,184.00,Travel,Hotels,Chase,found,198a1b400cf0518d,,,from:hoteltonight,pending,high,Business travel accommodation,
-EXP-2025-08-14-003,2025-08-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,pending,,,,from:recruitpro,pending,medium,Team hiring,
+EXP-2025-08-14-003,2025-08-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,found,198aab3bfaea07b0,,,from:recruitpro,pending,medium,Team hiring,
 BF-20250814-002,2025-08-14,Nola,Nola - Restaurant,41.43,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*NOLA - PALO ALTO 650-328-2722 CA
 BF-20250814-001,2025-08-14,Uber,Uber - Rideshare,23.99,Travel,Rideshare,Chase,email_available,,,,from:noreply@uber.com subject:trip,pending,medium,Business rideshare,Backfill: UBER *EATS HELP.UBER.COM CA
 EXP-2025-08-15-001,2025-08-15,Anthropic,Claude API Usage,1502.14,Infrastructure,API Services,Amex,pending,,,,from:anthropic.com subject:invoice,pending,critical,AI/LLM API for product development,
@@ -345,7 +345,7 @@ EXP-2025-08-15-001,2025-08-15,DoorDash,DD 7th Street - CA,21.97,Meals,Working Me
 BF-20250815-002,2025-08-15,Uber,Uber - Rideshare,35.23,Travel,Rideshare,Chase,email_available,,,,from:noreply@uber.com subject:trip,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250815-001,2025-08-15,Uber,Uber - Rideshare,34.10,Travel,Rideshare,Chase,email_available,,,,from:noreply@uber.com subject:trip,pending,medium,Business rideshare,Backfill: UBER *TRIP HELP.UBER.COM CA
 BF-20250816-001,2025-08-16,Dan,Dan - Restaurant,21.55,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *DAN AND JOHN'S WINGS New York NY
-EXP-2025-08-17-001,2025-08-17,Delta Air Lines,Business Flight,386.96,Travel,Flights,Amex,pending,,,,from:delta subject:confirmation,pending,high,Business travel,
+EXP-2025-08-17-001,2025-08-17,Delta Air Lines,Business Flight,386.96,Travel,Flights,Amex,found,19892babceb3421c,,,from:delta subject:confirmation,pending,high,Business travel,
 EXP-2025-08-17-002,2025-08-17,Stanford Court SF,Hotel Stay,770.72,Travel,Hotels,Chase,pending,,,,from:stanfordcourt OR hoteltonight,pending,high,SF business trip accommodation,
 EXP-2025-08-17-003,2025-08-17,MTA NYC Subway,NYC Subway - Travel Day,7.15,Travel,Ground Transportation,Chase,pending,,,,,pending,low,Airport transit - SF business trip,Stanford Court booking same day
 EXP-2025-08-17-004,2025-08-17,Amazon,Coat Racks (2x Mid Century Modern),131.56,Equipment,Office Furniture,Chase,found,198b9e9296549f9f,Ordered: 2 Mod Made Mid Century Modern...,,from:auto-confirm@amazon.com,pending,medium,San Mateo office furniture,Order #112-9029470-0736266
@@ -357,7 +357,7 @@ BF-20250817-001,2025-08-17,Gotham,Gotham - Restaurant,24.05,Meals,Restaurant,Cha
 EXP-2025-08-18-001,2025-08-18,MTA LIRR,LIRR from JFK Airport,5.00,Travel,Ground Transportation,Chase,pending,,,,,pending,medium,Airport transit - return from SF,LIRR ticket from JFK
 EXP-2025-08-18-002,2025-08-18,NYC Ferry,NYC Ferry - Travel Day,4.50,Travel,Ground Transportation,Chase,pending,,,,,pending,low,Airport transit - return from SF,Ferry on travel day
 EXP-2025-08-18-003,2025-08-18,Peet's Coffee,Coffee - San Mateo,3.70,Meals,Coffee,Chase,pending,,,,,pending,low,Working coffee - San Mateo office,
-EXP-2025-08-19-001,2025-08-19,Kajiken,Team Lunch San Mateo,108.13,Meals,Team Meals,Chase,pending,,,,,pending,medium,Team meal - Promptfoo office,
+EXP-2025-08-19-001,2025-08-19,Kajiken,Team Lunch San Mateo,108.13,Meals,Team Meals,Chase,found,198bece8999a60c9,,,,pending,medium,Team meal - Promptfoo office,
 EXP-2025-08-19-002,2025-08-19,Amazon,Office Supplies (hangers/anchors/scissors/tape),48.73,Equipment,Office Supplies,Chase,found,198c4a642585d61e,Ordered: 5 Anker Flat Plug Power...,,from:auto-confirm@amazon.com,pending,low,San Mateo office supplies,Order #112-1356884-9469035
 EXP-2025-08-19-003,2025-08-19,Amazon,Office Supplies (power strips/cable mgmt),182.40,Equipment,Office Supplies,Chase,found,198c4a642585d61e,Ordered: 5 Anker Flat Plug Power...,,from:auto-confirm@amazon.com,pending,medium,San Mateo office supplies,Order #112-2833716-1158656
 EXP-2025-08-19-004,2025-08-19,Philz Coffee,Coffee - San Mateo,13.63,Meals,Coffee,Chase,pending,,,,,pending,low,Working coffee - San Mateo office,
@@ -422,7 +422,7 @@ EXP-2025-08-30-003,2025-08-30,DoorDash,DD Hey Thai - CA,24.35,Meals,Working Meal
 BF-20250830-001,2025-08-30,Tokyo,Tokyo - Restaurant,38.47,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: SQ *TOKYO DRUMSTICK New York NY
 BF-20250830-002,2025-08-30,Los,Los - Restaurant,31.10,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LOS TACOS NO. 1 FIDI Manhattan NY
 BF-20250831-001,2025-08-31,La,La - Restaurant,69.24,Meals,Restaurant,Chase,pending,,,,,pending,medium,Business restaurant,Backfill: TST*LA DONG New York NY
-EXP-2025-09-01-001,2025-09-01,Delta Air Lines,Business Flight,125.00,Travel,Flights,Amex,pending,,,,from:delta subject:confirmation,pending,high,Business travel,
+EXP-2025-09-01-001,2025-09-01,Delta Air Lines,Business Flight,125.00,Travel,Flights,Amex,found,1991db224d3a74a2,,,from:delta subject:confirmation,pending,high,Business travel,
 EXP-2025-09-01-002,2025-09-01,MTA NYC Subway,NYC Subway - Travel Day,7.15,Travel,Ground Transportation,Chase,pending,,,,,pending,low,Airport transit - Delta flight day,Subway to airport
 EXP-2025-09-01-003,2025-09-01,DoorDash,DD Maiko Match - CA,21.37,Meals,Working Meals,Chase,pending,,,,,pending,low,DoorDash delivery - Bay Area,Credit card statement
 EXP-2025-09-02-001,2025-09-02,Anthropic,Claude API Usage,1501.80,Infrastructure,API Services,Amex,pending,,,,from:anthropic.com subject:invoice,pending,critical,AI/LLM API for product development,
@@ -486,7 +486,7 @@ EXP-2025-09-13-007,2025-09-13,In-N-Out,Lunch - Daly City,12.42,Meals,Working Mea
 EXP-2025-09-13-008,2025-09-13,DoorDash,DD El Sinaloense - CA,41.76,Meals,Working Meals,Chase,pending,,,,,pending,low,DoorDash delivery - Bay Area,Credit card statement
 EXP-2025-09-13-009,2025-09-13,DoorDash,DD Doubledash - CA,91.29,Meals,Working Meals,Chase,pending,,,,,pending,medium,DoorDash delivery - Bay Area,Credit card statement
 EXP-2025-09-13-010,2025-09-13,DoorDash,DD Darbar - CA,41.04,Meals,Working Meals,Chase,pending,,,,,pending,low,DoorDash delivery - Bay Area,Credit card statement
-EXP-2025-09-14-001,2025-09-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,pending,,,,from:recruitpro,pending,medium,Team hiring,
+EXP-2025-09-14-001,2025-09-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,found,1994a594a16a1cb3,,,from:recruitpro,pending,medium,Team hiring,
 EXP-2025-09-14-002,2025-09-14,Verve Coffee,Coffee - Palo Alto,12.86,Meals,Coffee,Chase,pending,,,,,pending,low,Working coffee - Palo Alto,
 EXP-2025-09-14-003,2025-09-14,Jeffreys Hamburgers,Lunch - San Mateo,23.14,Meals,Working Meals,Chase,pending,,,,,pending,low,Working lunch - San Mateo area,
 EXP-2025-09-14-004,2025-09-14,David's Bagel,Breakfast - Pacifica,10.50,Meals,Working Meals,Chase,pending,,,,,pending,low,Working breakfast - Pacifica,
@@ -496,8 +496,8 @@ EXP-2025-09-15-001,2025-09-15,Hotels.com,George Hotel,277.88,Travel,Hotels,Amex,
 EXP-2025-09-15-002,2025-09-15,San Mateo Downtown,Meal - San Mateo,49.04,Meals,Working Meals,Chase,pending,,,,,pending,low,Working meal - San Mateo,
 EXP-2025-09-15-003,2025-09-15,DoorDash,DD New Thai Elephant - CA,16.97,Meals,Working Meals,Chase,pending,,,,,pending,low,DoorDash delivery - Bay Area,Credit card statement
 EXP-2025-09-17-001,2025-09-17,Anthropic,Claude API Usage,1500.15,Infrastructure,API Services,Amex,pending,,,,from:anthropic.com subject:invoice,pending,critical,AI/LLM API for product development,
-EXP-2025-09-17-002,2025-09-17,Delta Air Lines,Business Flight,476.96,Travel,Flights,Amex,pending,,,,from:delta subject:confirmation,pending,high,Business travel,
-EXP-2025-09-17-003,2025-09-17,Delta Air Lines,Business Flight,676.98,Travel,Flights,Amex,pending,,,,from:delta subject:confirmation,pending,high,Business travel,
+EXP-2025-09-17-002,2025-09-17,Delta Air Lines,Business Flight,476.96,Travel,Flights,Amex,found,1991db224d3a74a2,,,from:delta subject:confirmation,pending,high,Business travel,
+EXP-2025-09-17-003,2025-09-17,Delta Air Lines,Business Flight,676.98,Travel,Flights,Amex,found,1991db224d3a74a2,,,from:delta subject:confirmation,pending,high,Business travel,
 EXP-2025-09-17-004,2025-09-17,Hotels.com,Hotel Riu,629.48,Travel,Hotels,Amex,found,1995938352455a08,,,from:hotels.com subject:confirmation,pending,high,Business travel accommodation,
 EXP-2025-09-17-005,2025-09-17,GitHub Universe,Developer Conference,99.00,Professional Development,Conferences,Chase,pending,,,,,pending,medium,GitHub Universe developer conference,Conference ticket
 EXP-2025-09-18-001,2025-09-18,DoorDash,DD Siddharta - CA,28.75,Meals,Working Meals,Chase,pending,,,,,pending,low,DoorDash delivery - Bay Area,Credit card statement
@@ -583,8 +583,8 @@ EXP-2025-10-13-002,2025-10-13,Uber,Rideshare CA,27.24,Travel,Ground Transportati
 EXP-2025-10-13-003,2025-10-13,MTA LIRR,LIRR to JFK Airport,5.00,Travel,Ground Transportation,Chase,pending,,,,,pending,medium,Airport transit - JFK to SF business trip,LIRR ticket to JFK
 EXP-2025-10-13-004,2025-10-13,Babelcloud/Gru.AI,AI Assistant Subscription,19.90,Software,AI Tools,Chase,pending,,,,,pending,low,AI development tools,Monthly subscription
 BF-20251013-001,2025-10-13,Lyft,Lyft - Rideshare,25.31,Travel,Rideshare,Chase,email_available,,,,from:no-reply@lyftmail.com,pending,medium,Business rideshare,Backfill: CITIBIK*11 RIDES HELP.LYFT.COM CA
-EXP-2025-10-14-001,2025-10-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,pending,,,,from:recruitpro,pending,medium,Team hiring,
-EXP-2025-10-14-002,2025-10-14,Kajiken,Team Lunch San Mateo,318.86,Meals,Team Meals,Chase,pending,,,,,pending,medium,Team meal - Promptfoo office,
+EXP-2025-10-14-001,2025-10-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,found,199e4d9bfe4804df,,,from:recruitpro,pending,medium,Team hiring,
+EXP-2025-10-14-002,2025-10-14,Kajiken,Team Lunch San Mateo,318.86,Meals,Team Meals,Chase,found,199e08da1e0ed2f1,,,,pending,medium,Team meal - Promptfoo office,
 EXP-2025-10-14-003,2025-10-14,Uber,Rideshare CA,10.96,Travel,Ground Transportation,Chase,pending,,,,,pending,medium,Business rideshare - SF Bay Area,
 EXP-2025-10-14-004,2025-10-14,Amazon,Insta360 Link 2C Webcam + Umbrellas + Stickers,191.48,Equipment,Office Equipment,Chase,found,199e325d47ced504,Ordered: Insta360 Link 2C - 4K...,,from:auto-confirm@amazon.com,pending,medium,San Mateo office webcam + supplies,Delivered to San Mateo
 EXP-2025-10-14-005,2025-10-14,Curry Up Now,Lunch - San Mateo,106.75,Meals,Working Meals,Chase,pending,,,,,pending,medium,Working lunch - San Mateo,
@@ -727,7 +727,7 @@ EXP-2025-11-13-002,2025-11-13,Perplexity.AI,Pro Subscription,21.78,Software,AI T
 EXP-2025-11-13-001,2025-11-13,DoorDash,Perillas - Boston,22.14,Meals,Working Meals,Chase,found,19a7f073ad893bf9,Order Confirmation for Michael from Perillas - Western Ave,,from:doordash,pending,medium,Solo working meal - Boston business trip,Workday delivery to 280 Western Ave Allston MA
 EXP-2025-11-13-003,2025-11-13,Babelcloud/Gru.AI,AI Assistant Subscription,19.90,Software,AI Tools,Chase,pending,,,,,pending,low,AI development tools,Monthly subscription
 EXP-2025-11-14-001,2025-11-14,Framework,Framework Laptop,2257.00,Equipment,Computer,Chase,found,19a84317a20c3074,Order Confirmation #R047060544,,from:frame.work,pending,high,Development laptop,
-EXP-2025-11-14-002,2025-11-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,pending,,,,from:recruitpro,pending,medium,Team hiring,
+EXP-2025-11-14-002,2025-11-14,Recruit Pro,Recruiting Tool,149.00,Software,HR Tools,Amex,found,19a847cbe41381c1,,,from:recruitpro,pending,medium,Team hiring,
 EXP-2025-11-14-003,2025-11-14,MBTA,Boston Transit,2.40,Travel,Ground Transportation,Chase,pending,,,,,pending,low,Business transit - Boston,
 RCPT-20251114-DL1,2025-11-14,Delta Air Lines,Flight BOS-SFO-JFK Nov 16-20,287.99,Travel,Airlines,Amex,found,19a851b0660abd8f,Your Flight Receipt - MICHAEL LEO D ANGELO 16NOV25,,from:DeltaAirLines@t.delta.com subject:receipt,pending,high,Business travel to SF office,"Confirmation G28NQA, eCredit applied ($866.97)"
 EXP-2025-11-15-001,2025-11-15,Delta Air Lines,Business Flight,287.99,Travel,Flights,Amex,found,19a851b0660abd8f,,,from:delta subject:confirmation,pending,high,Business travel,
