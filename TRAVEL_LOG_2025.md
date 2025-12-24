@@ -9,8 +9,8 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 
 | Metric | Value |
 |--------|-------|
-| Total Delta Flights | 55+ |
-| Total Air Spend (Business) | ~$13,500 |
+| Total Delta Flights | 73+ |
+| Total Air Spend (Business) | ~$18,500 |
 | Total Air Spend (Personal) | ~$2,600 |
 | Total Hotel Spend | $11,053 |
 | Medallion Status | Diamond (achieved Oct 2025) |
@@ -19,10 +19,12 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 
 | City | Business Days | Personal Days | Notes |
 |------|--------------|---------------|-------|
-| New York City | ~65 | 0 | Primary business travel |
-| San Francisco Bay Area | ~45 | 0 | Home base + hotel stays |
+| New York City | ~75 | 0 | Primary business travel |
+| San Francisco Bay Area | ~50 | 0 | Home base + hotel stays |
 | Las Vegas | 9 | 0 | Aug 1-10 conference |
+| Seattle | 3 | 0 | Apr 17-20 meetings |
 | Palo Alto | 2 | 0 | Aug 13-15 meetings |
+| Phoenix | 1 | 0 | Feb 15 layover/meeting |
 | Boston | 0 | ~10 | PERSONAL - exclude |
 | Honolulu | 0 | ~3 | PERSONAL - exclude |
 
@@ -56,12 +58,60 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 ## Monthly Flight Details
 
 ### January 2025 - Gold Medallion
-**PERSONAL: Honolulu vacation**
 
-| Date | Route | Flight | Conf # | Amount | Notes |
-|------|-------|--------|--------|--------|-------|
-| Jan 4 | SFO → HNL | Southwest | 4HTKYW | - | PERSONAL |
-| Jan 5 | HNL → SFO | Hawaiian | 5ZDVI9 | - | PERSONAL |
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Jan 4 | SFO → HNL | Southwest | 4HTKYW | - | - | PERSONAL |
+| Jan 5 | HNL → SFO | Hawaiian | 5ZDVI9 | - | - | PERSONAL |
+| Jan 24-25 | SFO 10:50pm → JFK 7:21am+1 | DL670 | HU79MG | $283.48 | $283.48 | One-way |
+| Jan 31-Feb 1 | SFO 10:50pm → JFK 7:21am+1 | DL670 | HU79MG | $328.48 | $45.00 | eCredit $283.48 applied |
+
+**Jan Business Total: $328 paid ($612 ticket value)**
+
+---
+
+### February 2025 - Gold Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Feb 9 | JFK 7:25pm → SFO 11:17pm | DL667 | HLBXD2 | $551.96 | $551.96 | RT with Feb 14 |
+| Feb 14-15 | SFO 10:50pm → JFK 7:25am+1 | DL670 | HLBXD2 | (incl above) | - | Return leg |
+| Feb 15-16 | PHX 11:59pm → DTW → JFK 9:00am | DL1566/DL5216 | G5G33G | $403.19 | $0 | eCredit $405.40 applied |
+| Feb 23 | JFK 7:25pm → SFO 11:17pm | DL667 | G8KMAB | $736.96 | $736.96 | RT with Mar 13 |
+| Feb 27-28 | SFO 4:10pm → JFK 12:40am+1 | DL363 | HLBXD2 | $616.96 | $40.00 | Changed booking, eCredit applied |
+
+**Feb Total: ~$1,329 paid ($2,309 ticket value)**
+
+---
+
+### March 2025 - Gold Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Mar 2 | JFK 7:25pm → SFO 11:17pm | DL667 | G3EY3Q | $691.97 | $691.97 | RT with Mar 6 |
+| Mar 4 | EWR 6:30pm → SLC → SFO 12:14am+1 | DL2033/DL1091 | GXYL28 | $458.18 | $458.18 | Newark departure |
+| Mar 6 | SFO 4:10pm → JFK 12:40am+1 | DL363 | G3EY3Q | (incl above) | - | Return leg |
+| Mar 8 | SFO 10:50pm → JFK 8:25am+1 | DL670 | G8KMAB | $996.96 | $260.00 | eCredit $736.96 applied |
+| Mar 13 | SFO 4:05pm → JFK 12:30am+1 | DL363 | G8KMAB | (incl above) | - | Return from Feb 23 |
+| Mar 22 | JFK 4:45pm → SFO 8:24pm | DL670 | JJJZYV | $178.49 | $178.49 | |
+| Mar 31 | SFO 4:05pm → JFK 12:30am+1 | DL363 | HADT75 | $750.97 | $750.97 | RT with Apr 6 |
+
+**Mar Total: ~$2,339 paid ($3,076 ticket value)**
+
+---
+
+### April 2025 - Gold Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Apr 6 | JFK 7:40pm → SFO 11:36pm | DL667 | HADT75 | (incl Mar 31) | - | Return leg |
+| Apr 10 | SFO 4:05pm → JFK 12:42am+1 | DL363 | G9SOCH | $238.48 | $238.48 | |
+| Apr 15 | JFK 7:40pm → SFO 11:36pm | DL667 | HAIUSB | $238.48 | $238.48 | |
+| Apr 17 | SFO 1:45pm → SEA 4:07pm | DL2366 | GGECS7 | $253.49 | $253.49 | Seattle trip |
+| Apr 20 | SEA 3:55pm → JFK 12:28am+1 | DL1719 | HAIRYJ | $368.48 | $368.48 | Seattle→NYC |
+| Apr 24 | JFK 9:45pm → SFO 1:34am+1 | DL1732 | G9AKQ2 | $366.97 | $366.97 | RT with May 3 |
+
+**Apr Total: $1,465.90 paid**
 
 ---
 
@@ -250,7 +300,7 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 
 | Source | Count | Total Spend |
 |--------|-------|-------------|
-| Delta Direct | 55+ flights | ~$16,100 |
+| Delta Direct | 73+ flights | ~$21,100 |
 | HotelTonight | 11 stays | $4,124 |
 | Chase Travel | 4 stays | $4,363 |
 | Hotels.com | 2 stays | $771 |
@@ -265,11 +315,11 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 
 | Month | Delta Receipts | Key Flights |
 |-------|----------------|-------------|
-| January | 0 | Southwest/Hawaiian to HNL (personal) |
-| February | 0 | No travel |
-| March | 0 | No travel |
-| April | 0 | No travel |
-| May | 10 | 6, 7, 11, 22, 25, 29 (SFO↔JFK) |
+| January | 2 | 24, 31 (SFO→JFK) + SW/HA HNL personal |
+| February | 5 | 9, 14-15, 15-16 (PHX→DTW→JFK!), 23, 27 |
+| March | 7 | 2, 4 (EWR→SLC→SFO), 6, 8, 13, 22, 31 |
+| April | 6 | 6, 10, 15, 17 (SFO→SEA), 20 (SEA→JFK), 24 |
+| May | 10 | 3, 6, 7, 11, 22, 25, 29 (SFO↔JFK) |
 | June | 2 | 10, 15, 24 (SFO↔JFK) |
 | July | 3 | 6, 10 (JFK↔SFO) |
 | August | 11 | 1, 10 (Vegas), 14, 17, 21 (multiple trips) |
@@ -277,4 +327,4 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 | October | 7 | 12, 17, 23, 26, 30 (Boston personal) |
 | November | 9 | 4, 5-11 (Boston), 16, 23, 26, 30 |
 | December | 6 | 2 (Alaska), 7 (Southwest), 8, 14, 18→22 |
-| **Total** | **54** | |
+| **Total** | **73+** | |
