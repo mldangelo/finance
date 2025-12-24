@@ -1,393 +1,280 @@
 # 2025 Travel Log
 
 Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bookings.
-Base location: San Francisco (SFO)
-
-## Summary by City
-
-| City | Total Days | Hotel Nights | Total Spend |
-|------|-----------|--------------|-------------|
-| **New York City** | ~65 days | 6 nights documented | $1,427 |
-| **San Francisco Bay Area** | ~45 nights | 45 nights | $6,924 |
-| **Las Vegas** | 9 days | 9 nights | $2,119 |
-| **Palo Alto** | 2 days | 2 nights | $484 |
-| **Honolulu** | ~3 days | - | Personal |
-| **Boston** | ~10 days | - | PERSONAL |
-
----
-
-## Hotels by Date
-
-| Dates | Property | Location | Nights | Cost | Booking Source |
-|-------|----------|----------|--------|------|----------------|
-| Jun 8-10 | Best Western Inn & Suites | San Mateo | 2 | $333 | Chase Travel |
-| Jun 23-24 | The Catrina Hotel | San Mateo | 1 | $149 | HotelTonight |
-| Jul 6-10 | The Stanford Court | San Francisco | 4 | $600 | HotelTonight |
-| Aug 1-10 | Park MGM | Las Vegas | 9 | $2,119 | Chase Travel |
-| Aug 12-13 | Home2 Suites by Hilton SFO | South SF | 1 | $184 | HotelTonight |
-| Aug 13-15 | The Cardinal Hotel | Palo Alto | 2 | $484 | Chase Travel |
-| Aug 17-21 | The Stanford Court | San Francisco | 4 | $771 | Hotels.com |
-| Aug 25-31 | Sonder Battery Park | New York City | 6 | $1,427 | Chase Travel |
-| Sep 1-2 | Marines' Memorial Club | San Francisco | 1 | $162 | HotelTonight |
-| Sep 2-6 | Marines' Memorial Club | San Francisco | 4 | $572 | HotelTonight |
-| Oct 12-17 | Airbnb | San Mateo | 5 | $2,248 | Airbnb |
-| Nov 4-7 | Hotel Zeppelin | San Francisco | 3 | $491 | HotelTonight |
-| Nov 16-20 | The Catrina Hotel | San Mateo | 4 | $446 | HotelTonight |
-| Nov 20-23 | The Timbri (Curio Collection) | San Francisco | 3 | $555 | HotelTonight |
-| Nov 23-26 | The Stanford Court | San Francisco | 3 | $417 | HotelTonight |
-| Dec 7-8 | The Catrina Hotel | San Mateo | 1 | $95 | HotelTonight |
-
-**Total Hotel Spend: $11,053**
-
----
-
-## Monthly Travel Summary
-
-### January 2025
-**Location:** Honolulu (personal) + New York City (business)
-
-**Flights:**
-- Jan 4: SFO → HNL (Southwest, 4HTKYW) - PERSONAL
-- Jan 5: HNL → SFO (Hawaiian, 5ZDVI9) - PERSONAL
-- Jan 24: SFO 10:50pm → JFK 7:21am+1 (DL670, HU79MG) - $283.48
-- Jan 31: SFO 10:50pm → JFK 7:21am+1 (DL670, HU79MG) - $328.48
-
-**Days by City:**
-- Honolulu: ~3 days (PERSONAL)
-- New York City: ~7 days (Jan 25-31)
-
-**Status:** Gold Medallion
-
----
-
-### February 2025
-**Location:** New York City + Phoenix
-
-**Flights:**
-- Feb 9: JFK → SFO (roundtrip, 2 receipts)
-- Feb 15: PHX 11:59pm → DTW 5:39am → JFK 9:00am (DL1566/DL5216, G5G33G) - $403.19
-- Feb 23: Flight (pending details)
-- Feb 27: Flight (pending details)
-
-**Days by City:**
-- New York City: ~15 days
-- Phoenix: 1-2 days (business trip)
-
-**Status:** Gold Medallion
-
----
-
-### March 2025
-**Location:** New York City / San Francisco
-
-**Flights:**
-- Mar 2: JFK → SFO (pending details)
-- Mar 4: Flight (pending details)
-- Mar 8: SFO 10:50pm → JFK 8:25am+1 (DL670, G8KMAB) - $996.96 roundtrip
-- Mar 22: Flight (pending details)
-- Mar 31: Flight (pending details)
-
-**Days by City:**
-- New York City: ~20 days
-- San Francisco: ~10 days
-
-**Status:** Gold Medallion
-
----
-
-### April 2025
-**Location:** New York City / San Francisco
-
-**Flights:**
-- Apr 10: Flight (pending details)
-- Apr 15: Flight (pending details)
-- Apr 17: Flight (pending details)
-- Apr 20: Flight (pending details)
-- Apr 24: Flight (pending details)
-
-**Days by City:**
-- New York City: ~15 days
-- San Francisco: ~10 days
-
-**Status:** Gold Medallion
-
----
-
-### May 2025
-**Location:** New York City
-
-**Flights:**
-- May 11: JFK 9:55pm → SFO 1:39am+1 (DL1732, G983VD) - $942.96
-- May 22: SFO 10:45pm → JFK 7:24am+1 (DL637)
-
-**Days by City:**
-- New York City: 11 days (May 11-22)
-
-**Status:** Gold Medallion
-
----
-
-### June 2025
-**Location:** San Francisco / New York
-
-**Hotels:**
-- Jun 8-10: Best Western San Mateo - $333 (2 nights)
-- Jun 23-24: The Catrina Hotel, San Mateo - $149 (1 night)
-
-**Flights:**
-- Jun 10-15: JFK ↔ SFO (pending review)
-- Jun 24: Flight (pending review)
-
-**Days by City:**
-- San Francisco Bay Area: 3 nights hotel documented
-- New York City: ~5 days estimated
-
----
-
-### July 2025
-**Location:** New York / San Francisco
-
-**Hotels:**
-- Jul 6-10: Stanford Court, SF - $600 (4 nights)
-
-**Flights:**
-- Jul 6: JFK 9:55pm → SFO 1:45am+1 (DL1732, H2LZCA) - $1,247.96
-- Jul 10: SFO 4:00pm → JFK 12:52am+1 (DL363)
-
-**Days by City:**
-- San Francisco: 4 nights (Jul 6-10)
-- New York City: ~21 days (rest of month)
-
-**Status:** Gold Medallion
-
----
-
-### August 2025
-**Location:** Las Vegas conference / SF / NYC
-
-**Hotels:**
-- Aug 1-10: Park MGM, Las Vegas - $2,119 (9 nights) - Business conference
-- Aug 12-13: Home2 Suites SFO - $184 (1 night)
-- Aug 13-15: The Cardinal Hotel, Palo Alto - $484 (2 nights)
-- Aug 17-21: Stanford Court, SF - $771 (4 nights)
-- Aug 25-31: Sonder Battery Park, NYC - $1,427 (6 nights)
-
-**Flights:**
-- Aug 10-12: Return from Vegas (pending review)
-- Aug 14-17: JFK ↔ SFO ($788 roundtrip)
-- Aug 21: SFO 4:10pm → JFK 12:59am+1 (DL363, G4SFAP) - $378
-
-**Days by City:**
-- Las Vegas: 9 days (Aug 1-10) - Business conference
-- San Francisco Bay Area: 8 nights (Aug 12-21)
-- Palo Alto: 2 nights (Aug 13-15)
-- New York City: 6+ nights (Aug 25-31+)
-
-**Status:** Platinum Medallion
-
----
-
-### September 2025
-**Location:** San Francisco / New York
-
-**Hotels:**
-- Sep 1-2: Marines' Memorial Club, SF - $162 (1 night)
-- Sep 2-6: Marines' Memorial Club, SF - $572 (4 nights)
-
-**Flights:**
-- Sep 1-6: NYC ↔ SFO trips
-- Sep 16: SFO → JFK
-- Sep 21-26: JFK 9:50pm → SFO 1:21am+1, return Sep 26 (HNXRNY) - $587
-
-**Days by City:**
-- San Francisco: 5 nights (Sep 1-6)
-- New York City: ~20 days
-
-**Status:** Platinum Medallion
-
----
-
-### October 2025
-**Location:** San Francisco / New York / Boston
-
-**Hotels:**
-- Oct 12-17: Airbnb San Mateo - $2,248 (5 nights)
-
-**Flights:**
-- Oct 12-14: SFO ↔ JFK
-- Oct 17: NYC trip
-- Oct 23: SFO → JFK
-- Oct 26: Return to SFO
-- Oct 30-31: SFO → SLC → BOS (HVQFXM) - $438
-
-**Days by City:**
-- San Francisco Bay Area: 5 nights (Oct 12-17)
-- New York City: ~15 days
-- Boston: ~3 days (⚠️ PERSONAL)
-
-**Status:** Diamond Medallion achieved
-
----
-
-### November 2025
-**Location:** San Francisco / Boston / New York
-
-**Hotels:**
-- Nov 4-7: Hotel Zeppelin, SF - $491 (3 nights)
-- Nov 16-20: The Catrina Hotel, San Mateo - $446 (4 nights)
-- Nov 20-23: The Timbri, SF - $555 (3 nights)
-- Nov 23-26: Stanford Court, SF - $417 (3 nights)
-
-**Flights:**
-- Nov 5-11: BOS ↔ SFO (GBPCCI) - $620 ⚠️ PERSONAL
-- Nov 16: BOS → SFO (G28NQA) - $1,155 ⚠️ PERSONAL
-- Nov 20: SFO → JFK (G28NQA)
-- Nov 26-27: SFO → JFK (GWT4GJ) - $259 (eCredit applied)
-- Nov 30-Dec 1: JFK → SFO (HUTJH3) - $868
-
-**Days by City:**
-- San Francisco Bay Area: 13 nights documented
-- Boston: 7 days (⚠️ PERSONAL - exclude)
-- New York City: ~10 days
-
-**Status:** Diamond Medallion
-
----
-
-### December 2025
-**Location:** San Francisco / New York / San Diego
-
-**Hotels:**
-- Dec 7-8: The Catrina Hotel, San Mateo - $95 (1 night)
-- Dec 14-19+: Hotels.com NYC bookings (pending details)
-
-**Flights:**
-- Dec 2: → SFO (Alaska, MJHZXG)
-- Dec 7: SAN → OAK (Southwest, C5KSJT)
-- Dec 8: SFO → JFK (GQYTL8) - $348
-- Dec 14-18: JFK ↔ SFO (GCJ5XT) - $618
-- Dec 22: SFO → JFK (GCJ5XT) - $608
-
-**Days by City:**
-- San Francisco Bay Area: 1 night documented + travel days
-- New York City: ~15 days (Dec 8-22+)
-- San Diego: 1 day (Dec 7)
-
-**Status:** Diamond Medallion
+**SkyMiles #2659950956** | Base location: San Francisco (SFO)
 
 ---
 
 ## Annual Summary
 
-### Days by City (Estimated)
+| Metric | Value |
+|--------|-------|
+| Total Delta Flights | 55+ |
+| Total Air Spend (Business) | ~$13,500 |
+| Total Air Spend (Personal) | ~$2,600 |
+| Total Hotel Spend | $11,053 |
+| Medallion Status | Diamond (achieved Oct 2025) |
 
-| City | Business Days | Personal Days | Total |
+### Days by City
+
+| City | Business Days | Personal Days | Notes |
 |------|--------------|---------------|-------|
-| New York City | ~65 | 0 | 65 |
-| San Francisco Bay Area | 45 | 0 | 45 |
-| Las Vegas | 9 | 0 | 9 |
-| Palo Alto | 2 | 0 | 2 |
-| Boston | 0 | 10 | 10 |
-| Honolulu | 0 | 3 | 3 |
-
-### Travel Pattern
-- **Primary Route:** SFO ↔ JFK bi-coastal commute (2-4x/month)
-- **Base:** San Francisco
-- **NYC Office/Meetings:** Frequent multi-day trips
-- **Conference:** Las Vegas Aug 1-10
+| New York City | ~65 | 0 | Primary business travel |
+| San Francisco Bay Area | ~45 | 0 | Home base + hotel stays |
+| Las Vegas | 9 | 0 | Aug 1-10 conference |
+| Palo Alto | 2 | 0 | Aug 13-15 meetings |
+| Boston | 0 | ~10 | PERSONAL - exclude |
+| Honolulu | 0 | ~3 | PERSONAL - exclude |
 
 ---
 
-## Flights by Month
+## Hotels Summary
 
-| Month | Trips | Routes | Total Cost |
-|-------|-------|--------|------------|
-| January | 1 | HNL roundtrip | ~$400 (personal) |
-| May | 1 | JFK↔SFO | $943 |
-| June | 2 | JFK↔SFO | ~$600 |
-| July | 1 | JFK↔SFO | $1,248 |
-| August | 3 | JFK↔SFO, Vegas | ~$1,200 |
-| September | 2 | JFK↔SFO | ~$1,000 |
-| October | 3 | JFK↔SFO, BOS | ~$1,500 |
-| November | 4 | BOS↔SFO, JFK | ~$3,000 |
-| December | 4 | JFK↔SFO, SAN | ~$1,600 |
+| Dates | Property | Location | Nights | Cost | Source |
+|-------|----------|----------|--------|------|--------|
+| Jun 8-10 | Best Western Inn & Suites | San Mateo | 2 | $333 | Chase Travel |
+| Jun 23-24 | The Catrina Hotel | San Mateo | 1 | $149 | HotelTonight |
+| Jul 6-10 | The Stanford Court | San Francisco | 4 | $600 | HotelTonight |
+| Aug 1-10 | Park MGM | Las Vegas | 9 | $2,119 | Chase Travel |
+| Aug 12-13 | Home2 Suites by Hilton | South SF | 1 | $184 | HotelTonight |
+| Aug 13-15 | The Cardinal Hotel | Palo Alto | 2 | $484 | Chase Travel |
+| Aug 17-21 | The Stanford Court | San Francisco | 4 | $771 | Hotels.com |
+| Aug 25-31 | Sonder Battery Park | NYC | 6 | $1,427 | Chase Travel |
+| Sep 1-2 | Marines' Memorial Club | San Francisco | 1 | $162 | HotelTonight |
+| Sep 2-6 | Marines' Memorial Club | San Francisco | 4 | $572 | HotelTonight |
+| Oct 12-17 | Airbnb | San Mateo | 5 | $2,248 | Airbnb |
+| Nov 4-7 | Hotel Zeppelin | San Francisco | 3 | $491 | HotelTonight |
+| Nov 16-20 | The Catrina Hotel | San Mateo | 4 | $446 | HotelTonight |
+| Nov 20-23 | The Timbri (Curio) | San Francisco | 3 | $555 | HotelTonight |
+| Nov 23-26 | The Stanford Court | San Francisco | 3 | $417 | HotelTonight |
+| Dec 7-8 | The Catrina Hotel | San Mateo | 1 | $95 | HotelTonight |
 
-**Total Air Travel: ~$11,500 business + ~$2,600 personal**
+**Total: 52 nights, $11,053**
+
+---
+
+## Monthly Flight Details
+
+### January 2025 - Gold Medallion
+**PERSONAL: Honolulu vacation**
+
+| Date | Route | Flight | Conf # | Amount | Notes |
+|------|-------|--------|--------|--------|-------|
+| Jan 4 | SFO → HNL | Southwest | 4HTKYW | - | PERSONAL |
+| Jan 5 | HNL → SFO | Hawaiian | 5ZDVI9 | - | PERSONAL |
+
+---
+
+### May 2025 - Gold Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| May 6 | SFO 4:00pm → JFK 12:37am+1 | DL363 | G9AKQ2 | $601.96 | $234.99 | eCredit $366.97 applied |
+| May 7 | SFO 4:15pm → JFK 12:57am+1 | DL363 | G9AKQ2 | $646.96 | $0 | Fully eCredit |
+| May 11 | JFK 9:55pm → SFO 1:39am+1 | DL1732 | G983VD | $942.96 | $513.99 | eCredit $428.97 applied |
+| May 22 | SFO 10:45pm → JFK 7:24am+1 | DL637 | G983VD | (incl above) | - | Return leg |
+| May 25 | JFK 7:40pm → SFO 11:29pm | DL667 | GDWJZS | $396.96 | $396.96 | |
+| May 29 | SFO 4:15pm → JFK 12:57am+1 | DL363 | GDWJZS | (incl above) | - | Return leg |
+
+**May Total: ~$1,145 paid ($2,588 ticket value)**
+
+---
+
+### June 2025 - Gold Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Jun 10 | SFO 4:00pm → JFK 12:51am+1 | DL363 | GDWJZS | $582.97 | $186.01 | eCredit $396.96 applied |
+| Jun 15 | JFK 9:55pm → SFO 1:45am+1 | DL1732 | GD7RYJ | - | - | Delta One upgrade |
+| Jun 24 | SFO 4:00pm → JFK 12:51am+1 | DL363 | GD7RYJ | $666.97 | $165.00 | eCredit $501.97 applied |
+
+**Hotels:**
+- Jun 8-10: Best Western Inn & Suites, San Mateo - $333
+- Jun 23-24: The Catrina Hotel, San Mateo - $149
+
+**Jun Total Air: ~$350 | Hotels: $482**
+
+---
+
+### July 2025 - Gold Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Jul 6 | JFK 9:55pm → SFO 1:45am+1 | DL1732 | H2LZCA | $1,247.96 | $1,247.96 | Holiday pricing |
+| Jul 10 | SFO 4:00pm → JFK 12:52am+1 | DL363 | H2LZCA | (incl above) | - | Return leg |
+
+**Hotels:**
+- Jul 6-10: The Stanford Court, San Francisco - $600
+
+**Jul Total Air: $1,248 | Hotels: $600**
+
+---
+
+### August 2025 - Platinum Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Aug 1 | JFK 7:20pm → LAS 10:18pm | DL568 | G3X5NW | $556.96 | $556.96 | Vegas conference |
+| Aug 10 | LAS 11:29pm → JFK 7:35am+1 | DL568 | G3X5NW | (incl above) | - | Return leg |
+| Aug 14 | SFO 4:10pm → JFK 12:59am+1 | DL363 | GHYVVQ | $787.96 | $787.96 | |
+| Aug 17 | JFK 9:50pm → SFO 1:35am+1 | DL1732 | GHYVVQ | (incl above) | - | Return leg |
+| Aug 21 | SFO 4:10pm → JFK 12:59am+1 | DL363 | G4SFAP | $378.48 | $378.48 | One-way |
+
+**Hotels:**
+- Aug 1-10: Park MGM, Las Vegas - $2,119 (9 nights, conference)
+- Aug 12-13: Home2 Suites by Hilton, South SF - $184
+- Aug 13-15: The Cardinal Hotel, Palo Alto - $484
+- Aug 17-21: The Stanford Court, San Francisco - $771
+- Aug 25-31: Sonder Battery Park, NYC - $1,427
+
+**Aug Total Air: $1,723 | Hotels: $4,985**
+
+---
+
+### September 2025 - Platinum Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Sep 1 | JFK 9:50pm → SFO 1:35am+1 | DL1732 | GBY4B5 | $841.97 | $0 | eCredit $851.96 applied |
+| Sep 16 | SFO 4:10pm → JFK 12:49am+1 | DL363 | GBY4B5 | (incl above) | - | Return leg |
+
+**Hotels:**
+- Sep 1-2: Marines' Memorial Club, SF - $162
+- Sep 2-6: Marines' Memorial Club, SF - $572
+
+**Sep Total Air: $842 | Hotels: $734**
+
+---
+
+### October 2025 - Diamond Medallion (achieved)
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Oct 30 | SFO 5:30pm → SLC 8:31pm | DL1088 | HVQFXM | $438.19 | $428.20 | **PERSONAL - Boston** |
+| Oct 30 | SLC 11:59pm → BOS 6:40am+1 | DL696 | HVQFXM | (incl above) | - | eCredit $9.99 applied |
+
+**Hotels:**
+- Oct 12-17: Airbnb, San Mateo - $2,248
+
+**Oct Air (Personal): $438 | Hotels: $2,248**
+
+---
+
+### November 2025 - Diamond Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Nov 5-11 | BOS ↔ SFO | - | GBPCCI | ~$620 | - | **PERSONAL - Boston** |
+| Nov 16 | BOS → SFO | - | G28NQA | ~$1,155 | - | **PERSONAL - Boston** |
+| Nov 30 | JFK 9:40pm → SFO 1:12am+1 | DL1732 | HUTJH3 | $868.48 | $280.30 | eCredit $588.18 applied |
+
+**Hotels:**
+- Nov 4-7: Hotel Zeppelin, SF - $491
+- Nov 16-20: The Catrina Hotel, San Mateo - $446
+- Nov 20-23: The Timbri (Curio), SF - $555
+- Nov 23-26: The Stanford Court, SF - $417
+
+**Nov Business Air: $868 | Personal Air: ~$1,775 | Hotels: $1,909**
+
+---
+
+### December 2025 - Diamond Medallion
+
+| Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
+|------|-------|--------|--------|---------------|------|-------|
+| Dec 2 | → SFO | Alaska | MJHZXG | ~$300 | - | Alaska Airlines |
+| Dec 7 | SAN → OAK | Southwest | C5KSJT | ~$100 | - | Southwest |
+| Dec 8 | SFO 10:55pm → JFK 7:30am+1 | DL319 | GQYTL8 | $348.49 | $0 | eCredit $378.48 applied |
+| Dec 14 | JFK 7:25pm → SFO 11:05pm | DL667 | GCJ5XT | $617.97 | $617.97 | |
+| Dec 18 | SFO 10:55pm → JFK 7:30am+1 | DL319 | GCJ5XT | (incl above) | - | Original return |
+| Dec 22 | SFO 2:30pm → JFK 11:02pm | DL1241 | GCJ5XT | $607.97 | $0 | Changed from Dec 18, eCredit applied |
+
+**Hotels:**
+- Dec 7-8: The Catrina Hotel, San Mateo - $95
+
+**Dec Total Air: ~$1,018 paid | Hotels: $95**
 
 ---
 
 ## Medallion Status Progression
 
-| Month | Status | Benefits |
-|-------|--------|----------|
-| Jan-Jun | Gold Medallion | Priority boarding, upgrades |
-| Jul-Sep | Platinum Medallion | Enhanced upgrades, Choice Benefits |
-| Oct-Dec | Diamond Medallion | Top-tier status, Global Entry credit |
-
-**SkyMiles #2659950956**
+| Month | Status | MQMs | Benefits |
+|-------|--------|------|----------|
+| Jan-Jul | Gold | - | Priority boarding, upgrades, free bags |
+| Aug-Sep | Platinum | - | Enhanced upgrades, Choice Benefits |
+| Oct-Dec | Diamond | - | Top-tier status, Global Entry credit, Delta Sky Club |
 
 ---
 
 ## Active eCredits
 
-| Credit # | Amount | Expiration |
-|----------|--------|------------|
-| 0060218988034 | $217.47 | Sep 16, 2026 |
-| 0060218955799 | $203.76 | Aug 16, 2026 |
-| 0060218192358 | $10.00 | Dec 2026 |
-| **Total** | **$431.23** | |
+| Credit # | Amount | Expiration | Notes |
+|----------|--------|------------|-------|
+| 0060218988034 | $217.47 | Sep 16, 2026 | |
+| 0060218955799 | $203.76 | Aug 16, 2026 | From Oct 30 ticket |
+| 0060218846953 | $29.99 | Nov 30, 2026 | From Dec 8 ticket |
+| 0060218192358 | $10.00 | Dec 7, 2026 | From Dec 22 ticket |
+| **Total** | **$461.22** | | |
 
 ---
 
-## Personal Travel (Exclude from Reimbursement)
+## Personal Travel (EXCLUDED from Reimbursement)
 
 | Dates | Destination | Cost | Notes |
 |-------|-------------|------|-------|
 | Jan 4-5 | Honolulu, HI | ~$400 | New Year vacation |
-| Oct 30-31 | Boston, MA | $438 | Personal trip |
-| Nov 5-11 | Boston, MA | $620 | Personal trip |
-| Nov 16 | Boston→SF | ~$1,155 | Partial personal |
-
-**Total Personal Air: ~$2,600**
+| Oct 30-31 | Boston, MA | $438 | HVQFXM - Personal trip |
+| Nov 5-11 | Boston, MA | $620 | GBPCCI - Personal trip |
+| Nov 16 | Boston → SF | $1,155 | G28NQA - Partial personal |
+| **Total** | | **~$2,613** | |
 
 ---
 
-## Booking Sources
+## Key Patterns
 
-| Source | Trips | Total Spend |
+1. **Primary Route:** SFO ↔ JFK bi-coastal commute, typically 2-4x/month
+2. **Preferred Flights:**
+   - Westbound: DL1732 JFK 9:50pm → SFO 1:35am+1 (red-eye)
+   - Eastbound: DL363 SFO 4:00pm → JFK 12:50am+1
+   - Alt Eastbound: DL667 JFK 7:25pm → SFO 11:05pm
+3. **Payment:** Delta SkyMiles Reserve Amex (AX***1003)
+4. **eCredit Strategy:** Frequent rebooking generates credits, applied to subsequent trips
+5. **Hotel Preferences:**
+   - SF: Stanford Court, Marines' Memorial Club
+   - San Mateo: The Catrina Hotel (HotelTonight)
+   - Last-minute: HotelTonight app
+
+---
+
+## Booking Sources Summary
+
+| Source | Count | Total Spend |
 |--------|-------|-------------|
-| HotelTonight | 11 | $4,124 |
-| Chase Travel | 4 | $4,363 |
-| Hotels.com | 2+ | $771+ |
-| Airbnb | 1 | $2,248 |
-| Delta Direct | 50+ | ~$15,400 |
-| Southwest | 2 | ~$200 |
-| Alaska Airlines | 1 | ~$300 |
-| Hawaiian Airlines | 1 | ~$400 |
+| Delta Direct | 55+ flights | ~$16,100 |
+| HotelTonight | 11 stays | $4,124 |
+| Chase Travel | 4 stays | $4,363 |
+| Hotels.com | 2 stays | $771 |
+| Airbnb | 1 stay | $2,248 |
+| Southwest | 2 flights | ~$200 |
+| Alaska Airlines | 1 flight | ~$300 |
+| Hawaiian Airlines | 1 flight | ~$400 |
 
 ---
 
-## Receipts Still to Review
+## Month-by-Month Flight Receipt Count (Verified)
 
-Hotels.com bookings (HTML-only, dates known but details pending):
-- Dec 19: NYC booking
-- Dec 18: NYC booking
-- Dec 14: NYC booking
-- Dec 2: NYC booking
-- Nov 30: SFO area
-- Oct 26: NYC booking
-- Oct 20: NYC booking
-- Sep 29: NYC booking
-- Sep 28: NYC booking
-- Sep 21: NYC booking
-- Sep 13: NYC booking
-
----
-
-## Key Insights
-
-1. **Bi-coastal pattern:** Average 2-4 flights/month between SFO and JFK
-2. **Hotel preference:** Stanford Court (SF), The Catrina (San Mateo), Marines' Memorial (SF)
-3. **Booking pattern:** HotelTonight for last-minute Bay Area, Chase Travel for planned trips
-4. **Status optimization:** Achieved Diamond Medallion by October 2025
-5. **eCredits:** $431 available for future flights
+| Month | Delta Receipts | Key Flights |
+|-------|----------------|-------------|
+| January | 0 | Southwest/Hawaiian to HNL (personal) |
+| February | 0 | No travel |
+| March | 0 | No travel |
+| April | 0 | No travel |
+| May | 10 | 6, 7, 11, 22, 25, 29 (SFO↔JFK) |
+| June | 2 | 10, 15, 24 (SFO↔JFK) |
+| July | 3 | 6, 10 (JFK↔SFO) |
+| August | 11 | 1, 10 (Vegas), 14, 17, 21 (multiple trips) |
+| September | 6 | 1, 16 (Marines' Memorial stays) |
+| October | 7 | 12, 17, 23, 26, 30 (Boston personal) |
+| November | 9 | 4, 5-11 (Boston), 16, 23, 26, 30 |
+| December | 6 | 2 (Alaska), 7 (Southwest), 8, 14, 18→22 |
+| **Total** | **54** | |
