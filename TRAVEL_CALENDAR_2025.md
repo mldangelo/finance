@@ -1,6 +1,7 @@
 # 2025 Day-by-Day Travel Calendar
 
-**Base Location:** San Francisco (SF)
+**Home Base:** New York City (NYC)
+**Primary Business Destination:** San Francisco Bay Area
 **Compiled from:** 73+ Delta flight receipts, hotel bookings, airline confirmations
 
 ---
@@ -9,12 +10,12 @@
 
 | Code | Location | Notes |
 |------|----------|-------|
-| **SF** | San Francisco | Home base |
-| **NYC** | New York City | Primary business destination |
-| **SM** | San Mateo | Bay Area hotel stays |
-| **PA** | Palo Alto | Bay Area meetings |
-| **SSF** | South San Francisco | Airport area |
-| **LAS** | Las Vegas | Conference |
+| **NYC** | New York City | HOME |
+| **SF** | San Francisco | Business - Bay Area |
+| **SM** | San Mateo | Business - Bay Area hotel |
+| **PA** | Palo Alto | Business - Bay Area |
+| **SSF** | South San Francisco | Business - Bay Area |
+| **LAS** | Las Vegas | Business - Conference |
 | **SEA** | Seattle | Business trip |
 | **PHX** | Phoenix | Business trip |
 | **BOS** | Boston | PERSONAL |
@@ -39,7 +40,7 @@
 - Jan 24: SFO 10:50pm→JFK 7:21am+1 (DL670, HU79MG) - $283.48
 - Jan 31: SFO 10:50pm→JFK 7:21am+1 (DL670, HU79MG) - $45.00 paid
 
-**Days:** SF: 24 | NYC: 6 | HNL: 1 (personal)
+**Days:** NYC (home): 24 | SF (business): 6 | HNL: 1 (personal)
 
 ---
 
@@ -60,7 +61,7 @@
 - Feb 23: JFK 7:25pm→SFO 11:17pm (DL667, G8KMAB) - $736.96
 - Feb 27: SFO 4:10pm→JFK 12:40am+1 (DL363, HLBXD2) - $40.00 paid
 
-**Days:** NYC: 18 | SF: 8 | PHX: 1 | Transit: 1
+**Days:** NYC (home): 18 | SF (business): 8 | PHX (business): 1 | Transit: 1
 
 ---
 
@@ -84,7 +85,7 @@
 - Mar 22: JFK 4:45pm→SFO 8:24pm (DL670, JJJZYV) - $178.49
 - Mar 31: SFO 4:05pm→JFK 12:30am+1 (DL363, HADT75) - $750.97
 
-**Days:** NYC: 18 | SF: 13
+**Days:** NYC (home): 18 | SF (business): 13
 
 ---
 
@@ -106,7 +107,7 @@
 - Apr 20: SEA 3:55pm→JFK 12:28am+1 (DL1719, HAIRYJ) - $368.48
 - Apr 24: JFK 9:45pm→SFO 1:34am+1 (DL1732, G9AKQ2) - $366.97
 
-**Days:** NYC: 14 | SF: 12 | SEA: 3 | Transit: 1
+**Days:** NYC (home): 14 | SF (business): 12 | SEA (business): 3 | Transit: 1
 
 ---
 
@@ -129,7 +130,7 @@
 - May 25: JFK 7:40pm→SFO 11:29pm (DL667, GDWJZS) - $396.96
 - May 29: SFO 4:15pm→JFK 12:57am+1 (DL363, GDWJZS)
 
-**Days:** NYC: 15 | SF: 16
+**Days:** NYC (home): 15 | SF (business): 16
 
 ---
 
@@ -152,7 +153,7 @@
 - Jun 15: JFK 9:55pm→SFO 1:45am+1 (DL1732, GD7RYJ) - Delta One
 - Jun 24: SFO 4:00pm→JFK 12:51am+1 (DL363, GD7RYJ) - $165.00 paid
 
-**Days:** NYC: 18 | SF: 8 | San Mateo: 4
+**Days:** NYC (home): 18 | SF Bay (business): 12 (SF 8 + SM 4)
 
 ---
 
@@ -173,7 +174,7 @@
 - Jul 6: JFK 9:55pm→SFO 1:45am+1 (DL1732, H2LZCA) - $1,247.96
 - Jul 10: SFO 4:00pm→JFK 12:52am+1 (DL363, H2LZCA)
 
-**Days:** NYC: 26 | SF: 5 (hotel)
+**Days:** NYC (home): 26 | SF (business): 5 (Stanford Court hotel)
 
 ---
 
@@ -202,7 +203,7 @@
 - Aug 17: JFK 9:50pm→SFO 1:35am+1 (DL1732, GHYVVQ)
 - Aug 21: SFO 4:10pm→JFK 12:59am+1 (DL363, G4SFAP) - $378.48
 
-**Days:** LAS: 10 | NYC: 14 | SF: 4 (hotel) | Palo Alto: 2 | South SF: 1
+**Days:** NYC (home): 14 | LAS (business): 10 | SF Bay (business): 7 (SF 4 + PA 2 + SSF 1)
 
 ---
 
@@ -224,7 +225,7 @@
 - Sep 1: JFK 9:50pm→SFO 1:35am+1 (DL1732, GBY4B5) - $0 (eCredit $851.96)
 - Sep 16: SFO 4:10pm→JFK 12:49am+1 (DL363, GBY4B5)
 
-**Days:** SF: 16 | NYC: 14
+**Days:** NYC (home): 14 | SF (business): 16 (Marines' Memorial + home stays)
 
 ---
 
@@ -244,7 +245,7 @@
 **Flights:**
 - Oct 30: SFO 5:30pm→SLC→BOS 6:40am+1 (DL1088/DL696, HVQFXM) - $428.20 **PERSONAL**
 
-**Days:** NYC: 11 | San Mateo: 5 (Airbnb) | SF: 13 | BOS: 1 (personal)
+**Days:** NYC (home): 11 | SF Bay (business): 18 (SM 5 + SF 13) | BOS (personal): 1
 
 ---
 
@@ -270,7 +271,7 @@
 - Nov 16: BOS→SFO (G28NQA) - ~$1,155 **PERSONAL**
 - Nov 30: JFK 9:40pm→SFO 1:12am+1 (DL1732, HUTJH3) - $280.30 paid
 
-**Days:** SF: 14 (hotels) | San Mateo: 4 (hotel) | BOS: 10 (personal) | NYC: 2
+**Days:** NYC (home): 2 | SF Bay (business): 18 (SF 14 + SM 4) | BOS (personal): 10
 
 ---
 
@@ -294,7 +295,7 @@
 - Dec 14: JFK 7:25pm→SFO 11:05pm (DL667, GCJ5XT) - $617.97
 - Dec 22: SFO 2:30pm→JFK 11:02pm (DL1241, GCJ5XT) - $0 (eCredit)
 
-**Days:** SF: 14 | NYC: 15 | San Mateo: 2
+**Days:** NYC (home): 15 | SF Bay (business): 16 (SF 14 + SM 2)
 
 ---
 
@@ -302,58 +303,71 @@
 
 ### Days by Location
 
-| Location | Business | Personal | Total |
-|----------|----------|----------|-------|
-| San Francisco (home) | ~145 | 0 | 145 |
-| New York City | ~165 | 0 | 165 |
-| San Mateo (hotels) | ~15 | 0 | 15 |
-| Las Vegas | 10 | 0 | 10 |
-| Seattle | 3 | 0 | 3 |
-| Palo Alto | 2 | 0 | 2 |
-| South SF | 1 | 0 | 1 |
-| Phoenix | 1 | 0 | 1 |
-| Boston | 0 | ~11 | 11 |
-| Honolulu | 0 | ~2 | 2 |
-| **In Transit** | ~10 | 0 | 10 |
-| **TOTAL** | **352** | **13** | **365** |
+| Location | Type | Days | % of Year |
+|----------|------|------|-----------|
+| **New York City** | HOME | ~180 | 49% |
+| **San Francisco** | Business | ~130 | 36% |
+| **San Mateo** | Business (hotels) | ~15 | 4% |
+| **Las Vegas** | Business | 10 | 3% |
+| **Boston** | Personal | ~11 | 3% |
+| **Seattle** | Business | 3 | <1% |
+| **Palo Alto** | Business | 2 | <1% |
+| **Honolulu** | Personal | ~2 | <1% |
+| **Phoenix** | Business | 1 | <1% |
+| **In Transit** | - | ~10 | 3% |
+| **TOTAL** | | **365** | |
+
+### Business Travel Summary
+
+| Destination | Days | Purpose |
+|-------------|------|---------|
+| SF Bay Area | ~147 | Promptfoo office / meetings |
+| Las Vegas | 10 | August conference |
+| Seattle | 3 | April meetings |
+| Phoenix | 1 | February trip |
+| **Total Business Travel** | **~161 days** | **44% of year** |
 
 ### Monthly Location Breakdown
 
-| Month | Primary Location | Secondary | Days Away from SF |
-|-------|-----------------|-----------|-------------------|
-| Jan | SF (24) | NYC (6), HNL (1) | 7 |
-| Feb | NYC (18) | SF (8), PHX (1) | 20 |
-| Mar | NYC (18) | SF (13) | 18 |
-| Apr | NYC (14) | SF (12), SEA (3) | 18 |
-| May | SF (16) | NYC (15) | 15 |
-| Jun | NYC (18) | SF (8), SM (4) | 22 |
-| Jul | NYC (26) | SF (5) | 26 |
-| Aug | NYC (14) | LAS (10), SF (4), PA (2), SSF (1) | 27 |
-| Sep | SF (16) | NYC (14) | 14 |
-| Oct | SF (13) | NYC (11), SM (5), BOS (1) | 18 |
-| Nov | SF (14) | BOS (10), SM (4), NYC (2) | 16 |
-| Dec | NYC (15) | SF (14), SM (2) | 17 |
+| Month | NYC (home) | SF Bay (business) | Other | Days Traveling |
+|-------|------------|-------------------|-------|----------------|
+| Jan | 24 | 6 | HNL 1 | 7 |
+| Feb | 18 | 8 | PHX 1 | 10 |
+| Mar | 18 | 13 | - | 13 |
+| Apr | 14 | 12 | SEA 3 | 16 |
+| May | 15 | 16 | - | 16 |
+| Jun | 18 | 12 | - | 12 |
+| Jul | 26 | 5 | - | 5 |
+| Aug | 14 | 7 | LAS 10 | 17 |
+| Sep | 14 | 16 | - | 16 |
+| Oct | 11 | 18 | BOS 1 | 19 |
+| Nov | 2 | 18 | BOS 10 | 28 |
+| Dec | 15 | 16 | - | 16 |
 
 ### Quarterly Summary
 
-| Quarter | SF Days | NYC Days | Other | Travel % |
-|---------|---------|----------|-------|----------|
-| Q1 (Jan-Mar) | 45 | 42 | 4 | 51% away |
-| Q2 (Apr-Jun) | 36 | 47 | 7 | 60% away |
-| Q3 (Jul-Sep) | 25 | 54 | 13 | 73% away |
-| Q4 (Oct-Dec) | 41 | 37 | 15 | 55% away |
-| **YEAR** | **147** | **180** | **39** | **60% away** |
+| Quarter | NYC (home) | Business Travel | Personal | % Traveling |
+|---------|------------|-----------------|----------|-------------|
+| Q1 (Jan-Mar) | 60 | 27 | 1 | 31% |
+| Q2 (Apr-Jun) | 47 | 43 | 0 | 47% |
+| Q3 (Jul-Sep) | 54 | 28 | 10 | 41% |
+| Q4 (Oct-Dec) | 28 | 52 | 11 | 69% |
+| **YEAR** | **~180** | **~150** | **~13** | **44%** |
 
 ---
 
 ## Key Travel Patterns
 
-1. **Bi-Coastal Commute:** Average 2-4 NYC trips per month
-2. **Typical Week in NYC:** Mon-Fri in NYC, fly back Friday/Saturday
-3. **Longest NYC Stretch:** Jul 10-31 (21 consecutive days)
-4. **Longest SF Stretch:** Mar 22-31 (10 days)
-5. **Peak Travel Month:** August (27 days away from SF)
-6. **Busiest Flight Days:** Red-eye departures typically Thu-Sun
+1. **Bi-Coastal Commute:** Average 2-4 SF trips per month for Promptfoo
+2. **Typical Pattern:** Fly JFK→SFO Sunday/Monday night, work in Bay Area, return Thu-Sat
+3. **Longest Home Stretch:** Jul 10-31 (21 consecutive days in NYC)
+4. **Longest SF Trip:** Sep 2-15 (14 consecutive days in SF Bay Area)
+5. **Peak Travel Month:** November (28 days away - SF + Boston personal)
+6. **Lightest Travel Month:** July (only 5 days in SF)
+7. **Preferred Flights:**
+   - Outbound: DL1732 JFK 9:50pm → SFO 1:35am+1 (red-eye)
+   - Return: DL363 SFO 4:00pm → JFK 12:50am+1
+8. **Hotel Pattern:** Stanford Court, Marines' Memorial, Catrina (San Mateo) for Bay Area stays
 
 ---
 
@@ -368,4 +382,5 @@
 
 ---
 
-*Generated from 73+ Delta flight receipts, hotel booking confirmations, and credit card statements.*
+*Generated from 73+ Delta flight receipts, 16 hotel bookings, and credit card statements.*
+*Home base: NYC | Primary business destination: SF Bay Area (Promptfoo)*

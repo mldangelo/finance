@@ -1,7 +1,7 @@
 # 2025 Travel Log
 
 Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bookings.
-**SkyMiles #2659950956** | Base location: San Francisco (SFO)
+**SkyMiles #2659950956** | Home base: New York City (JFK)
 
 ---
 
@@ -15,18 +15,21 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 | Total Hotel Spend | $11,053 |
 | Medallion Status | Diamond (achieved Oct 2025) |
 
-### Days by City
+### Days by Location
 
-| City | Business Days | Personal Days | Notes |
-|------|--------------|---------------|-------|
-| New York City | ~75 | 0 | Primary business travel |
-| San Francisco Bay Area | ~50 | 0 | Home base + hotel stays |
-| Las Vegas | 9 | 0 | Aug 1-10 conference |
-| Seattle | 3 | 0 | Apr 17-20 meetings |
-| Palo Alto | 2 | 0 | Aug 13-15 meetings |
-| Phoenix | 1 | 0 | Feb 15 layover/meeting |
-| Boston | 0 | ~10 | PERSONAL - exclude |
-| Honolulu | 0 | ~3 | PERSONAL - exclude |
+| Location | Type | Days | Notes |
+|----------|------|------|-------|
+| **New York City** | HOME | ~180 | Home base (49% of year) |
+| San Francisco Bay | Business | ~130 | Promptfoo office |
+| San Mateo | Business | ~15 | Bay Area hotels |
+| Las Vegas | Business | 10 | Aug 1-10 conference |
+| Seattle | Business | 3 | Apr 17-20 meetings |
+| Palo Alto | Business | 2 | Aug 13-15 meetings |
+| Phoenix | Business | 1 | Feb 15 meeting |
+| Boston | Personal | ~11 | PERSONAL - exclude |
+| Honolulu | Personal | ~2 | PERSONAL - exclude |
+
+**Total Business Travel Days: ~161 (44% of year away from home)**
 
 ---
 
