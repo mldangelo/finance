@@ -1,241 +1,312 @@
 # 2025 Travel Log
 
-**Generated:** December 21, 2025
-**Primary Airlines:** Delta (Diamond Medallion), Southwest, Alaska, Hawaiian
-**Home Base:** San Francisco (SFO) / New York (JFK)
+Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian).
+Base location: San Francisco (SFO)
+
+## Summary
+
+| Month | Trips | Primary Destinations | Total Flights |
+|-------|-------|---------------------|---------------|
+| January | 1 | Honolulu, HI | 2 |
+| May | 1 | New York (JFK) | 2 |
+| June | 1 | New York (JFK) | 2 |
+| July | 1 | New York (JFK) | 2 |
+| August | 2 | New York (JFK), Las Vegas | 3 |
+| September | 2 | New York (JFK) | 4 |
+| October | 2 | New York (JFK), Boston | 4 |
+| November | 4 | New York (JFK), Boston* | 8 |
+| December | 4 | New York (JFK), San Diego | 6 |
+
+*Boston trips in October-November marked as PERSONAL
 
 ---
 
-## Flight Summary
+## December 2025
 
-| Month | Trips | Primary Routes | Airlines |
-|-------|-------|----------------|----------|
-| Jan | 1 | HNL → SFO | Hawaiian, Southwest |
-| May | 2 | JFK ↔ SFO | Delta |
-| Jun | 2 | JFK ↔ SFO | Delta |
-| Jul | 1 | JFK ↔ SFO | Delta |
-| Aug | 3 | JFK ↔ SFO, LAS | Delta |
-| Sep | 3 | JFK ↔ SFO | Delta |
-| Oct | 4 | JFK ↔ SFO | Delta |
-| Nov | 4 | JFK ↔ SFO | Delta |
-| Dec | 4 | JFK ↔ SFO, SAN → OAK | Delta, Southwest, Alaska |
+### Dec 22: SFO → JFK (One-way)
+- **Airline:** Delta (DL1732)
+- **Confirmation:** GCJ5XT
+- **Ticket:** 0062388040542
+- **Cost:** $607.97 (eCredit applied from #0062386972246)
+- **Purpose:** Business - NYC meetings
 
----
+### Dec 14-18: JFK ↔ SFO (Roundtrip)
+- **Airline:** Delta
+- **Confirmation:** GCJ5XT
+- **Cost:** $617.97
+- **Outbound:** Dec 14 JFK→SFO
+- **Return:** Dec 18 SFO→JFK
+- **Purpose:** Business - SF office
 
-## Detailed Flight Log
+### Dec 8: SFO → JFK (One-way)
+- **Airline:** Delta
+- **Confirmation:** GQYTL8
+- **Ticket:** 0062384426841
+- **Cost:** $348.49 (eCredit applied)
+- **Purpose:** Business - NYC meetings
 
-### January 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Jan 4 | → HNL | Southwest | 4HTKYW | - | Honolulu trip |
-| Jan 5 | HNL → SFO | Hawaiian | 5ZDVI9 | - | Return from Hawaii |
+### Dec 7: SAN → OAK (One-way)
+- **Airline:** Southwest
+- **Confirmation:** C5KSJT
+- **Flight:** WN4237 (7:40pm-9:20pm)
+- **Purpose:** Return to Bay Area from San Diego
 
-### May 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| May 11 | JFK → SFO | Delta | G983VD | $942.96 | Delta Comfort |
-| May 22 | SFO → JFK | Delta | G983VD | (incl.) | Delta Main |
-| May 25 | JFK → SFO | Delta | GDWJZS | $582.97 | Delta One |
-| Jun 10 | SFO → JFK | Delta | GDWJZS | (incl.) | Delta Main |
-
-### June 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Jun 15 | JFK → SFO | Delta | GD7RYJ | $666.97 | Delta One |
-| Jun 24 | SFO → JFK | Delta | GD7RYJ | (incl.) | Delta Main |
-
-### July 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Jul 6 | JFK → SFO | Delta | H2LZCA | $1,247.96 | Delta Main |
-| Jul 10 | SFO → JFK | Delta | H2LZCA | (incl.) | Delta Main |
-
-### August 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Aug 1-10 | LAS | - | - | $2,118.91 | Park MGM via Chase Travel |
-| Aug 10 | LAS → JFK? | Delta | - | - | |
-| Aug 12 | JFK → SFO | Delta | - | - | |
-| Aug 14 | SFO → JFK | Delta | - | $387.00 | |
-| Aug 17-21 | SFO | - | - | $770.72 | Stanford Court Hotel |
-| Aug 21 | SFO → JFK | Delta | - | - | |
-| Aug 24 | JFK → SFO | Delta | - | - | |
-
-### September 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Sep 1 | JFK → SFO | Delta | - | $125.00 | |
-| Sep 6 | SFO → JFK | Delta | - | - | |
-| Sep 16-17 | JFK → SFO | Delta | - | $477 + $677 | Multiple segments |
-| Sep 21 | SFO → JFK | Delta | - | - | |
-| Sep 28-29 | JFK → SFO | Delta | - | - | |
-
-### October 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Oct 8 | JFK → SFO | Delta | - | - | |
-| Oct 12 | SFO → JFK | Delta | - | - | |
-| Oct 14 | JFK → SFO | Delta | - | - | |
-| Oct 17 | SFO → JFK | Delta | - | - | |
-| Oct 20 | JFK → SFO | Delta | - | - | |
-| Oct 23 | SFO → JFK | Delta | - | - | |
-| Oct 26 | JFK → SFO | Delta | - | - | |
-| Oct 30 | SFO → JFK | Delta | - | - | |
-
-### November 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Nov 4-5 | JFK ↔ SFO | Delta | - | - | |
-| Nov 16 | JFK → SFO | Delta | - | - | |
-| Nov 23 | SFO → JFK | Delta | - | - | |
-| Nov 26 | JFK → SFO | Delta | - | - | |
-| Nov 30 | SFO → JFK | Delta | - | - | |
-
-### December 2025
-| Date | Route | Airline | Confirmation | Amount | Notes |
-|------|-------|---------|--------------|--------|-------|
-| Dec 1 | SFO → JFK | Delta | - | - | |
-| Dec 2 | BOS? → SFO | Alaska | MJHZXG | - | |
-| Dec 7 | SAN → OAK | Southwest | C5KSJT | - | San Diego → Oakland |
-| Dec 8 | SFO → JFK | Delta | GQYTL8 | $348.49 | Used eCredit |
-| Dec 14 | JFK → SFO | Delta | GCJ5XT | $617.97 | Delta Main |
-| Dec 18 | SFO → JFK | Delta | GCJ5XT | (incl.) | Delta Main |
-| Dec 22 | SFO → JFK | Delta | GCJ5XT | $607.97 | Used eCredit |
+### Dec 2: → SFO (One-way)
+- **Airline:** Alaska Airlines
+- **Confirmation:** MJHZXG
+- **Purpose:** Return to SF
 
 ---
 
-## Locations Visited (2025)
+## November 2025
 
-### Primary Work Locations
-- **San Francisco, CA** - Primary residence/office
-- **New York, NY (JFK)** - Frequent business travel
+### Nov 30-Dec 1: JFK → SFO (One-way)
+- **Airline:** Delta (DL1732)
+- **Confirmation:** HUTJH3
+- **Ticket:** 0062382466523
+- **Cost:** $868.48 ($280.30 charged, eCredit $588.18 applied)
+- **Departure:** Nov 30, 9:40pm JFK
+- **Arrival:** Dec 1, 1:12am SFO
+- **Class:** Delta Comfort
+- **Purpose:** Return to SF after NYC work
 
-### Other Destinations
-- **Honolulu, HI** - January (vacation)
-- **Las Vegas, NV** - August (Park MGM, 9 nights)
-- **San Diego, CA** - December
-- **Oakland, CA** - December
+### Nov 26-27: SFO → JFK (One-way)
+- **Airline:** Delta (DL363)
+- **Confirmation:** GWT4GJ
+- **Ticket:** 0062381450241
+- **Cost:** $259.49 (fully covered by eCredit $476.96)
+- **Remaining eCredit:** $217.47 (#0060218988034, exp 16SEP26)
+- **Purpose:** Business - Thanksgiving week in NYC
 
----
+### Nov 20: SFO → JFK (One-way)
+- **Airline:** Delta (DL363)
+- **Confirmation:** G28NQA
+- **Departure:** 3:45pm SFO → 12:15am+1 JFK
+- **Purpose:** Business - NYC meetings
 
-## Airline Statistics
+### Nov 16: BOS → SFO (One-way) ⚠️ PERSONAL
+- **Airline:** Delta (DL475)
+- **Confirmation:** G28NQA
+- **Ticket:** 0062380118206
+- **Cost:** $1,154.96 combined (modified itinerary)
+- **Original:** BOS→SFO→BOS, changed to BOS→SFO→JFK
+- **Departure:** 8:05pm BOS → 11:59pm SFO
+- **Class:** Delta Comfort
+- **Note:** Boston trip - PERSONAL travel
 
-### Delta Air Lines
-- **Status:** Diamond Medallion (upgraded from Gold mid-year)
-- **SkyMiles #:** 2659950956
-- **Estimated Flights:** 50+ segments
-- **Estimated Spend:** $22,000+ (from Amex data)
-- **Primary Route:** JFK ↔ SFO (transcontinental)
-- **Cabin Classes Used:** Delta One, Delta Comfort+, Delta Main
-
-### Southwest Airlines
-- **Trips:** 2 (Hawaii Jan, San Diego Dec)
-- **Confirmation Codes:** 4HTKYW, C5KSJT
-
-### Alaska Airlines
-- **Trips:** 1 (December)
-- **Confirmation Code:** MJHZXG
-
-### Hawaiian Airlines
-- **Trips:** 1 (January return from Honolulu)
-- **Confirmation Code:** 5ZDVI9
-
----
-
-## Hotels (2025)
-
-| Date | Property | Location | Nights | Amount | Booked Via |
-|------|----------|----------|--------|--------|------------|
-| Aug 1-10 | Park MGM | Las Vegas | 9 | $2,118.91 | Chase Travel |
-| Aug 17-21 | Stanford Court | San Francisco | 4 | $770.72 | Hotels.com |
-
----
-
-## Travel Spend Summary
-
-| Category | Amount | Notes |
-|----------|--------|-------|
-| Delta Flights | ~$22,600 | From Amex data |
-| Hotels | ~$3,500 | Park MGM + Stanford Court + others |
-| Other Airlines | ~$1,000 | Southwest, Alaska, Hawaiian |
-| **TOTAL** | **~$27,000** | |
+### Nov 5-11: BOS ↔ SFO (Roundtrip) ⚠️ PERSONAL
+- **Airline:** Delta (DL475/DL1655)
+- **Confirmation:** GBPCCI
+- **Ticket:** 0062376771770
+- **Cost:** $619.97
+- **Outbound:** Nov 5 BOS 7:55pm → SFO 11:41pm
+- **Return:** Nov 11 SFO 9:51pm → BOS 6:25am+1
+- **Note:** Boston trip - PERSONAL travel
 
 ---
 
-## Receipt Email IDs (for reference)
+## October 2025
 
-### Delta Flight Receipts (50 found)
-```
-19b304f1cb8d562d - Dec 22 JFK-SFO $607.97
-19afcde43aa3498a - Dec 14 JFK-SFO $617.97
-19af0e6008b9da9d - Dec 8 SFO-JFK $348.49
-19ad7b7b53fe7f7b - Dec 7
-19ab74572b7e7435 - Nov 30
-19ab73e4a3b81ed5 - Dec 1
-19a9fc8d9e1bf75e - Nov 26
-19a851b0660abd8f - Nov 16
-19a8517f4cf5f753 - Nov 23
-19a41674bc3f5b5c - Nov 16
-19a4158273ee2951 - Nov 4
-19a3c5355b0b2149 - Nov 5
-19a2b22d6aebf495 - Oct 30
-19a112998375d927 - Oct 26
-19a0380fd064e8a0 - Oct 23
-199e1444d940acdf - Oct 17
-199c5611a3d80c44 - Oct 12
-19954e3a1fb67f9d - Oct 14
-19954e206b4e6ec3 - Oct 8
-19940f5012576065 - Sep 21
-19940ecbe5bc9055 - Sep 29
-1991db224d3a74a2 - Sep 16
-199034966650d14c - Sep 1
-198f8152abc8b190 - Oct 26
-198eda2e76d47e7c - Oct 20
-198eda151472753a - Sep 28
-198ed9e3f3d2fb78 - Sep 21
-198ece2864ff2004 - Sep 2
-198ce0d82754e1df - Aug 24
-198b57bef065dabd - Sep 6
-198a2170c80879ad - Aug 21
-19892babceb3421c - Aug 14 $387
-19886eab956582e2 - Aug 10
-1985dcbd1913a99b - Aug 12
-197d815a4fd63535 - Jul 6 JFK-SFO $1,247.96
-19783552d29ec258 - Jun 24 SFO-JFK $666.97
-1977b4d12c808e94 - Aug 1
-1971ac2eb0c5d45e - Jun 10 $582.97
-196e08eaa15f07e3 - May 22 $942.96
-196a88a4e14559ce - Jun 15
-196a886b04a6e690 - Jun 2
-196a885fa510e6e1 - Jun 2
-196a884cf800343a - May 25
-```
+### Oct 30-31: SFO → BOS (via SLC)
+- **Airline:** Delta (DL1088/DL696)
+- **Confirmation:** HVQFXM
+- **Ticket:** 0062375728915
+- **Cost:** $438.19 (eCredit $9.99 applied)
+- **Remaining eCredit:** $203.76 (#0060218955799, exp 16AUG26)
+- **Route:** SFO 5:30pm → SLC 8:31pm → BOS 6:40am+1
+- **Note:** Boston trip - verify if PERSONAL
 
-### Hotel Receipts
-```
-1984164bcc4ba5df - Park MGM Chase Travel $2,118.91
-19892c26cb92f52d - Stanford Court Hotels.com $770.72
-198affe138670448 - Stanford Court incidentals $38.24
-```
+### Oct 26: Return to SFO
+- **Receipt exists:** 19a112998375d927
+- **Details:** Pending review
 
-### Other Airlines
-```
-19ad7c835d52fd42 - Alaska Dec 2 MJHZXG
-19af485e503272e2 - Southwest Dec 7 C5KSJT SAN→OAK
-1942891f782f3c94 - Southwest Jan 4 4HTKYW →HNL
-193af1ae3b09706b - Hawaiian Jan 5 5ZDVI9 HNL→SFO
-```
+### Oct 23: SFO → JFK
+- **Receipt exists:** 19a0380fd064e8a0
+- **Details:** Pending review
+
+### Oct 17: NYC trips
+- **Receipt exists:** 199e1444d940acdf
+- **Details:** Pending review
+
+### Oct 12-14: SFO ↔ JFK
+- **Receipt exists:** 199c5611a3d80c44, 19954e3a1fb67f9d
+- **Details:** Pending review
 
 ---
 
-## Notes
+## September 2025
 
-1. **JFK ↔ SFO Commute:** You traveled between NYC and SF approximately 2-4 times per month for most of the year, suggesting a bi-coastal work arrangement.
+### Sep 21-26: JFK ↔ SFO (Roundtrip)
+- **Airline:** Delta (DL1732/DL319)
+- **Confirmation:** HNXRNY
+- **Ticket:** 0062364927337
+- **Cost:** $586.97 ($30.01 charged, eCredit $556.96 applied)
+- **Outbound:** Sep 21 JFK 9:50pm → SFO 1:21am+1
+- **Return:** Sep 26 SFO 10:55pm → JFK 7:28am+1
+- **Status:** Platinum Medallion
+- **Purpose:** Business - SF office
 
-2. **Medallion Status:** Started 2025 as Gold Medallion, upgraded to Diamond Medallion mid-year based on travel volume.
+### Sep 16: SFO → JFK
+- **Receipt exists:** 1991db224d3a74a2
+- **Details:** Pending review
 
-3. **eCredits:** Multiple flights used Delta eCredits from prior cancellations/changes.
+### Sep 1-6: NYC ↔ SFO
+- **Receipt exists:** 199034966650d14c, 198b57bef065dabd
+- **Details:** Pending review
 
-4. **Las Vegas Trip (Aug 1-10):** 9-night stay at Park MGM booked through Chase Travel with Reserve cardmember benefits ($100 dining credit).
+---
 
-5. **Hawaii Trip (Jan):** Started year with Hawaii vacation, outbound on Southwest, return on Hawaiian Airlines.
+## August 2025
+
+### Aug 21: SFO → JFK (One-way)
+- **Airline:** Delta (DL363)
+- **Confirmation:** G4SFAP
+- **Ticket:** 0062356918451
+- **Cost:** $378.48
+- **Departure:** 4:10pm SFO → 12:59am+1 JFK
+- **Status:** Platinum Medallion
+- **Purpose:** Business - NYC meetings
+
+### Aug 14-17: JFK ↔ SFO (Roundtrip)
+- **Receipt exists:** 19892babceb3421c
+- **Cost:** ~$787.96
+- **Purpose:** Business
+
+### Aug 10-12: SFO trips
+- **Receipt exists:** 19886eab956582e2, 1985dcbd1913a99b
+- **Details:** Pending review
+
+### Aug 1-10: Las Vegas (Park MGM)
+- **Hotel:** Park MGM via Chase Travel
+- **Trip ID:** #1003125182
+- **Cost:** $2,118.91
+- **Purpose:** Business conference
+
+---
+
+## July 2025
+
+### Jul 6-10: JFK ↔ SFO (Roundtrip)
+- **Airline:** Delta (DL1732/DL363)
+- **Confirmation:** H2LZCA
+- **Ticket:** 0062345518890
+- **Cost:** $1,247.96
+- **Outbound:** Jul 6 JFK 9:55pm → SFO 1:45am+1
+- **Return:** Jul 10 SFO 4:00pm → JFK 12:52am+1
+- **Status:** Gold Medallion
+- **Purpose:** Business
+
+---
+
+## June 2025
+
+### Jun 10-15: JFK ↔ SFO
+- **Receipt exists:** 1971ac2eb0c5d45e, 196a88a4e14559ce
+- **Details:** Pending review
+
+### Jun 24: Flight
+- **Receipt exists:** 19783552d29ec258
+- **Details:** Pending review
+
+---
+
+## May 2025
+
+### May 11-22: JFK ↔ SFO (Roundtrip)
+- **Airline:** Delta (DL1732/DL637)
+- **Confirmation:** G983VD
+- **Ticket:** 0062332335270
+- **Cost:** $942.96 ($513.99 charged, eCredit $428.97 applied)
+- **Outbound:** May 11 JFK 9:55pm → SFO 1:39am+1 (Comfort, standby initially)
+- **Return:** May 22 SFO 10:45pm → JFK 7:24am+1
+- **Status:** Gold Medallion
+- **Purpose:** Business
+
+### May 25: Additional flight
+- **Receipt exists:** 196a884cf800343a
+- **Details:** Pending review
+
+---
+
+## January 2025
+
+### Jan 4-5: Honolulu Trip (Return)
+- **Airline:** Southwest (outbound), Hawaiian (return)
+- **Southwest Confirmation:** 4HTKYW (Jan 4 to HNL)
+- **Hawaiian Confirmation:** 5ZDVI9 (Jan 5 HNL→SFO, booked Dec 2024)
+- **Purpose:** Personal vacation (New Year)
+
+---
+
+## Medallion Status Progression
+
+| Month | Status |
+|-------|--------|
+| Jan-Jun | Gold Medallion |
+| Jul-Sep | Platinum Medallion |
+| Oct-Dec | Diamond Medallion |
+
+---
+
+## Key Patterns
+
+### Primary Route: SFO ↔ JFK
+- Most frequent flights between San Francisco and New York
+- Mix of same-day and multi-day trips
+- Delta primary carrier (DL1732 outbound, DL363/DL319/DL637 return)
+
+### Boston Trips (PERSONAL - Exclude from reimbursement)
+- Nov 5-11: BOS↔SFO ($619.97)
+- Nov 16-21: BOS→SFO→NYC ($1,154.96 - partial personal)
+- Oct 30-31: SFO→BOS ($438.19)
+
+### eCredits Used
+Multiple flights applied travel credits from cancelled/changed bookings:
+- #0062386972246 → Applied Dec 22
+- #0062382400176 → $588.18 applied Nov 30
+- #0062365401819 → $476.96 applied Nov 26, $217.47 remaining
+- #0062360265953 → $556.96 applied Sep 21
+- #0062318267854 → $428.97 applied May 22
+- #0060217963125 → $9.99 applied Oct 30, $203.76 remaining
+
+---
+
+## Receipts Still to Review
+
+The following Delta receipt email IDs have flight information not yet extracted:
+
+| Email ID | Flight Date | Subject |
+|----------|-------------|---------|
+| 19ad7b7b53fe7f7b | Dec 7 | SFO connection |
+| 19ab73e4a3b81ed5 | Dec 1 | JFK→SFO |
+| 19ab24ea75b7e1e1 | Dec 1 | Duplicate |
+| 19a8517f4cf5f753 | Nov 23 | BOS trip |
+| 19a4158273ee2951 | Nov 4 | BOS trip |
+| 19a41579241c32a2 | Nov 4 | Duplicate |
+| 19940ecbe5bc9055 | Sep 29 | Return flight |
+| 198f8152abc8b190 | Oct 26 | Fall trip |
+| 198eda2e76d47e7c | Oct 20 | Fall trip |
+| 198eda151472753a | Sep 28 | Sep trip |
+| 198ed9e3f3d2fb78 | Sep 21 | Duplicate |
+| 198ece2864ff2004 | Sep 2 | Sep trip |
+| 198ce0d82754e1df | Aug 24 | Aug trip |
+| 1977b4d12c808e94 | Aug 1 | Vegas |
+| 196a886b04a6e690 | Jun 2 | Jun trip |
+| 196a885fa510e6e1 | Jun 2 | Duplicate |
+
+---
+
+## Total 2025 Air Travel Spend (Estimated)
+
+Based on receipts reviewed:
+
+| Category | Amount |
+|----------|--------|
+| Delta flights (reviewed) | ~$8,500 |
+| Delta flights (pending review) | ~$6,000 |
+| Southwest | ~$200 |
+| Alaska Airlines | ~$300 |
+| Hawaiian Airlines | ~$400 |
+| **Total Estimate** | **~$15,400** |
+
+Note: Actual charged amounts are lower due to extensive eCredit usage.
