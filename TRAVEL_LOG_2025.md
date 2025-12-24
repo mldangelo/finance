@@ -44,14 +44,72 @@ Base location: San Francisco (SFO)
 ## Monthly Travel Summary
 
 ### January 2025
-**Location:** Honolulu, HI (Personal vacation)
+**Location:** Honolulu (personal) + New York City (business)
 
 **Flights:**
-- Jan 4: SFO → HNL (Southwest, 4HTKYW)
-- Jan 5: HNL → SFO (Hawaiian, 5ZDVI9)
+- Jan 4: SFO → HNL (Southwest, 4HTKYW) - PERSONAL
+- Jan 5: HNL → SFO (Hawaiian, 5ZDVI9) - PERSONAL
+- Jan 24: SFO 10:50pm → JFK 7:21am+1 (DL670, HU79MG) - $283.48
+- Jan 31: SFO 10:50pm → JFK 7:21am+1 (DL670, HU79MG) - $328.48
 
 **Days by City:**
-- Honolulu: ~3 days (PERSONAL - exclude from reimbursement)
+- Honolulu: ~3 days (PERSONAL)
+- New York City: ~7 days (Jan 25-31)
+
+**Status:** Gold Medallion
+
+---
+
+### February 2025
+**Location:** New York City + Phoenix
+
+**Flights:**
+- Feb 9: JFK → SFO (roundtrip, 2 receipts)
+- Feb 15: PHX 11:59pm → DTW 5:39am → JFK 9:00am (DL1566/DL5216, G5G33G) - $403.19
+- Feb 23: Flight (pending details)
+- Feb 27: Flight (pending details)
+
+**Days by City:**
+- New York City: ~15 days
+- Phoenix: 1-2 days (business trip)
+
+**Status:** Gold Medallion
+
+---
+
+### March 2025
+**Location:** New York City / San Francisco
+
+**Flights:**
+- Mar 2: JFK → SFO (pending details)
+- Mar 4: Flight (pending details)
+- Mar 8: SFO 10:50pm → JFK 8:25am+1 (DL670, G8KMAB) - $996.96 roundtrip
+- Mar 22: Flight (pending details)
+- Mar 31: Flight (pending details)
+
+**Days by City:**
+- New York City: ~20 days
+- San Francisco: ~10 days
+
+**Status:** Gold Medallion
+
+---
+
+### April 2025
+**Location:** New York City / San Francisco
+
+**Flights:**
+- Apr 10: Flight (pending details)
+- Apr 15: Flight (pending details)
+- Apr 17: Flight (pending details)
+- Apr 20: Flight (pending details)
+- Apr 24: Flight (pending details)
+
+**Days by City:**
+- New York City: ~15 days
+- San Francisco: ~10 days
+
+**Status:** Gold Medallion
 
 ---
 

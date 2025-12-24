@@ -1,7 +1,7 @@
 # Expense Reimbursement Todo List
 
-**Generated:** December 21, 2025
-**Status:** 744 expenses, $156,076.29
+**Generated:** December 23, 2025
+**Status:** 750 expenses, $187,958.39
 
 ---
 
@@ -9,12 +9,12 @@
 
 ### Data Corrections
 - [x] ~~Remove IKEA duplicate (08-23 Chase $3,032.24)~~ - DONE
-- [ ] Add missing GCP April charge ($14,500)
-- [ ] Add missing GCP July charge ($14,673)
-- [ ] Add 3 missing Anthropic charges (Nov 26 $1,500.72, Dec 7 $435.75, Dec 10 $435.89) = $2,372.36
+- [x] ~~Add missing GCP April charge ($14,500)~~ - DONE Dec 23
+- [x] ~~Add missing GCP July charge ($14,673)~~ - DONE Dec 23
+- [x] ~~Add 4 missing Anthropic charges (Nov 26 $1,500.72, Nov 29 $545.78, Dec 7 $435.75, Dec 10 $435.89)~~ - DONE Dec 23
 - [ ] Verify Claude.ai $1,088.75 is business expense (5 monthly charges)
 
-**After fixes, corrected total: ~$185,000**
+**Current total: $187,958.39 (750 expenses)**
 
 ---
 
@@ -102,14 +102,14 @@
 
 ## SUMMARY
 
-| Phase | Action | Amount | Priority |
-|-------|--------|--------|----------|
-| Fixes | Add missing GCP/Anthropic | +$31,500 | CRITICAL |
-| 1 | Billing portal downloads | $65,800 | HIGH |
-| 2 | Critical email receipts | $17,740 | HIGH |
-| 3 | High priority emails | ~$15,000 | MEDIUM |
-| 4 | Rideshare matching | $5,000 | MEDIUM |
-| 5 | CC statement backup | $4,200 | LOW |
+| Phase | Action | Amount | Priority | Status |
+|-------|--------|--------|----------|--------|
+| Fixes | Add missing GCP/Anthropic | +$32,091 | CRITICAL | ✅ DONE |
+| 1 | Billing portal downloads | $65,800 | HIGH | Pending |
+| 2 | Critical email receipts | $17,740 | HIGH | Pending |
+| 3 | High priority emails | ~$15,000 | MEDIUM | Pending |
+| 4 | Rideshare matching | $5,000 | MEDIUM | Pending |
+| 5 | CC statement backup | $4,200 | LOW | Pending |
 
 ---
 
@@ -117,8 +117,9 @@
 
 | File | Purpose |
 |------|---------|
-| `expenses_to_submit.csv` | Master expense list (744 items) |
+| `expenses_to_submit.csv` | Master expense list (750 items, $187,958) |
 | `receipts_to_forward.csv` | 301 receipt emails with IDs |
+| `TRAVEL_LOG_2025.md` | Complete travel log with flights, hotels, days by city |
 | `chase/*.pdf` | 11 Chase statements (Jan-Nov) |
 | `boa/*.pdf` | 12 BoA statements (Jan-Dec) |
 | `amex/activity.xlsx` | Amex transactions (226 items) |
