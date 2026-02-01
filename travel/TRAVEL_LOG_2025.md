@@ -10,10 +10,11 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 | Metric | Value |
 |--------|-------|
 | Total Delta Flights | 73+ |
-| Total Air Spend (Business) | ~$18,500 |
-| Total Air Spend (Personal) | ~$2,600 |
+| Total Air Spend (Business) | ~$20,700 |
+| Total Air Spend (Personal) | ~$400 |
 | Total Hotel Spend | $11,053 |
 | Medallion Status | Diamond (achieved Oct 2025) |
+| NeurIPS 2025 | San Diego Dec 2-7 (Alaska/Southwest flights + registration) |
 
 ### Days by Location
 
@@ -26,10 +27,10 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 | Seattle | Business | 3 | Apr 17-20 meetings |
 | Palo Alto | Business | 2 | Aug 13-15 meetings |
 | Phoenix | Business | 1 | Feb 15 meeting |
-| Boston | Personal | ~11 | PERSONAL - exclude |
+| Boston | Business | ~11 | Oct 30, Nov 5-11, Nov 16 trips |
 | Honolulu | Personal | ~2 | PERSONAL - exclude |
 
-**Total Business Travel Days: ~161 (44% of year away from home)**
+**Total Business Travel Days: ~172 (47% of year away from home)**
 
 ---
 
@@ -203,13 +204,13 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 
 | Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
 |------|-------|--------|--------|---------------|------|-------|
-| Oct 30 | SFO 5:30pm → SLC 8:31pm | DL1088 | HVQFXM | $438.19 | $428.20 | **PERSONAL - Boston** |
+| Oct 30 | SFO 5:30pm → SLC 8:31pm | DL1088 | HVQFXM | $438.19 | $428.20 | **BUSINESS - Boston** |
 | Oct 30 | SLC 11:59pm → BOS 6:40am+1 | DL696 | HVQFXM | (incl above) | - | eCredit $9.99 applied |
 
 **Hotels:**
 - Oct 12-17: Airbnb, San Mateo - $2,248
 
-**Oct Air (Personal): $438 | Hotels: $2,248**
+**Oct Air (Business): $438 | Hotels: $2,248**
 
 ---
 
@@ -217,8 +218,8 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 
 | Date | Route | Flight | Conf # | Ticket Amount | Paid | Notes |
 |------|-------|--------|--------|---------------|------|-------|
-| Nov 5-11 | BOS ↔ SFO | - | GBPCCI | ~$620 | - | **PERSONAL - Boston** |
-| Nov 16 | BOS → SFO | - | G28NQA | ~$1,155 | - | **PERSONAL - Boston** |
+| Nov 5-11 | BOS ↔ SFO | - | GBPCCI | ~$620 | - | **BUSINESS - Boston** |
+| Nov 16 | BOS → SFO | - | G28NQA | ~$1,155 | - | **BUSINESS - Boston** |
 | Nov 30 | JFK 9:40pm → SFO 1:12am+1 | DL1732 | HUTJH3 | $868.48 | $280.30 | eCredit $588.18 applied |
 
 **Hotels:**
@@ -227,7 +228,7 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 - Nov 20-23: The Timbri (Curio), SF - $555
 - Nov 23-26: The Stanford Court, SF - $417
 
-**Nov Business Air: $868 | Personal Air: ~$1,775 | Hotels: $1,909**
+**Nov Business Air: ~$2,643 (incl Boston trips) | Hotels: $1,909**
 
 ---
 
@@ -275,11 +276,17 @@ Compiled from airline receipts (Delta, Southwest, Alaska, Hawaiian) and hotel bo
 
 | Dates | Destination | Cost | Notes |
 |-------|-------------|------|-------|
-| Jan 4-5 | Honolulu, HI | ~$400 | New Year vacation |
-| Oct 30-31 | Boston, MA | $438 | HVQFXM - Personal trip |
-| Nov 5-11 | Boston, MA | $620 | GBPCCI - Personal trip |
-| Nov 16 | Boston → SF | $1,155 | G28NQA - Partial personal |
-| **Total** | | **~$2,613** | |
+| Jan 4-5 | Honolulu, HI | ~$400 | New Year vacation (Southwest + Hawaiian) |
+| **Total** | | **~$400** | |
+
+## Business Travel - Boston (Previously Miscategorized)
+
+| Dates | Destination | Cost | Notes |
+|-------|-------------|------|-------|
+| Oct 30-31 | Boston, MA | $438 | HVQFXM - Business trip |
+| Nov 5-11 | Boston, MA | $620 | GBPCCI - Business trip |
+| Nov 16 | Boston → SF | $288 | G28NQA - Business trip |
+| **Total** | | **~$1,346** | Now included in reimbursement |
 
 ---
 

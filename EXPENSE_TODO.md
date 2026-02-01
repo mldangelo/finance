@@ -1,134 +1,138 @@
-# Expense Reimbursement Todo List
+# Expense Reimbursement TODO List
 
-**Generated:** December 23, 2025
-**Status:** 750 expenses, $187,958.39
-
----
-
-## IMMEDIATE FIXES NEEDED
-
-### Data Corrections
-- [x] ~~Remove IKEA duplicate (08-23 Chase $3,032.24)~~ - DONE
-- [x] ~~Add missing GCP April charge ($14,500)~~ - DONE Dec 23
-- [x] ~~Add missing GCP July charge ($14,673)~~ - DONE Dec 23
-- [x] ~~Add 4 missing Anthropic charges (Nov 26 $1,500.72, Nov 29 $545.78, Dec 7 $435.75, Dec 10 $435.89)~~ - DONE Dec 23
-- [ ] Verify Claude.ai $1,088.75 is business expense (5 monthly charges)
-
-**Current total: $187,958.39 (750 expenses)**
+**Generated:** January 29, 2026
+**Total to Submit:** ~$209,500 (net new after excluding $32,995 already reimbursed via Ramp)
 
 ---
 
-## PHASE 1: Billing Portal Downloads ($28,889)
-*No email receipts exist - must download from portals manually*
+## Current Status
 
-| Priority | Merchant | Items | Amount | Portal URL | Status |
-|----------|----------|-------|--------|------------|--------|
-| 1 | Google Cloud | 16+ | $43,846 | console.cloud.google.com/billing | [ ] |
-| 2 | Anthropic API | 16 | $19,523 | console.anthropic.com/settings/billing | [ ] |
-| 3 | Comcast/Xfinity | 4 | $1,027 | business.comcast.com/myaccount | [ ] |
-| 4 | OpenAI | 4 | $871 | platform.openai.com/account/billing | [ ] |
-| 5 | Zoom | 7 | $552 | zoom.us/account/billing | [ ] |
-
-**Action:** Download PDF invoices for each month and forward to receipts@ramp.com
+| Status | Items | Amount | Action |
+|--------|-------|--------|--------|
+| **Ready (found + photo)** | 260 | $197,637 | Submit now |
+| **Email forwarding needed** | 205 | $19,211 | Forward to expense system |
+| **Portal download needed** | 420 | $25,814 | Download from vendor portals |
 
 ---
 
-## PHASE 2: Forward Critical Email Receipts ($17,740)
-*Forward these 6 emails to receipts@ramp.com FIRST*
+## CRITICAL - Before Submission
 
-| Email ID | Date | Merchant | Amount | Status |
-|----------|------|----------|--------|--------|
-| `19b304f1cb8d562d` | Dec 18 | Delta | $607.97 | [ ] |
-| `19a11085fd1c3440` | Oct 23 | Vanta Q4 | $3,500 | [ ] |
-| `1983c5ca0a64501d` | Jul 24 | Vanta Q3 | $3,500 | [ ] |
-| `19689cdd543bccbd` | May 01 | Vanta Q2 | $3,500 | [ ] |
-| `194b87d9fdc26529` | Jan 30 | Vanta Q1 | $3,500 | [ ] |
-| `198d8e2dce71047b` | Aug 23 | IKEA | $3,032 | [ ] |
+- [ ] **Exclude 6 already-reimbursed items** ($32,995 via Ramp)
+- [ ] **Verify UPLIFT Desk** ($3,282.17) - Confirm payment method
+- [ ] **Verify 1Password** ($149.85) - Confirm payment method
 
 ---
 
-## PHASE 3: Forward High Priority Receipts (~$15,000)
+## HIGH PRIORITY - Download from Portals
 
-### Delta Flights (68 receipts)
-- [ ] Forward all from DeltaAirLines@t.delta.com
-- Gmail: `from:DeltaAirLines@t.delta.com subject:"Flight Receipt" 2025`
+### 1. Anthropic API Invoices - 3 missing ($1,417)
+**Portal:** console.anthropic.com → Billing → Invoices
+- [ ] Nov 29, 2025 - $545.78
+- [ ] Dec 7, 2025 - $435.75
+- [ ] Dec 10, 2025 - $435.89
 
-### Apple Equipment/Subscriptions (50 receipts)
-- [ ] Forward from no_reply@email.apple.com
-- Gmail: `from:no_reply@email.apple.com subject:receipt 2025`
+*Note: May be from different billing account than the 15 already reconciled*
 
-### Wellfound Recruit Pro (10 receipts)
-- [ ] Forward monthly invoices ($149/mo)
-- Gmail: `from:wellfound invoice 2025`
+### 2. Comcast/Xfinity Bills - 5 statements ($1,246)
+**Portal:** xfinity.com → Account → Billing → View Statements
+- [ ] Download 5 monthly billing statements
 
-### Sentry (13 receipts)
-- [ ] Forward Promptfoo subscription receipts
-- Gmail: `from:getsentry.com 2025`
+### 3. OpenAI Receipts - 5 invoices ($1,089)
+**Portal:** platform.openai.com → Settings → Billing
+- [ ] Download 5 ChatGPT Plus subscription receipts
 
----
+### 4. Claude.ai Subscriptions - 3 receipts ($653)
+**Portal:** console.anthropic.com (personal account)
+- [ ] Download 3 Pro subscription receipts
 
-## PHASE 4: Match Rideshare Receipts ($5,000)
+### 5. Hotels.com Confirmations - 3 bookings ($983)
+**Check email or portal:** hotels.com account
+- [ ] Dec 8 - Club Quarters Hotel $448.20
+- [ ] Dec 18 - Club Quarters Hotel $102.63
+- [ ] Dec 19 - Hotel Booking $431.94
 
-### DoorDash (78 items, $3,766)
-- [ ] Search: `from:doordash.com receipt 2025`
-- [ ] Match dates/amounts to expenses
-- [ ] Forward matched receipts
+### 6. Pausa Bar Team Dinner ($1,225)
+- [ ] Request itemized receipt from venue, OR use CC statement as backup
 
-### Lyft (23 items, $813)
-- [ ] Search: `from:lyftmail.com 2025`
-- [ ] Match and forward
-
-### Uber (18 items, $380)
-- [ ] Search: `from:uber.com ride receipt 2025`
-- [ ] Match and forward
-
----
-
-## PHASE 5: CC Statement Backup ($4,200)
-*No email receipts - use CC statement as backup*
-
-| Merchant | Items | Amount | Status |
-|----------|-------|--------|--------|
-| Pausa Bar | 1 | $1,225 | [ ] |
-| Chase Travel | 1 | $484 | [ ] |
-| Mitr Thai | 1 | $459 | [ ] |
-| Garaje | 7 | $437 | [ ] |
-| Gyu-Kaku | 1 | $357 | [ ] |
-| Other restaurants | 20 | $1,238 | [ ] |
-
-**Action:** Export Chase statement, highlight transactions, forward to Ramp
+### 7. Zoom - 3 remaining ($367)
+**Portal:** zoom.us → Account → Billing
+- [ ] Download 3 additional invoices not yet reconciled
 
 ---
 
-## SUMMARY
+## MEDIUM PRIORITY - Forward Email Receipts
 
-| Phase | Action | Amount | Priority | Status |
-|-------|--------|--------|----------|--------|
-| Fixes | Add missing GCP/Anthropic | +$32,091 | CRITICAL | ✅ DONE |
-| 1 | Billing portal downloads | $65,800 | HIGH | Pending |
-| 2 | Critical email receipts | $17,740 | HIGH | Pending |
-| 3 | High priority emails | ~$15,000 | MEDIUM | Pending |
-| 4 | Rideshare matching | $5,000 | MEDIUM | Pending |
-| 5 | CC statement backup | $4,200 | LOW | Pending |
+Forward these emails to your expense system (receipts@ramp.com or similar):
+
+| Vendor | Gmail Search | Items | Amount |
+|--------|--------------|-------|--------|
+| **Amazon** | `from:auto-confirm@amazon.com` | 39 | $5,282 |
+| **DoorDash** | `from:no-reply@doordash.com` | 113 | $4,403 |
+| **Apple** | `from:no_reply@email.apple.com subject:receipt` | 5 | $3,324 |
+| **IKEA** | `from:ikea` | 1 | $3,032 |
+| **Lyft** | `from:ride-receipts@lyft.com` | 17 | $920 |
+| **Airbnb** | `from:airbnb` | 1 | $614 |
+| **Uber** | `from:uber.com` | 19 | $577 |
+| **Delta** | `from:delta subject:receipt` | 2 | $563 |
+
+**Total email forwards:** 197 emails, ~$18,715
 
 ---
 
-## FILES REFERENCE
+## LOW PRIORITY - Remaining Items
+
+| Category | Items | Amount | Notes |
+|----------|-------|--------|-------|
+| DoorDash (pending) | 78 | $3,766 | Forward email receipts |
+| Lyft | 23 | $813 | Forward email receipts |
+| Uber | 17 | $356 | Forward email receipts |
+| UseTusk.AI | 4 | $500 | Download from portal |
+| Restaurants | ~50 | ~$2,000 | Use CC statements as backup |
+
+---
+
+## DO NOT RESUBMIT - Already Reimbursed via Ramp
+
+| Date | Item | Amount |
+|------|------|--------|
+| Jan 30, 2025 | Vanta | $3,500.00 |
+| Mar 14, 2025 | Wellfound | $149.00 |
+| Apr 14, 2025 | Wellfound | $149.00 |
+| May 28, 2025 | DoorDash | $23.62 |
+| Apr 1, 2025 | Google Cloud | $14,500.00 |
+| Jul 1, 2025 | Google Cloud | $14,673.00 |
+| **TOTAL** | | **$32,994.62** |
+
+---
+
+## Completed Today (Jan 29)
+
+- [x] Zoom invoices reconciled - 8 invoices ($3,887), added 1 missing entry
+- [x] Delta receipts found in Gmail - 5 receipts ($2,234) matched and linked
+- [x] Receipt status audit updated
+
+---
+
+## Quick Action Summary
+
+| Priority | Action | Est. Value |
+|----------|--------|------------|
+| 1 | Forward Amazon emails (39) | $5,282 |
+| 2 | Forward DoorDash emails (113) | $4,403 |
+| 3 | Download Anthropic invoices (3) | $1,417 |
+| 4 | Download Comcast statements (5) | $1,246 |
+| 5 | Download OpenAI receipts (5) | $1,089 |
+| 6 | Get Pausa Bar receipt | $1,225 |
+
+---
+
+## Files Reference
 
 | File | Purpose |
 |------|---------|
-| `expenses_to_submit.csv` | Master expense list (750 items, $187,958) |
-| `receipts_to_forward.csv` | 301 receipt emails with IDs |
-| `TRAVEL_LOG_2025.md` | Complete travel log with flights, hotels, days by city |
-| `chase/*.pdf` | 11 Chase statements (Jan-Nov) |
-| `boa/*.pdf` | 12 BoA statements (Jan-Dec) |
-| `amex/activity.xlsx` | Amex transactions (226 items) |
-
----
-
-## NOTES
-
-1. **GCP has no email receipts** - Must download from console.cloud.google.com
-2. **Anthropic API vs Claude.ai** - API charges ($19.5K) are different from Claude.ai subscription ($1K)
-3. **IKEA duplicate removed** - Was double-counted on both Chase and Amex
-4. **Statement cutoff** - Chase data ends Nov 17, some Dec expenses unverifiable
+| `expenses_to_submit.csv` | Master expense list (886 items) |
+| `EXPENSE_AUDIT_REPORT.md` | Comprehensive audit findings |
+| `receipts/anthropic_invoices/` | 15 Anthropic PDFs + reconciliation report |
+| `receipts/zoom_invoices/` | 8 Zoom PDFs + reconciliation report |
+| `receipts/google_cloud/` | 10 GCP invoice PDFs |
+| `TRAVEL_LOG_2025.md` | Complete travel log |
